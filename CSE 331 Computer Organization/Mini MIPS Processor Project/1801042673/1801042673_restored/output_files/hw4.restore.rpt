@@ -1,0 +1,110 @@
+Restore Archived Project report for hw4
+Sun Jan 23 22:49:13 2022
+Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Sun Jan 23 22:49:13 2022 ;
+; Revision Name                   ; hw4                                   ;
+; Top-level Entity Name           ; _32bit_SLT                            ;
+; Family                          ; Cyclone III                           ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673.qar' into the 'C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/' directory
+Info: Generated report 'hw4.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/alltera/13.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 64-Bit Shell was successful. 0 errors, 38 warnings
+    Info: Peak virtual memory: 4413 megabytes
+    Info: Processing ended: Sun Jan 23 22:49:13 2022
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:00
+
+
++----------------+
+; Files Restored ;
++----------------+
+; File Name      ;
++----------------+
+
+
++------------------------------------------------+
+; Files Not Restored                             ;
++------------------------------------------------+
+; File Name                                      ;
++------------------------------------------------+
+; ALU.v                                          ;
+; ALUControl.v                                   ;
+; ALUControl_testbench.v                         ;
+; ALU_testbench.v                                ;
+; MiniMIPS.v                                     ;
+; MiniMIPS_testbench.v                           ;
+; _1bit_2x1MUX.v                                 ;
+; _32bit_2x1MUX.v                                ;
+; _32bit_4x1MUX.v                                ;
+; _32bit_8x1MUX.v                                ;
+; _32bit_ADD.v                                   ;
+; _32bit_AND.v                                   ;
+; _32bit_NOR.v                                   ;
+; _32bit_OR.v                                    ;
+; _32bit_SLT.v                                   ;
+; _32bit_SLT_testbench.v                         ;
+; _32bit_SUB.v                                   ;
+; _32bit_XOR.v                                   ;
+; _32bit_comparator.v                            ;
+; _32bit_comparator_testbench.v                  ;
+; _3bit_2x1MUX.v                                 ;
+; controller.v                                   ;
+; controller_testbench.v                         ;
+; dataBlock.v                                    ;
+; dataBlock_testbench.v                          ;
+; db/hw4.db_info                                 ;
+; full_adder.v                                   ;
+; half_adder.v                                   ;
+; hw4.qpf                                        ;
+; hw4.qsf                                        ;
+; incremental_db/compiled_partitions/hw4.db_info ;
+; registerBlock.v                                ;
+; registerBlock_testbench.v                      ;
+; registers.txt                                  ;
+; signExt6to32.v                                 ;
+; signExt6to32_testbench.v                       ;
+; assignment_defaults.qdf                        ;
++------------------------------------------------+
+
+

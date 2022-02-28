@@ -1,0 +1,170 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Lenovo\Desktop\OKUL\3 Fall\331 Computer Organization\HW4\1801042673\1801042673_restored\simulation\modelsim
+v_32bit_ADD
+IET9d=Y^`5j:JJc3GEzgYn2
+VQSG^hTJ?k:=d><m5[i^j23
+Z1 dC:\Users\Lenovo\Desktop\OKUL\3 Fall\331 Computer Organization\HW4\1801042673\1801042673_restored\simulation\modelsim
+w1640845745
+8C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_ADD.v
+FC:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_ADD.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work {+incdir+C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored} -O0
+n@_32bit_@a@d@d
+!i10b 1
+!s100 lG2jI>MEPzPK:=fQSVz[U2
+!s85 0
+!s108 1641658217.492000
+!s107 C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_ADD.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored|C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_ADD.v|
+!s101 -O0
+v_32bit_OR
+I5nb_D33c`413WoBLDRPTY2
+VLn:?PM5HFTaFX[i3i;hNm3
+R1
+w1640845555
+8C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_OR.v
+FC:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_OR.v
+L0 1
+R2
+r1
+31
+R3
+n@_32bit_@o@r
+R4
+!i10b 1
+!s100 l:QB?V;54cz2?V=5<AY8>0
+!s85 0
+!s108 1641658217.142000
+!s107 C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_OR.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored|C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_OR.v|
+!s101 -O0
+v_32bit_SLT
+IGZYA^U>Tmd_j:@JKeU]Tb3
+V[5ePK54`m>e<z?KkE=[352
+R1
+w1641658273
+8C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_SLT.v
+FC:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_SLT.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@_32bit_@s@l@t
+!i10b 1
+!s100 90`jESC`d@mJ8h<z`MY>K1
+!s85 0
+!s108 1641658277.666000
+!s107 C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_SLT.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored|-O0|C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_SLT.v|
+!s101 -O0
+v_32bit_SLT_testbench
+!i10b 1
+!s100 GO;2[U`[>Mzc2UK5KGl390
+IeTP7a[`Ill;W4URJlE:VP2
+VniFDJ<icjmc3X6?<Eia3C1
+R1
+w1641657880
+8C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_SLT_testbench.v
+FC:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_SLT_testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1641658279.897000
+!s107 C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_SLT_testbench.v|
+!s90 -reportprogress|300|-work|work|-O0|C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_SLT_testbench.v|
+!s101 -O0
+o-work work -O0
+n@_32bit_@s@l@t_testbench
+v_32bit_SUB
+ILN1@X?a`3l1:bPYKio42`3
+VKU0DZYFDzC^LIHWE@N=zz2
+R1
+w1640846658
+8C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_SUB.v
+FC:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_SUB.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@_32bit_@s@u@b
+!i10b 1
+!s100 zB=;@_Gh^hGO<TUgg1C`21
+!s85 0
+!s108 1641658217.435000
+!s107 C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_SUB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored|C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_SUB.v|
+!s101 -O0
+v_32bit_XOR
+IA=IJjldS8oI9nUn?`C2[c0
+VWlJEg2KKUbh_nJ>LlDm[e0
+R1
+w1640845804
+8C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_XOR.v
+FC:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_XOR.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@_32bit_@x@o@r
+!i10b 1
+!s100 JNdA7M3Lh=DN0a6X3CdBf1
+!s85 0
+!s108 1641658217.552000
+!s107 C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_XOR.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored|C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_XOR.v|
+!s101 -O0
+vfull_adder
+IDkd9Ea;MGL>ea8IlPG]ET3
+VRYP>nD9R>G8ML@J?Oi=:32
+R1
+w1640845636
+8C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/full_adder.v
+FC:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/full_adder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 84`LW69<]5<j?n7IHQ3Bo3
+!s85 0
+!s108 1641658217.314000
+!s107 C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/full_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored|C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/full_adder.v|
+!s101 -O0
+vhalf_adder
+IRY966z5mD>3XQ1kAfaMXJ2
+VUANSHBM`n;lleGcSze4Z^1
+R1
+w1640845652
+8C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/half_adder.v
+FC:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/half_adder.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 3U@gAJO0;nKEcQBA1`hJE0
+!s85 0
+!s108 1641658217.375000
+!s107 C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/half_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored|C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/half_adder.v|
+!s101 -O0

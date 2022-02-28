@@ -1,0 +1,789 @@
+Analysis & Synthesis report for hw4
+Sun Jan 23 22:49:57 2022
+Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Analysis & Synthesis Summary
+  3. Analysis & Synthesis Settings
+  4. Parallel Compilation
+  5. Analysis & Synthesis Source Files Read
+  6. Analysis & Synthesis Resource Usage Summary
+  7. Analysis & Synthesis Resource Utilization by Entity
+  8. Registers Removed During Synthesis
+  9. General Register Statistics
+ 10. Multiplexer Restructuring Statistics (Restructuring Performed)
+ 11. Port Connectivity Checks: "_32bit_ADD:addermux2"
+ 12. Port Connectivity Checks: "_32bit_ADD:addermux1"
+ 13. Port Connectivity Checks: "ALU:alu|_32bit_8x1MUX:g8"
+ 14. Port Connectivity Checks: "ALU:alu|_32bit_SLT:g6|_32bit_OR:c1"
+ 15. Port Connectivity Checks: "ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0"
+ 16. Port Connectivity Checks: "ALU:alu|_32bit_SLT:g6"
+ 17. Port Connectivity Checks: "ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1"
+ 18. Port Connectivity Checks: "ALU:alu|_32bit_SUB:g2|_32bit_XOR:g0"
+ 19. Port Connectivity Checks: "ALU:alu|_32bit_ADD:g1|full_adder:FA31"
+ 20. Port Connectivity Checks: "ALU:alu|_32bit_ADD:g1"
+ 21. Port Connectivity Checks: "signExt6to32:signEx|_32bit_2x1MUX:g0"
+ 22. Port Connectivity Checks: "controller:control"
+ 23. Elapsed Time Per Partition
+ 24. Analysis & Synthesis Messages
+ 25. Analysis & Synthesis Suppressed Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++---------------------------------------------------------------------------------+
+; Analysis & Synthesis Summary                                                    ;
++------------------------------------+--------------------------------------------+
+; Analysis & Synthesis Status        ; Successful - Sun Jan 23 22:49:57 2022      ;
+; Quartus II 64-Bit Version          ; 13.1.0 Build 162 10/23/2013 SJ Web Edition ;
+; Revision Name                      ; hw4                                        ;
+; Top-level Entity Name              ; MiniMIPS                                   ;
+; Family                             ; Cyclone III                                ;
+; Total logic elements               ; 14,913                                     ;
+;     Total combinational functions  ; 6,561                                      ;
+;     Dedicated logic registers      ; 8,448                                      ;
+; Total registers                    ; 8448                                       ;
+; Total pins                         ; 49                                         ;
+; Total virtual pins                 ; 0                                          ;
+; Total memory bits                  ; 0                                          ;
+; Embedded Multiplier 9-bit elements ; 0                                          ;
+; Total PLLs                         ; 0                                          ;
++------------------------------------+--------------------------------------------+
+
+
++----------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Settings                                                                                        ;
++----------------------------------------------------------------------------+--------------------+--------------------+
+; Option                                                                     ; Setting            ; Default Value      ;
++----------------------------------------------------------------------------+--------------------+--------------------+
+; Device                                                                     ; EP3C16F484C6       ;                    ;
+; Top-level entity name                                                      ; MiniMIPS           ; hw4                ;
+; Family name                                                                ; Cyclone III        ; Cyclone IV GX      ;
+; Use smart compilation                                                      ; Off                ; Off                ;
+; Enable parallel Assembler and TimeQuest Timing Analyzer during compilation ; On                 ; On                 ;
+; Enable compact report table                                                ; Off                ; Off                ;
+; Restructure Multiplexers                                                   ; Auto               ; Auto               ;
+; Create Debugging Nodes for IP Cores                                        ; Off                ; Off                ;
+; Preserve fewer node names                                                  ; On                 ; On                 ;
+; Disable OpenCore Plus hardware evaluation                                  ; Off                ; Off                ;
+; Verilog Version                                                            ; Verilog_2001       ; Verilog_2001       ;
+; VHDL Version                                                               ; VHDL_1993          ; VHDL_1993          ;
+; State Machine Processing                                                   ; Auto               ; Auto               ;
+; Safe State Machine                                                         ; Off                ; Off                ;
+; Extract Verilog State Machines                                             ; On                 ; On                 ;
+; Extract VHDL State Machines                                                ; On                 ; On                 ;
+; Ignore Verilog initial constructs                                          ; Off                ; Off                ;
+; Iteration limit for constant Verilog loops                                 ; 5000               ; 5000               ;
+; Iteration limit for non-constant Verilog loops                             ; 250                ; 250                ;
+; Add Pass-Through Logic to Inferred RAMs                                    ; On                 ; On                 ;
+; Infer RAMs from Raw Logic                                                  ; On                 ; On                 ;
+; Parallel Synthesis                                                         ; On                 ; On                 ;
+; DSP Block Balancing                                                        ; Auto               ; Auto               ;
+; NOT Gate Push-Back                                                         ; On                 ; On                 ;
+; Power-Up Don't Care                                                        ; On                 ; On                 ;
+; Remove Redundant Logic Cells                                               ; Off                ; Off                ;
+; Remove Duplicate Registers                                                 ; On                 ; On                 ;
+; Ignore CARRY Buffers                                                       ; Off                ; Off                ;
+; Ignore CASCADE Buffers                                                     ; Off                ; Off                ;
+; Ignore GLOBAL Buffers                                                      ; Off                ; Off                ;
+; Ignore ROW GLOBAL Buffers                                                  ; Off                ; Off                ;
+; Ignore LCELL Buffers                                                       ; Off                ; Off                ;
+; Ignore SOFT Buffers                                                        ; On                 ; On                 ;
+; Limit AHDL Integers to 32 Bits                                             ; Off                ; Off                ;
+; Optimization Technique                                                     ; Balanced           ; Balanced           ;
+; Carry Chain Length                                                         ; 70                 ; 70                 ;
+; Auto Carry Chains                                                          ; On                 ; On                 ;
+; Auto Open-Drain Pins                                                       ; On                 ; On                 ;
+; Perform WYSIWYG Primitive Resynthesis                                      ; Off                ; Off                ;
+; Auto ROM Replacement                                                       ; On                 ; On                 ;
+; Auto RAM Replacement                                                       ; On                 ; On                 ;
+; Auto DSP Block Replacement                                                 ; On                 ; On                 ;
+; Auto Shift Register Replacement                                            ; Auto               ; Auto               ;
+; Allow Shift Register Merging across Hierarchies                            ; Auto               ; Auto               ;
+; Auto Clock Enable Replacement                                              ; On                 ; On                 ;
+; Strict RAM Replacement                                                     ; Off                ; Off                ;
+; Allow Synchronous Control Signals                                          ; On                 ; On                 ;
+; Force Use of Synchronous Clear Signals                                     ; Off                ; Off                ;
+; Auto RAM Block Balancing                                                   ; On                 ; On                 ;
+; Auto RAM to Logic Cell Conversion                                          ; Off                ; Off                ;
+; Auto Resource Sharing                                                      ; Off                ; Off                ;
+; Allow Any RAM Size For Recognition                                         ; Off                ; Off                ;
+; Allow Any ROM Size For Recognition                                         ; Off                ; Off                ;
+; Allow Any Shift Register Size For Recognition                              ; Off                ; Off                ;
+; Use LogicLock Constraints during Resource Balancing                        ; On                 ; On                 ;
+; Ignore translate_off and synthesis_off directives                          ; Off                ; Off                ;
+; Timing-Driven Synthesis                                                    ; On                 ; On                 ;
+; Report Parameter Settings                                                  ; On                 ; On                 ;
+; Report Source Assignments                                                  ; On                 ; On                 ;
+; Report Connectivity Checks                                                 ; On                 ; On                 ;
+; Ignore Maximum Fan-Out Assignments                                         ; Off                ; Off                ;
+; Synchronization Register Chain Length                                      ; 2                  ; 2                  ;
+; PowerPlay Power Optimization                                               ; Normal compilation ; Normal compilation ;
+; HDL message level                                                          ; Level2             ; Level2             ;
+; Suppress Register Optimization Related Messages                            ; Off                ; Off                ;
+; Number of Removed Registers Reported in Synthesis Report                   ; 5000               ; 5000               ;
+; Number of Swept Nodes Reported in Synthesis Report                         ; 5000               ; 5000               ;
+; Number of Inverted Registers Reported in Synthesis Report                  ; 100                ; 100                ;
+; Clock MUX Protection                                                       ; On                 ; On                 ;
+; Auto Gated Clock Conversion                                                ; Off                ; Off                ;
+; Block Design Naming                                                        ; Auto               ; Auto               ;
+; SDC constraint protection                                                  ; Off                ; Off                ;
+; Synthesis Effort                                                           ; Auto               ; Auto               ;
+; Shift Register Replacement - Allow Asynchronous Clear Signal               ; On                 ; On                 ;
+; Pre-Mapping Resynthesis Optimization                                       ; Off                ; Off                ;
+; Analysis & Synthesis Message Level                                         ; Medium             ; Medium             ;
+; Disable Register Merging Across Hierarchies                                ; Auto               ; Auto               ;
+; Resource Aware Inference For Block RAM                                     ; On                 ; On                 ;
+; Synthesis Seed                                                             ; 1                  ; 1                  ;
++----------------------------------------------------------------------------+--------------------+--------------------+
+
+
+Parallel compilation was disabled, but you have multiple processors available. Enable parallel compilation to reduce compilation time.
++-------------------------------------+
+; Parallel Compilation                ;
++----------------------------+--------+
+; Processors                 ; Number ;
++----------------------------+--------+
+; Number detected on machine ; 8      ;
+; Maximum allowed            ; 1      ;
++----------------------------+--------+
+
+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Source Files Read                                                                                                                                                                       ;
++----------------------------------+-----------------+------------------------+----------------------------------------------------------------------------------------------------------------------+---------+
+; File Name with User-Entered Path ; Used in Netlist ; File Type              ; File Name with Absolute Path                                                                                         ; Library ;
++----------------------------------+-----------------+------------------------+----------------------------------------------------------------------------------------------------------------------+---------+
+; _32bit_AND.v                     ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_AND.v        ;         ;
+; _32bit_OR.v                      ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_OR.v         ;         ;
+; full_adder.v                     ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/full_adder.v        ;         ;
+; half_adder.v                     ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/half_adder.v        ;         ;
+; _32bit_SUB.v                     ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_SUB.v        ;         ;
+; _32bit_ADD.v                     ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_ADD.v        ;         ;
+; _32bit_XOR.v                     ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_XOR.v        ;         ;
+; _32bit_NOR.v                     ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_NOR.v        ;         ;
+; _32bit_comparator.v              ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_comparator.v ;         ;
+; _32bit_SLT.v                     ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_SLT.v        ;         ;
+; _32bit_2x1MUX.v                  ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_2x1MUX.v     ;         ;
+; _32bit_4x1MUX.v                  ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_4x1MUX.v     ;         ;
+; _32bit_8x1MUX.v                  ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_32bit_8x1MUX.v     ;         ;
+; ALU.v                            ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/ALU.v               ;         ;
+; ALUControl.v                     ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/ALUControl.v        ;         ;
+; registerBlock.v                  ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/registerBlock.v     ;         ;
+; dataBlock.v                      ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/dataBlock.v         ;         ;
+; controller.v                     ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/controller.v        ;         ;
+; _3bit_2x1MUX.v                   ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_3bit_2x1MUX.v      ;         ;
+; signExt6to32.v                   ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/signExt6to32.v      ;         ;
+; MiniMIPS.v                       ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/MiniMIPS.v          ;         ;
+; _1bit_2x1MUX.v                   ; yes             ; User Verilog HDL File  ; C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/_1bit_2x1MUX.v      ;         ;
++----------------------------------+-----------------+------------------------+----------------------------------------------------------------------------------------------------------------------+---------+
+
+
++---------------------------------------------------------+
+; Analysis & Synthesis Resource Usage Summary             ;
++---------------------------------------------+-----------+
+; Resource                                    ; Usage     ;
++---------------------------------------------+-----------+
+; Estimated Total logic elements              ; 14,913    ;
+;                                             ;           ;
+; Total combinational functions               ; 6561      ;
+; Logic element usage by number of LUT inputs ;           ;
+;     -- 4 input functions                    ; 6105      ;
+;     -- 3 input functions                    ; 398       ;
+;     -- <=2 input functions                  ; 58        ;
+;                                             ;           ;
+; Logic elements by mode                      ;           ;
+;     -- normal mode                          ; 6561      ;
+;     -- arithmetic mode                      ; 0         ;
+;                                             ;           ;
+; Total registers                             ; 8448      ;
+;     -- Dedicated logic registers            ; 8448      ;
+;     -- I/O registers                        ; 0         ;
+;                                             ;           ;
+; I/O pins                                    ; 49        ;
+; Embedded Multiplier 9-bit elements          ; 0         ;
+; Maximum fan-out node                        ; clk~input ;
+; Maximum fan-out                             ; 8448      ;
+; Total fan-out                               ; 51123     ;
+; Average fan-out                             ; 3.38      ;
++---------------------------------------------+-----------+
+
+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Resource Utilization by Entity                                                                                                                                                                                                                      ;
++-------------------------------------------+-------------------+--------------+-------------+--------------+---------+-----------+------+--------------+---------------------------------------------------------------------------------------------------+--------------+
+; Compilation Hierarchy Node                ; LC Combinationals ; LC Registers ; Memory Bits ; DSP Elements ; DSP 9x9 ; DSP 18x18 ; Pins ; Virtual Pins ; Full Hierarchy Name                                                                               ; Library Name ;
++-------------------------------------------+-------------------+--------------+-------------+--------------+---------+-----------+------+--------------+---------------------------------------------------------------------------------------------------+--------------+
+; |MiniMIPS                                 ; 6561 (1)          ; 8448 (32)    ; 0           ; 0            ; 0       ; 0         ; 49   ; 0            ; |MiniMIPS                                                                                         ; work         ;
+;    |ALU:alu|                              ; 227 (0)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu                                                                                 ; work         ;
+;       |_32bit_8x1MUX:g8|                  ; 57 (0)            ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_8x1MUX:g8                                                                ; work         ;
+;          |_32bit_2x1MUX:g2|               ; 30 (30)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_8x1MUX:g8|_32bit_2x1MUX:g2                                               ; work         ;
+;          |_32bit_4x1MUX:g1|               ; 27 (0)            ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_8x1MUX:g8|_32bit_4x1MUX:g1                                               ; work         ;
+;             |_32bit_2x1MUX:mux1|          ; 27 (27)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_8x1MUX:g8|_32bit_4x1MUX:g1|_32bit_2x1MUX:mux1                            ; work         ;
+;       |_32bit_ADD:g1|                     ; 42 (0)            ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1                                                                   ; work         ;
+;          |full_adder:FA10|                ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA10                                                   ; work         ;
+;          |full_adder:FA11|                ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA11                                                   ; work         ;
+;             |half_adder:second_sum|       ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA11|half_adder:second_sum                             ; work         ;
+;          |full_adder:FA12|                ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA12                                                   ; work         ;
+;          |full_adder:FA13|                ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA13                                                   ; work         ;
+;             |half_adder:second_sum|       ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA13|half_adder:second_sum                             ; work         ;
+;          |full_adder:FA14|                ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA14                                                   ; work         ;
+;          |full_adder:FA15|                ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA15                                                   ; work         ;
+;             |half_adder:second_sum|       ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA15|half_adder:second_sum                             ; work         ;
+;          |full_adder:FA16|                ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA16                                                   ; work         ;
+;          |full_adder:FA17|                ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA17                                                   ; work         ;
+;             |half_adder:second_sum|       ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA17|half_adder:second_sum                             ; work         ;
+;          |full_adder:FA18|                ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA18                                                   ; work         ;
+;          |full_adder:FA19|                ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA19                                                   ; work         ;
+;             |half_adder:second_sum|       ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA19|half_adder:second_sum                             ; work         ;
+;          |full_adder:FA1|                 ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA1                                                    ; work         ;
+;             |half_adder:second_sum|       ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA1|half_adder:second_sum                              ; work         ;
+;          |full_adder:FA20|                ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA20                                                   ; work         ;
+;          |full_adder:FA21|                ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA21                                                   ; work         ;
+;             |half_adder:second_sum|       ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA21|half_adder:second_sum                             ; work         ;
+;          |full_adder:FA22|                ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA22                                                   ; work         ;
+;          |full_adder:FA23|                ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA23                                                   ; work         ;
+;             |half_adder:second_sum|       ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA23|half_adder:second_sum                             ; work         ;
+;          |full_adder:FA24|                ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA24                                                   ; work         ;
+;          |full_adder:FA25|                ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA25                                                   ; work         ;
+;             |half_adder:second_sum|       ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA25|half_adder:second_sum                             ; work         ;
+;          |full_adder:FA26|                ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA26                                                   ; work         ;
+;          |full_adder:FA27|                ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA27                                                   ; work         ;
+;             |half_adder:second_sum|       ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA27|half_adder:second_sum                             ; work         ;
+;          |full_adder:FA28|                ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA28                                                   ; work         ;
+;          |full_adder:FA29|                ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA29                                                   ; work         ;
+;          |full_adder:FA2|                 ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA2                                                    ; work         ;
+;          |full_adder:FA3|                 ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA3                                                    ; work         ;
+;          |full_adder:FA4|                 ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA4                                                    ; work         ;
+;          |full_adder:FA5|                 ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA5                                                    ; work         ;
+;             |half_adder:second_sum|       ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA5|half_adder:second_sum                              ; work         ;
+;          |full_adder:FA6|                 ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA6                                                    ; work         ;
+;          |full_adder:FA7|                 ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA7                                                    ; work         ;
+;             |half_adder:second_sum|       ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA7|half_adder:second_sum                              ; work         ;
+;          |full_adder:FA8|                 ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA8                                                    ; work         ;
+;          |full_adder:FA9|                 ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA9                                                    ; work         ;
+;             |half_adder:second_sum|       ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_ADD:g1|full_adder:FA9|half_adder:second_sum                              ; work         ;
+;       |_32bit_AND:g0|                     ; 27 (27)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_AND:g0                                                                   ; work         ;
+;       |_32bit_NOR:g4|                     ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_NOR:g4                                                                   ; work         ;
+;       |_32bit_SLT:g6|                     ; 43 (0)            ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6                                                                   ; work         ;
+;          |_32bit_SUB:c0|                  ; 43 (0)            ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0                                                     ; work         ;
+;             |_32bit_ADD:g1|               ; 43 (0)            ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1                                       ; work         ;
+;                |full_adder:FA0|           ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA0                        ; work         ;
+;                |full_adder:FA10|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA10                       ; work         ;
+;                |full_adder:FA11|          ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA11                       ; work         ;
+;                   |half_adder:first_sum|  ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA11|half_adder:first_sum  ; work         ;
+;                   |half_adder:second_sum| ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA11|half_adder:second_sum ; work         ;
+;                |full_adder:FA12|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA12                       ; work         ;
+;                |full_adder:FA13|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA13                       ; work         ;
+;                |full_adder:FA14|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA14                       ; work         ;
+;                |full_adder:FA15|          ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA15                       ; work         ;
+;                   |half_adder:first_sum|  ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA15|half_adder:first_sum  ; work         ;
+;                   |half_adder:second_sum| ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA15|half_adder:second_sum ; work         ;
+;                |full_adder:FA16|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA16                       ; work         ;
+;                |full_adder:FA17|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA17                       ; work         ;
+;                |full_adder:FA18|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA18                       ; work         ;
+;                |full_adder:FA19|          ; 3 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA19                       ; work         ;
+;                   |half_adder:first_sum|  ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA19|half_adder:first_sum  ; work         ;
+;                   |half_adder:second_sum| ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA19|half_adder:second_sum ; work         ;
+;                |full_adder:FA20|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA20                       ; work         ;
+;                |full_adder:FA21|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA21                       ; work         ;
+;                |full_adder:FA22|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA22                       ; work         ;
+;                |full_adder:FA23|          ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA23                       ; work         ;
+;                   |half_adder:first_sum|  ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA23|half_adder:first_sum  ; work         ;
+;                   |half_adder:second_sum| ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA23|half_adder:second_sum ; work         ;
+;                |full_adder:FA24|          ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA24                       ; work         ;
+;                   |half_adder:first_sum|  ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA24|half_adder:first_sum  ; work         ;
+;                |full_adder:FA25|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA25                       ; work         ;
+;                |full_adder:FA26|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA26                       ; work         ;
+;                |full_adder:FA27|          ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA27                       ; work         ;
+;                   |half_adder:first_sum|  ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA27|half_adder:first_sum  ; work         ;
+;                   |half_adder:second_sum| ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA27|half_adder:second_sum ; work         ;
+;                |full_adder:FA28|          ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA28                       ; work         ;
+;                   |half_adder:first_sum|  ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA28|half_adder:first_sum  ; work         ;
+;                |full_adder:FA2|           ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA2                        ; work         ;
+;                   |half_adder:first_sum|  ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA2|half_adder:first_sum   ; work         ;
+;                   |half_adder:second_sum| ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA2|half_adder:second_sum  ; work         ;
+;                |full_adder:FA30|          ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA30                       ; work         ;
+;                   |half_adder:first_sum|  ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA30|half_adder:first_sum  ; work         ;
+;                   |half_adder:second_sum| ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA30|half_adder:second_sum ; work         ;
+;                |full_adder:FA3|           ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA3                        ; work         ;
+;                   |half_adder:first_sum|  ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA3|half_adder:first_sum   ; work         ;
+;                |full_adder:FA4|           ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA4                        ; work         ;
+;                |full_adder:FA5|           ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA5                        ; work         ;
+;                |full_adder:FA6|           ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA6                        ; work         ;
+;                |full_adder:FA7|           ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA7                        ; work         ;
+;                   |half_adder:first_sum|  ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA7|half_adder:first_sum   ; work         ;
+;                   |half_adder:second_sum| ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA7|half_adder:second_sum  ; work         ;
+;                |full_adder:FA8|           ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA8                        ; work         ;
+;                   |half_adder:first_sum|  ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA8|half_adder:first_sum   ; work         ;
+;                |full_adder:FA9|           ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0|_32bit_ADD:g1|full_adder:FA9                        ; work         ;
+;       |_32bit_SUB:g2|                     ; 14 (0)            ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2                                                                   ; work         ;
+;          |_32bit_ADD:g1|                  ; 14 (0)            ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1                                                     ; work         ;
+;             |full_adder:FA10|             ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA10                                     ; work         ;
+;                |half_adder:second_sum|    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA10|half_adder:second_sum               ; work         ;
+;             |full_adder:FA12|             ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA12                                     ; work         ;
+;                |half_adder:second_sum|    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA12|half_adder:second_sum               ; work         ;
+;             |full_adder:FA14|             ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA14                                     ; work         ;
+;                |half_adder:second_sum|    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA14|half_adder:second_sum               ; work         ;
+;             |full_adder:FA16|             ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA16                                     ; work         ;
+;                |half_adder:second_sum|    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA16|half_adder:second_sum               ; work         ;
+;             |full_adder:FA18|             ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA18                                     ; work         ;
+;                |half_adder:second_sum|    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA18|half_adder:second_sum               ; work         ;
+;             |full_adder:FA20|             ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA20                                     ; work         ;
+;                |half_adder:second_sum|    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA20|half_adder:second_sum               ; work         ;
+;             |full_adder:FA22|             ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA22                                     ; work         ;
+;                |half_adder:second_sum|    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA22|half_adder:second_sum               ; work         ;
+;             |full_adder:FA24|             ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA24                                     ; work         ;
+;                |half_adder:second_sum|    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA24|half_adder:second_sum               ; work         ;
+;             |full_adder:FA28|             ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA28                                     ; work         ;
+;                |half_adder:second_sum|    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA28|half_adder:second_sum               ; work         ;
+;             |full_adder:FA2|              ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA2                                      ; work         ;
+;                |half_adder:second_sum|    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA2|half_adder:second_sum                ; work         ;
+;             |full_adder:FA30|             ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA30                                     ; work         ;
+;                |half_adder:second_sum|    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA30|half_adder:second_sum               ; work         ;
+;             |full_adder:FA4|              ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA4                                      ; work         ;
+;                |half_adder:second_sum|    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA4|half_adder:second_sum                ; work         ;
+;             |full_adder:FA6|              ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA6                                      ; work         ;
+;                |half_adder:second_sum|    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA6|half_adder:second_sum                ; work         ;
+;             |full_adder:FA8|              ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA8                                      ; work         ;
+;                |half_adder:second_sum|    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1|full_adder:FA8|half_adder:second_sum                ; work         ;
+;       |_32bit_comparator:g7|              ; 42 (42)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALU:alu|_32bit_comparator:g7                                                            ; work         ;
+;    |ALUControl:aluctr|                    ; 7 (7)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|ALUControl:aluctr                                                                       ; work         ;
+;    |_32bit_2x1MUX:alusrcmux|              ; 45 (45)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_2x1MUX:alusrcmux                                                                 ; work         ;
+;    |_32bit_2x1MUX:pcmux|                  ; 32 (32)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_2x1MUX:pcmux                                                                     ; work         ;
+;    |_32bit_2x1MUX:writedata|              ; 113 (113)         ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_2x1MUX:writedata                                                                 ; work         ;
+;    |_32bit_ADD:addermux1|                 ; 42 (0)            ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1                                                                    ; work         ;
+;       |full_adder:FA10|                   ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA10                                                    ; work         ;
+;          |half_adder:second_sum|          ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA10|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA11|                   ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA11                                                    ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA11|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA12|                   ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA12                                                    ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA12|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA13|                   ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA13                                                    ; work         ;
+;          |half_adder:second_sum|          ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA13|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA14|                   ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA14                                                    ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA14|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA15|                   ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA15                                                    ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA15|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA16|                   ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA16                                                    ; work         ;
+;          |half_adder:second_sum|          ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA16|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA17|                   ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA17                                                    ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA17|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA18|                   ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA18                                                    ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA18|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA19|                   ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA19                                                    ; work         ;
+;          |half_adder:second_sum|          ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA19|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA1|                    ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA1                                                     ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA1|half_adder:second_sum                               ; work         ;
+;       |full_adder:FA20|                   ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA20                                                    ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA20|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA21|                   ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA21                                                    ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA21|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA22|                   ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA22                                                    ; work         ;
+;          |half_adder:second_sum|          ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA22|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA23|                   ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA23                                                    ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA23|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA24|                   ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA24                                                    ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA24|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA25|                   ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA25                                                    ; work         ;
+;          |half_adder:second_sum|          ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA25|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA26|                   ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA26                                                    ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA26|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA27|                   ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA27                                                    ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA27|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA28|                   ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA28                                                    ; work         ;
+;          |half_adder:second_sum|          ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA28|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA29|                   ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA29                                                    ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA29|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA2|                    ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA2                                                     ; work         ;
+;          |half_adder:second_sum|          ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA2|half_adder:second_sum                               ; work         ;
+;       |full_adder:FA30|                   ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA30                                                    ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA30|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA31|                   ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA31                                                    ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA31|half_adder:second_sum                              ; work         ;
+;       |full_adder:FA3|                    ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA3                                                     ; work         ;
+;          |half_adder:second_sum|          ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA3|half_adder:second_sum                               ; work         ;
+;       |full_adder:FA4|                    ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA4                                                     ; work         ;
+;          |half_adder:second_sum|          ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA4|half_adder:second_sum                               ; work         ;
+;       |full_adder:FA5|                    ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA5                                                     ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA5|half_adder:second_sum                               ; work         ;
+;       |full_adder:FA6|                    ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA6                                                     ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA6|half_adder:second_sum                               ; work         ;
+;       |full_adder:FA7|                    ; 2 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA7                                                     ; work         ;
+;          |half_adder:second_sum|          ; 2 (2)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA7|half_adder:second_sum                               ; work         ;
+;       |full_adder:FA8|                    ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA8                                                     ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA8|half_adder:second_sum                               ; work         ;
+;       |full_adder:FA9|                    ; 1 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA9                                                     ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux1|full_adder:FA9|half_adder:second_sum                               ; work         ;
+;    |_32bit_ADD:addermux2|                 ; 31 (0)            ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2                                                                    ; work         ;
+;       |full_adder:FA10|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA10                                                    ; work         ;
+;       |full_adder:FA11|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA11                                                    ; work         ;
+;       |full_adder:FA12|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA12                                                    ; work         ;
+;       |full_adder:FA13|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA13                                                    ; work         ;
+;       |full_adder:FA14|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA14                                                    ; work         ;
+;       |full_adder:FA15|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA15                                                    ; work         ;
+;       |full_adder:FA16|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA16                                                    ; work         ;
+;       |full_adder:FA17|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA17                                                    ; work         ;
+;       |full_adder:FA18|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA18                                                    ; work         ;
+;       |full_adder:FA19|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA19                                                    ; work         ;
+;       |full_adder:FA1|                    ; 2 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA1                                                     ; work         ;
+;          |half_adder:second_sum|          ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA1|half_adder:second_sum                               ; work         ;
+;       |full_adder:FA20|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA20                                                    ; work         ;
+;       |full_adder:FA21|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA21                                                    ; work         ;
+;       |full_adder:FA22|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA22                                                    ; work         ;
+;       |full_adder:FA23|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA23                                                    ; work         ;
+;       |full_adder:FA24|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA24                                                    ; work         ;
+;       |full_adder:FA25|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA25                                                    ; work         ;
+;       |full_adder:FA26|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA26                                                    ; work         ;
+;       |full_adder:FA27|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA27                                                    ; work         ;
+;       |full_adder:FA28|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA28                                                    ; work         ;
+;       |full_adder:FA29|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA29                                                    ; work         ;
+;       |full_adder:FA2|                    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA2                                                     ; work         ;
+;       |full_adder:FA30|                   ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA30                                                    ; work         ;
+;       |full_adder:FA3|                    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA3                                                     ; work         ;
+;       |full_adder:FA4|                    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA4                                                     ; work         ;
+;       |full_adder:FA5|                    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA5                                                     ; work         ;
+;       |full_adder:FA6|                    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA6                                                     ; work         ;
+;       |full_adder:FA7|                    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA7                                                     ; work         ;
+;       |full_adder:FA8|                    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA8                                                     ; work         ;
+;       |full_adder:FA9|                    ; 1 (1)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_32bit_ADD:addermux2|full_adder:FA9                                                     ; work         ;
+;    |_3bit_2x1MUX:writeDestMux|            ; 3 (3)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|_3bit_2x1MUX:writeDestMux                                                               ; work         ;
+;    |controller:control|                   ; 5 (5)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|controller:control                                                                      ; work         ;
+;    |dataBlock:memory|                     ; 5728 (5728)       ; 8192 (8192)  ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|dataBlock:memory                                                                        ; work         ;
+;    |registerBlock:regist|                 ; 327 (7)           ; 224 (224)    ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|registerBlock:regist                                                                    ; work         ;
+;       |_32bit_8x1MUX:m0|                  ; 160 (0)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|registerBlock:regist|_32bit_8x1MUX:m0                                                   ; work         ;
+;          |_32bit_2x1MUX:g2|               ; 160 (160)         ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|registerBlock:regist|_32bit_8x1MUX:m0|_32bit_2x1MUX:g2                                  ; work         ;
+;       |_32bit_8x1MUX:m1|                  ; 160 (0)           ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|registerBlock:regist|_32bit_8x1MUX:m1                                                   ; work         ;
+;          |_32bit_2x1MUX:g2|               ; 160 (160)         ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0    ; 0            ; |MiniMIPS|registerBlock:regist|_32bit_8x1MUX:m1|_32bit_2x1MUX:g2                                  ; work         ;
++-------------------------------------------+-------------------+--------------+-------------+--------------+---------+-----------+------+--------------+---------------------------------------------------------------------------------------------------+--------------+
+Note: For table entries with two numbers listed, the numbers in parentheses indicate the number of resources of the given type used by the specific entity alone. The numbers listed outside of parentheses indicate the total resources of the given type used by the specific entity and all of its sub-entities in the hierarchy.
+
+
++--------------------------------------------------------------------------------------+
+; Registers Removed During Synthesis                                                   ;
++----------------------------------------+---------------------------------------------+
+; Register name                          ; Reason for Removal                          ;
++----------------------------------------+---------------------------------------------+
+; registerBlock:regist|registers[0][0]   ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][1]   ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][2]   ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][3]   ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][4]   ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][5]   ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][6]   ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][7]   ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][8]   ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][9]   ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][10]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][11]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][12]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][13]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][14]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][15]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][16]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][17]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][18]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][19]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][20]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][21]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][22]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][23]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][24]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][25]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][26]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][27]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][28]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][29]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][30]  ; Stuck at GND due to stuck port clock_enable ;
+; registerBlock:regist|registers[0][31]  ; Stuck at GND due to stuck port clock_enable ;
+; Total Number of Removed Registers = 32 ;                                             ;
++----------------------------------------+---------------------------------------------+
+
+
++------------------------------------------------------+
+; General Register Statistics                          ;
++----------------------------------------------+-------+
+; Statistic                                    ; Value ;
++----------------------------------------------+-------+
+; Total registers                              ; 8448  ;
+; Number of registers using Synchronous Clear  ; 0     ;
+; Number of registers using Synchronous Load   ; 0     ;
+; Number of registers using Asynchronous Clear ; 0     ;
+; Number of registers using Asynchronous Load  ; 0     ;
+; Number of registers using Clock Enable       ; 8416  ;
+; Number of registers using Preset             ; 0     ;
++----------------------------------------------+-------+
+
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Multiplexer Restructuring Statistics (Restructuring Performed)                                                                                                                            ;
++--------------------+-----------+---------------+----------------------+------------------------+------------+-----------------------------------------------------------------------------+
+; Multiplexer Inputs ; Bus Width ; Baseline Area ; Area if Restructured ; Saving if Restructured ; Registered ; Example Multiplexer Output                                                  ;
++--------------------+-----------+---------------+----------------------+------------------------+------------+-----------------------------------------------------------------------------+
+; 5:1                ; 7 bits    ; 21 LEs        ; 21 LEs               ; 0 LEs                  ; No         ; |MiniMIPS|ALU:alu|_32bit_8x1MUX:g8|_32bit_2x1MUX:g2|result[7]               ;
+; 6:1                ; 24 bits   ; 96 LEs        ; 96 LEs               ; 0 LEs                  ; No         ; |MiniMIPS|_32bit_2x1MUX:writedata|result[13]                                ;
+; 8:1                ; 32 bits   ; 160 LEs       ; 160 LEs              ; 0 LEs                  ; No         ; |MiniMIPS|registerBlock:regist|_32bit_8x1MUX:m0|_32bit_2x1MUX:g2|result[17] ;
+; 8:1                ; 32 bits   ; 160 LEs       ; 160 LEs              ; 0 LEs                  ; No         ; |MiniMIPS|registerBlock:regist|_32bit_8x1MUX:m1|_32bit_2x1MUX:g2|result[8]  ;
++--------------------+-----------+---------------+----------------------+------------------------+------------+-----------------------------------------------------------------------------+
+
+
++--------------------------------------------------+
+; Port Connectivity Checks: "_32bit_ADD:addermux2" ;
++------+-------+----------+------------------------+
+; Port ; Type  ; Severity ; Details                ;
++------+-------+----------+------------------------+
+; C0   ; Input ; Info     ; Stuck at GND           ;
++------+-------+----------+------------------------+
+
+
++--------------------------------------------------+
+; Port Connectivity Checks: "_32bit_ADD:addermux1" ;
++------+-------+----------+------------------------+
+; Port ; Type  ; Severity ; Details                ;
++------+-------+----------+------------------------+
+; B    ; Input ; Info     ; Stuck at GND           ;
+; C0   ; Input ; Info     ; Stuck at VCC           ;
++------+-------+----------+------------------------+
+
+
++------------------------------------------------------+
+; Port Connectivity Checks: "ALU:alu|_32bit_8x1MUX:g8" ;
++----------+-------+----------+------------------------+
+; Port     ; Type  ; Severity ; Details                ;
++----------+-------+----------+------------------------+
+; G[31..1] ; Input ; Info     ; Stuck at GND           ;
+; H        ; Input ; Info     ; Explicitly unconnected ;
++----------+-------+----------+------------------------+
+
+
++----------------------------------------------------------------+
+; Port Connectivity Checks: "ALU:alu|_32bit_SLT:g6|_32bit_OR:c1" ;
++----------+-------+----------+----------------------------------+
+; Port     ; Type  ; Severity ; Details                          ;
++----------+-------+----------+----------------------------------+
+; A[31..1] ; Input ; Info     ; Stuck at GND                     ;
+; B        ; Input ; Info     ; Stuck at GND                     ;
++----------+-------+----------+----------------------------------+
+
+
++-------------------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "ALU:alu|_32bit_SLT:g6|_32bit_SUB:c0"                                                         ;
++---------------+--------+----------+-------------------------------------------------------------------------------------+
+; Port          ; Type   ; Severity ; Details                                                                             ;
++---------------+--------+----------+-------------------------------------------------------------------------------------+
+; result[30..0] ; Output ; Info     ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++---------------+--------+----------+-------------------------------------------------------------------------------------+
+
+
++----------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "ALU:alu|_32bit_SLT:g6"                                                                                                        ;
++--------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------+
+; Port   ; Type   ; Severity ; Details                                                                                                                     ;
++--------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------+
+; result ; Output ; Warning  ; Output or bidir port (32 bits) is wider than the port expression (1 bits) it drives; bit(s) "result[31..1]" have no fanouts ;
++--------+--------+----------+-----------------------------------------------------------------------------------------------------------------------------+
+
+
++-----------------------------------------------------------------+
+; Port Connectivity Checks: "ALU:alu|_32bit_SUB:g2|_32bit_ADD:g1" ;
++------+-------+----------+---------------------------------------+
+; Port ; Type  ; Severity ; Details                               ;
++------+-------+----------+---------------------------------------+
+; C0   ; Input ; Info     ; Stuck at VCC                          ;
++------+-------+----------+---------------------------------------+
+
+
++-----------------------------------------------------------------+
+; Port Connectivity Checks: "ALU:alu|_32bit_SUB:g2|_32bit_XOR:g0" ;
++------+-------+----------+---------------------------------------+
+; Port ; Type  ; Severity ; Details                               ;
++------+-------+----------+---------------------------------------+
+; B    ; Input ; Info     ; Stuck at VCC                          ;
++------+-------+----------+---------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "ALU:alu|_32bit_ADD:g1|full_adder:FA31"                                                   ;
++-----------+--------+----------+-------------------------------------------------------------------------------------+
+; Port      ; Type   ; Severity ; Details                                                                             ;
++-----------+--------+----------+-------------------------------------------------------------------------------------+
+; carry_out ; Output ; Info     ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++-----------+--------+----------+-------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------+
+; Port Connectivity Checks: "ALU:alu|_32bit_ADD:g1" ;
++------+-------+----------+-------------------------+
+; Port ; Type  ; Severity ; Details                 ;
++------+-------+----------+-------------------------+
+; C0   ; Input ; Info     ; Stuck at GND            ;
++------+-------+----------+-------------------------+
+
+
++------------------------------------------------------------------+
+; Port Connectivity Checks: "signExt6to32:signEx|_32bit_2x1MUX:g0" ;
++----------+-------+----------+------------------------------------+
+; Port     ; Type  ; Severity ; Details                            ;
++----------+-------+----------+------------------------------------+
+; A[31..6] ; Input ; Info     ; Stuck at GND                       ;
+; B[31..6] ; Input ; Info     ; Stuck at VCC                       ;
++----------+-------+----------+------------------------------------+
+
+
++-------------------------------------------------------------------------------------------------------------------+
+; Port Connectivity Checks: "controller:control"                                                                    ;
++---------+--------+----------+-------------------------------------------------------------------------------------+
+; Port    ; Type   ; Severity ; Details                                                                             ;
++---------+--------+----------+-------------------------------------------------------------------------------------+
+; MemRead ; Output ; Info     ; Connected to dangling logic. Logic that only feeds a dangling port will be removed. ;
++---------+--------+----------+-------------------------------------------------------------------------------------+
+
+
++-------------------------------+
+; Elapsed Time Per Partition    ;
++----------------+--------------+
+; Partition Name ; Elapsed Time ;
++----------------+--------------+
+; Top            ; 00:00:22     ;
++----------------+--------------+
+
+
++-------------------------------+
+; Analysis & Synthesis Messages ;
++-------------------------------+
+Info: *******************************************************************
+Info: Running Quartus II 64-Bit Analysis & Synthesis
+    Info: Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+    Info: Processing started: Sun Jan 23 22:49:30 2022
+Info: Command: quartus_map --read_settings_files=on --write_settings_files=off hw4 -c hw4
+Warning (20028): Parallel compilation is not licensed and has been disabled
+Info (12021): Found 1 design units, including 1 entities, in source file _32bit_and.v
+    Info (12023): Found entity 1: _32bit_AND
+Info (12021): Found 1 design units, including 1 entities, in source file _32bit_or.v
+    Info (12023): Found entity 1: _32bit_OR
+Info (12021): Found 1 design units, including 1 entities, in source file full_adder.v
+    Info (12023): Found entity 1: full_adder
+Info (12021): Found 1 design units, including 1 entities, in source file half_adder.v
+    Info (12023): Found entity 1: half_adder
+Info (12021): Found 1 design units, including 1 entities, in source file _32bit_sub.v
+    Info (12023): Found entity 1: _32bit_SUB
+Info (12021): Found 1 design units, including 1 entities, in source file _32bit_add.v
+    Info (12023): Found entity 1: _32bit_ADD
+Info (12021): Found 1 design units, including 1 entities, in source file _32bit_xor.v
+    Info (12023): Found entity 1: _32bit_XOR
+Info (12021): Found 1 design units, including 1 entities, in source file _32bit_nor.v
+    Info (12023): Found entity 1: _32bit_NOR
+Info (12021): Found 1 design units, including 1 entities, in source file _32bit_comparator.v
+    Info (12023): Found entity 1: _32bit_comparator
+Info (12021): Found 1 design units, including 1 entities, in source file _32bit_comparator_testbench.v
+    Info (12023): Found entity 1: _32bit_comparator_testbench
+Info (12021): Found 1 design units, including 1 entities, in source file _32bit_slt.v
+    Info (12023): Found entity 1: _32bit_SLT
+Info (12021): Found 1 design units, including 1 entities, in source file _32bit_slt_testbench.v
+    Info (12023): Found entity 1: _32bit_SLT_testbench
+Info (12021): Found 1 design units, including 1 entities, in source file _32bit_2x1mux.v
+    Info (12023): Found entity 1: _32bit_2x1MUX
+Info (12021): Found 1 design units, including 1 entities, in source file _32bit_4x1mux.v
+    Info (12023): Found entity 1: _32bit_4x1MUX
+Info (12021): Found 1 design units, including 1 entities, in source file _32bit_8x1mux.v
+    Info (12023): Found entity 1: _32bit_8x1MUX
+Info (12021): Found 1 design units, including 1 entities, in source file alu.v
+    Info (12023): Found entity 1: ALU
+Info (12021): Found 1 design units, including 1 entities, in source file alu_testbench.v
+    Info (12023): Found entity 1: ALU_testbench
+Info (12021): Found 1 design units, including 1 entities, in source file alucontrol.v
+    Info (12023): Found entity 1: ALUControl
+Info (12021): Found 1 design units, including 1 entities, in source file alucontrol_testbench.v
+    Info (12023): Found entity 1: ALUControl_testbench
+Info (12021): Found 1 design units, including 1 entities, in source file registerblock.v
+    Info (12023): Found entity 1: registerBlock
+Info (12021): Found 1 design units, including 1 entities, in source file registerblock_testbench.v
+    Info (12023): Found entity 1: registerBlock_testbench
+Info (12021): Found 1 design units, including 1 entities, in source file datablock.v
+    Info (12023): Found entity 1: dataBlock
+Info (12021): Found 1 design units, including 1 entities, in source file datablock_testbench.v
+    Info (12023): Found entity 1: dataBlock_testbench
+Info (12021): Found 1 design units, including 1 entities, in source file controller.v
+    Info (12023): Found entity 1: controller
+Info (12021): Found 1 design units, including 1 entities, in source file controller_testbench.v
+    Info (12023): Found entity 1: controller_testbench
+Info (12021): Found 1 design units, including 1 entities, in source file _3bit_2x1mux.v
+    Info (12023): Found entity 1: _3bit_2x1MUX
+Info (12021): Found 1 design units, including 1 entities, in source file signext6to32.v
+    Info (12023): Found entity 1: signExt6to32
+Info (12021): Found 1 design units, including 1 entities, in source file signext6to32_testbench.v
+    Info (12023): Found entity 1: signExt6to32_testbench
+Info (12021): Found 1 design units, including 1 entities, in source file minimips.v
+    Info (12023): Found entity 1: MiniMIPS
+Info (12021): Found 1 design units, including 1 entities, in source file minimips_testbench.v
+    Info (12023): Found entity 1: MiniMIPS_testbench
+Info (12021): Found 1 design units, including 1 entities, in source file _1bit_2x1mux.v
+    Info (12023): Found entity 1: _1bit_2x1MUX
+Info (12127): Elaborating entity "MiniMIPS" for the top level hierarchy
+Info (12128): Elaborating entity "controller" for hierarchy "controller:control"
+Info (12128): Elaborating entity "registerBlock" for hierarchy "registerBlock:regist"
+Info (12128): Elaborating entity "_32bit_8x1MUX" for hierarchy "registerBlock:regist|_32bit_8x1MUX:m0"
+Info (12128): Elaborating entity "_32bit_4x1MUX" for hierarchy "registerBlock:regist|_32bit_8x1MUX:m0|_32bit_4x1MUX:g0"
+Info (12128): Elaborating entity "_32bit_2x1MUX" for hierarchy "registerBlock:regist|_32bit_8x1MUX:m0|_32bit_4x1MUX:g0|_32bit_2x1MUX:mux1"
+Info (12128): Elaborating entity "_3bit_2x1MUX" for hierarchy "_3bit_2x1MUX:writeDestMux"
+Info (12128): Elaborating entity "signExt6to32" for hierarchy "signExt6to32:signEx"
+Info (12128): Elaborating entity "ALUControl" for hierarchy "ALUControl:aluctr"
+Info (12128): Elaborating entity "ALU" for hierarchy "ALU:alu"
+Info (12128): Elaborating entity "_32bit_AND" for hierarchy "ALU:alu|_32bit_AND:g0"
+Info (12128): Elaborating entity "_32bit_ADD" for hierarchy "ALU:alu|_32bit_ADD:g1"
+Info (12128): Elaborating entity "full_adder" for hierarchy "ALU:alu|_32bit_ADD:g1|full_adder:FA0"
+Info (12128): Elaborating entity "half_adder" for hierarchy "ALU:alu|_32bit_ADD:g1|full_adder:FA0|half_adder:first_sum"
+Info (12128): Elaborating entity "_32bit_SUB" for hierarchy "ALU:alu|_32bit_SUB:g2"
+Info (12128): Elaborating entity "_32bit_XOR" for hierarchy "ALU:alu|_32bit_SUB:g2|_32bit_XOR:g0"
+Info (12128): Elaborating entity "_32bit_NOR" for hierarchy "ALU:alu|_32bit_NOR:g4"
+Info (12128): Elaborating entity "_32bit_OR" for hierarchy "ALU:alu|_32bit_OR:g5"
+Info (12128): Elaborating entity "_32bit_SLT" for hierarchy "ALU:alu|_32bit_SLT:g6"
+Info (12128): Elaborating entity "_32bit_comparator" for hierarchy "ALU:alu|_32bit_comparator:g7"
+Info (12128): Elaborating entity "dataBlock" for hierarchy "dataBlock:memory"
+Info (12128): Elaborating entity "_1bit_2x1MUX" for hierarchy "_1bit_2x1MUX:branchsrc"
+Info (276014): Found 1 instances of uninferred RAM logic
+    Info (276007): RAM logic "dataBlock:memory|memory" is uninferred due to asynchronous read logic
+Warning (12241): 1 hierarchies have connectivity warnings - see the Connectivity Checks report folder
+Info (286030): Timing-Driven Synthesis is running
+Info (144001): Generated suppressed messages file C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/output_files/hw4.map.smsg
+Info (16010): Generating hard_block partition "hard_block:auto_generated_inst"
+    Info (16011): Adding 0 node(s), including 0 DDIO, 0 PLL, 0 transceiver and 0 LCELL
+Info (21057): Implemented 15026 device resources after synthesis - the final resource count might be different
+    Info (21058): Implemented 17 input pins
+    Info (21059): Implemented 32 output pins
+    Info (21061): Implemented 14977 logic cells
+Info: Quartus II 64-Bit Analysis & Synthesis was successful. 0 errors, 2 warnings
+    Info: Peak virtual memory: 4685 megabytes
+    Info: Processing ended: Sun Jan 23 22:49:57 2022
+    Info: Elapsed time: 00:00:27
+    Info: Total CPU time (on all processors): 00:00:26
+
+
++------------------------------------------+
+; Analysis & Synthesis Suppressed Messages ;
++------------------------------------------+
+The suppressed messages can be found in C:/Users/Lenovo/Desktop/OKUL/3 Fall/331 Computer Organization/HW4/1801042673/1801042673_restored/output_files/hw4.map.smsg.
+
+

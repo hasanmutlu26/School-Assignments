@@ -1,0 +1,40 @@
+module _32bit_SLT_testbench();
+reg [31:0] A, B;
+wire result;
+
+_32bit_SLT g0 (result, A, B);
+
+initial begin 
+A = 32'd50;
+B = 32'd100;
+#20;
+
+A = 32'd500;
+B = 32'd500;
+#20;
+
+A = 32'd1000;
+B = 32'd10;
+#20;
+
+A = 32'd5000;
+B = 32'd10000;
+#20;
+
+A = 32'd200;
+B = 32'd200;
+#20;
+
+A = 32'd300;
+B = 32'd299;
+#20;
+
+A = 32'd299;
+B = 32'd300;
+#20;
+
+
+
+end 
+
+endmodule
