@@ -1,0 +1,48 @@
+n
+(a,a)(a,b)(a,e)(b,b)(b,e)(c,c)(c,d)(d,d)(e,e)
+Reflexive: Yes, all elements are present.
+Symmetric: No. (a,b) is found whereas (b,a) is not found.
+Antiymmetric: Yes. (a,b) is found whereas (b,a) is not found.
+Transitive: Not implemented.
+n
+(a,a)(a,b)(b,a)(b,b)(c,c)(c,d)(d,c)(d,d)
+Reflexive: No, (e,e) is not present.
+Symmetric: Yes. All elements are symmetric.
+Antiymmetric: No. All elements are symmetric.
+Transitive: Not implemented.
+n
+(a,a)(b,b)(c,c)(d,d)(e,e)
+Reflexive: Yes, all elements are present.
+Symmetric: Yes. All elements are symmetric.
+Antiymmetric: No. All elements are symmetric.
+Transitive: Not implemented.
+n
+(1,1)(1,2)(2,1)
+Reflexive: No, (2,2) is not present.
+Symmetric: Yes. All elements are symmetric.
+Antiymmetric: No. All elements are symmetric.
+Transitive: Not implemented.
+n
+(1,1)(1,2)(2,1)(2,2)(3,4)(4,1)(4,4)
+Reflexive: No, (3,3) is not present.
+Symmetric: No. (3,4) is found whereas (4,3) is not found.
+Antiymmetric: Yes. (3,4) is found whereas (4,3) is not found.
+Transitive: Not implemented.
+n
+(2,1)(3,1)(3,2)(4,1)(4,2)(4,3)
+Reflexive: No, (1,1) is not present.
+Symmetric: No. (2,1) is found whereas (1,2) is not found.
+Antiymmetric: Yes. (2,1) is found whereas (1,2) is not found.
+Transitive: Not implemented.
+n
+(1,1)(1,2)(1,3)(1,4)(2,2)(2,3)(2,4)(3,3)(3,4)(4,4)
+Reflexive: Yes, all elements are present.
+Symmetric: No. (1,2) is found whereas (2,1) is not found.
+Antiymmetric: Yes. (1,2) is found whereas (2,1) is not found.
+Transitive: Not implemented.
+n
+(1,1)(1,2)(1,4)(2,1)(2,2)(3,3)(4,1)(4,4)
+Reflexive: Yes, all elements are present.
+Symmetric: Yes. All elements are symmetric.
+Antiymmetric: No. All elements are symmetric.
+Transitive: Not implemented.
