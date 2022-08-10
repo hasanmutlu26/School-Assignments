@@ -1,1 +1,1 @@
-The .circ files are run with Logism program.
+The .circ files are run with Logisim program.
