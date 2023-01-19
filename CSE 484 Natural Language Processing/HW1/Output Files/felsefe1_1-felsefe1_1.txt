@@ -1,0 +1,413 @@
+Document 1: booktexts/felsefe1Out1.txt
+Document 2: booktexts/felsefe1Out1.txt
+-----------------------
+1. Alignment:
+Path length: 1
+82 - 290: Filozof Kimdir?
+-----------------------
+2. Alignment:
+Path length: 1
+290 - 82: Filozof Kimdir?
+-----------------------
+3. Alignment:
+Path length: 400
+1 - 1: FELSEFE DERS KİTABI Yazar Kısmet KÖŞÜŞ 1 ANKARA - 2022 Dil Uzmanı Bülent Kenan ERKAN Görsel Tasarım Fatih SAĞLAM Grafik Tasarım Uzmanı Nuran AKGÜN Copyright c MEB Her hakkı saklıdır.
+2 - 2: MillÎ Eğitim Bakanlığına aittir.
+3 - 3: Tümü ya da bölümleri izin alınmadan hiçbir şekilde çoğaltılamaz, basılamaz ve dağıtılamaz.
+4 - 4: İSTİKLÂL MARŞI Korkma, sönmez bu şafaklarda yüzen al sancak; Sönmeden yurdumun üstünde tüten en son ocak.
+5 - 5: O benim milletimin yıldızıdır, parlayacak; O benimdir, o benim milletimindir ancak.
+6 - 6: Çatma, kurban olayım, çehreni ey nazlı hilâl!
+7 - 7: Kahraman ırkıma bir gül!
+8 - 8: Ne bu şiddet, bu celâl?
+9 - 9: Sana olmaz dökülen kanlarımız sonra helâl.
+10 - 10: Hakkıdır Hakk’a tapan milletimin istiklâl.
+11 - 11: Ben ezelden beridir hür yaşadım, hür yaşarım.
+12 - 12: Hangi çılgın bana zincir vuracakmış?
+13 - 13: Şaşarım!
+14 - 14: Kükremiş sel gibiyim, bendimi çiğner, aşarım.
+15 - 15: Yırtarım dağları, enginlere sığmam, taşarım.
+16 - 16: Garbın âfâkını sarmışsa çelik zırhlı duvar, Benim iman dolu göğsüm gibi serhaddim var.
+17 - 17: Ulusun, korkma!
+18 - 18: Nasıl böyle bir imanı boğar, Medeniyyet dediğin tek dişi kalmış canavar?
+19 - 19: Arkadaş, yurduma alçakları uğratma sakın; Siper et gövdeni, dursun bu hayâsızca akın.
+20 - 20: Doğacaktır sana va’dettiği günler Hakk’ın; Kim bilir, belki yarın, belki yarından da yakın.
+21 - 21: Bastığın yerleri toprak diyerek geçme, tanı: Düşün altındaki binlerce kefensiz yatanı.
+22 - 22: Sen şehit oğlusun, incitme, yazıktır, atanı: Verme, dünyaları alsan da bu cennet vatanı.
+23 - 23: Kim bu cennet vatanın uğruna olmaz ki feda?
+24 - 24: Şüheda fışkıracak toprağı sıksan, şüheda!
+25 - 25: Cânı, cânânı, bütün varımı alsın da Huda, Etmesin tek vatanımdan beni dünyada cüda.
+26 - 26: Ruhumun senden İlâhî, şudur ancak emeli: Değmesin mabedimin göğsüne nâmahrem eli.
+27 - 27: Bu ezanlar -ki şehadetleri dinin temeliEbedî yurdumun üstünde benim inlemeli.
+28 - 28: O zaman vecd ile bin secde eder -varsa- taşım, Her cerîhamdan İlâhî, boşanıp kanlı yaşım, Fışkırır ruh-ı mücerret gibi yerden na’şım; O zaman yükselerek arşa değer belki başım.
+29 - 29: Dalgalan sen de şafaklar gibi ey şanlı hilâl!
+30 - 30: Olsun artık dökülen kanlarımın hepsi helâl.
+31 - 31: Ebediyyen sana yok, ırkıma yok izmihlâl; Hakkıdır hür yaşamış bayrağımın hürriyet; Hakkıdır Hakk’a tapan milletimin istiklâl!
+32 - 32: Mehmet Âkif ERSOY Mustafa Kemal Atatürk  GENÇLİĞE HİTABE Ey Türk gençliği!
+33 - 33: Birinci vazifen, Türk istiklâlini, Türk Cumhuriyetini, ilelebet muhafaza ve müdafaa etmektir.
+34 - 34: Mevcudiyetinin ve istikbalinin yegâne temeli budur.
+35 - 35: Bu temel, senin en kıymetli hazinendir.
+36 - 36: İstikbalde dahi, seni bu hazineden mahrum etmek isteyecek dâhilî ve hâricî bedhahların olacaktır.
+37 - 37: Bir gün, istiklâl ve cumhuriyeti müdafaa mecburiyetine düşersen, vazifeye atılmak için, içinde bulunacağın vaziyetin imkân ve şeraitini düşünmeyeceksin!
+38 - 38: Bu imkân ve şerait, çok namüsait bir mahiyette tezahür edebilir.
+39 - 39: İstiklâl ve cumhuriyetine kastedecek düşmanlar, bütün dünyada emsali görülmemiş bir galibiyetin mümessili olabilirler.
+40 - 40: Cebren ve hile ile aziz vatanın bütün kaleleri zapt edilmiş, bütün tersanelerine girilmiş, bütün orduları dağıtılmış ve memleketin her köşesi bilfiil işgal edilmiş olabilir.
+41 - 41: Bütün bu şeraitten daha elîm ve daha vahim olmak üzere, memleketin dâhilinde iktidara sahip olanlar gaflet ve dalâlet ve hattâ hıyanet içinde bulunabilirler.
+42 - 42: Hattâ bu iktidar sahipleri şahsî menfaatlerini, müstevlîlerin siyasî emelleriyle tevhit edebilirler.
+43 - 43: Millet, fakr u zaruret içinde harap ve bîtap düşmüş olabilir.
+44 - 44: Ey Türk istikbalinin evlâdı!
+45 - 45: İşte, bu ahval ve şerait içinde dahi vazifen, Türk istiklâl ve cumhuriyetini kurtarmaktır.
+46 - 46: Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur.
+47 - 47: MUSTAFA KEMAL ATATÜRK 6 İÇİNDEKİLER 1.
+48 - 48: ÜNİTE: FELSEFEYİ TANIMA.............................................8 1.
+49 - 49: ÜNİTEYE GİRİŞ ............................................................................10 1.1.
+50 - 50: FELSEFENİN ANLAMI 1.1.1.
+51 - 51: Düşünmenin Önemi ve Gerekliliği ......................................11 1.1.2.
+52 - 52: Felsefenin Tanımı .................................................................14 OKUMA PARÇASI .....................................................................................16 1.1.3.Filozoflara Göre Felsefe Tanımları........................................17 1.1.4.
+53 - 53: Filozof Kimdir?.....................................................................20 1.2.
+54 - 54: FELSEFİ DÜŞÜNCE 1.2.1.
+55 - 55: Felsefi Düşüncenin Ortaya Çıkışı.........................................22 1.2.2.
+56 - 56: Felsefi Düşüncenin Özellikleri .............................................25 1.2.3.
+57 - 57: Felsefe Sorusunun Özellikleri...............................................30 1.3.
+58 - 58: FELSEFENİN İNSAN VE TOPLUM HAYATI ÜZERİNDEKİ ROLÜ 1.3.1.
+59 - 59: Felsefenin Bireysel ve Toplumsal İşlevleri ...........................33 1.3.2.
+60 - 60: Felsefe Hayat İlişkisi .............................................................37 ÖZET...........................................................................................................39 OKUMA PARÇASI .....................................................................................41 1.
+61 - 61: ÜNİTE İÇİNDEKİ UYGULAMALARIN CEVAP ANAHTARI.............43 1.
+62 - 62: ÜNİTE ÖLÇME VE DEĞERLENDİRME SORULARI...........................44 7 2.
+63 - 63: ÜNİTE: FELSEFE İLE DÜŞÜNME ...................................46 2.
+64 - 64: ÜNİTEYE GİRİŞ ............................................................................48 2.1.
+65 - 65: DÜŞÜNME VE AKIL YÜRÜTME 2.1.1.
+66 - 66: Düşünme ve Akıl Yürütmeye İlişkin Kavramlar .................49 2.1.2.
+67 - 67: Akıl Yürütme Biçimleri ile Tutarlı ve Çelişik İfadelerin Belirlenmesi ...................................................................................58 OKUMA PARÇASI .....................................................................................63 2.2.
+68 - 68: DÜŞÜNME VE AKIL YÜRÜTMEDE DİLİN ÖNEMİ 2.2.1.
+69 - 69: Dilin İfade Etme ve Kavramlaştırma İşlevi..........................64 2.2.2.
+70 - 70: Kavramları Yanlış Kullanmanın Anlam Üzerindeki Etkisi .66 OKUMA PARÇASI .....................................................................................69 2.3.
+71 - 71: KONUYLA İLGİLİ FELSEFİ SORULAR OLUŞTURMA 2.3.1.
+72 - 72: Kendi Sorularımızı Oluşturalım ..........................................70 OKUMA PARÇASI .....................................................................................73 2.4.
+73 - 73: FELSEFİ BİR GÖRÜŞÜ VEYA ARGÜMANI SORGULAMA 2.4.1.
+74 - 74: Görüş ve Argümanların Tespit Edilmesi ve Tartışılması ....74 2.4.2.
+75 - 75: Felsefi Bir Görüşün Tespit Edilmesi ve Bu Görüşü Temellendiren Argümanların Tartışılması....................................83 ÖZET...........................................................................................................87 2.
+76 - 76: ÜNİTE İÇİNDEKİ UYGULAMALARIN CEVAP ANAHTARI.............89 2.
+77 - 77: ÜNİTE ÖLÇME VE DEĞERLENDİRME SORULARI...........................90 SÖZLÜK......................................................................................................93 KAYNAKÇA................................................................................................97 8 “Tek bildiğim şey, hiçbir şey bilmediğimdir.” Sokrates 1.ÜNİTE FELSEFEYİ TANIMA 8 9 1.1.
+78 - 78: FELSEFENİN ANLAMI  1.1.1.
+79 - 79: Düşünmenin Önemi ve Gerekliliği  1.1.2.
+80 - 80: Filozoflara Göre Felsefe Tanımları  1.1.3.
+81 - 81: Felsefenin Tanımı  1.1.4.
+82 - 82: Filozof Kimdir?
+83 - 83: 1.2.
+84 - 84: FELSEFİ DÜŞÜNCE  1.2.1.
+85 - 85: Felsefi Düşüncenin Ortaya Çıkışı  1.2.2.
+86 - 86: Felsefi Düşüncenin Özellikleri  1.2.3.
+87 - 87: Felsefe Sorusunun Özellikleri 1.3.
+88 - 88: FELSEFENİN İNSAN VE TOPLUM HAYATI ÜZERİNDEKİ ROLÜ  1.3.1.
+89 - 89: Felsefenin Bireysel ve Toplumsal İşlevleri  1.3.2.
+90 - 90: Felsefe Hayat İlişkisi ANAHTAR KELİMELER Felsefe (Philosophia) Hikmet (Bilgelik, Sophia) Bilgi Bilinç Özbilinç Sorgulama Merak Etme Hayret Etme Eleştirel Olma Şüphe Duyma Tutarlı Olma Refleksif Olma Evrensel Olma Yığılımlı İlerleme Sistemli Olma 10 Felsefe dersinin ilk ünitesi “Felsefeyi Tanıma” adını taşımaktadır.
+91 - 91: Siz hiç kendinize, “Bu dünyadaki varlığımın anlamı nedir, neden dünyaya geldim?”, “Evrende var olan her şeyin nedeni ne olabilir?”, “Doğadaki değişimler nasıl, neye göre gerçekleşmektedir?”, “Mutlu olmak için ne yapmalıyım?” türünden sorular sordunuz mu?
+92 - 92: Eğer benzer sorular sorduysanız felsefeyle tanışmışsınız demektir.
+93 - 93: Bunlar felsefenin en temel soruları arasında yer almaktadır.
+94 - 94: Bu sorulardan anlaşılabileceği gibi insan evrendeki her şeyi merak edebilir, düşünebilir.
+95 - 95: Felsefe var olan her şey üzerine düşünsel bir etkinliktir.
+96 - 96: Felsefe neyi ele alırsa alsın doğrudan veya dolaylı olarak insan dünyasıyla ilgilidir.
+97 - 97: Var olan her şey insan varsa anlamlıdır çünkü anlam veren varlık insandır.
+98 - 98: Bu nedenle felsefe bilinçli insanın yaşadığı dünyaya ve yaşamına anlam verme çabasıdır.
+99 - 99: Nitekim Karl Jaspers “Nerede bir insan varsa orada felsefe vardır.” der.
+100 - 100: Diyebilirsiniz ki insanın bilim, sanat gibi başka düşünsel etkinlikleri de vardır.
+101 - 101: Peki, bunlardan hangisi “İnsan nedir?”, “Varlık nedir?”, “İyi yaşam nedir?” diye sorar.
+102 - 102: Bu soruların anlamını soran ve arayan felsefedir.
+103 - 103: Bu ünitede biz, felsefenin ne anlama geldiğini öğreneceğiz.
+104 - 104: Felsefi düşüncenin özelliklerini tanıyarak, felsefenin insan ve toplum yaşamındaki rolünü ortaya koyacağız.
+105 - 105: Görsel 1.1.
+106 - 106: Aristoteles (MÖ 384-322) “Felsefe yapmak lazımdır diyorsunuz, o hâlde felsefe yapmak lazımdır.
+107 - 107: Felsefe yapmamak mı lazımdır diyorsunuz, bunu yapmak için yine felsefe yapmak lazımdır.” Aristoteles 1.
+108 - 108: ÜNİTEYE GİRİŞ 11 1.1.1.
+109 - 109: Düşünmenin Önemi ve Gerekliliği Sokrates “Üstüne düşünülmemiş bir yaşam yaşanmaya değer değildir.” der.
+110 - 110: Sizce insanın yaşamı üzerine düşünmesi ona neler kazandırır?
+111 - 111: İnsanın yaşamını sürdürebilmesi için doğanın sırlarını çözmesi ve parçası olduğu dünyada anlamlı yaşam geçirmesi için kendini tanıması gerekmektedir.
+112 - 112: Bunların bilgisini edinmek de insanın düşünmesi sayesinde gerçekleşmektedir.
+113 - 113: Her şeyden önce insanın doğayı anlama isteği doğuştan gelir.
+114 - 114: İnsan, dünyaya sadece yaşamını sürdürme ve kendini koruma gibi birtakım yeteneklerle değil, akıl denen bir güçle gelmiştir.
+115 - 115: Aklı sayesinde hem dünya hem de kendine dönük düşünebilmeye yetenekli bir varlıktır.
+116 - 116: Hazır bilgilerle dünyaya gelmediğinden, her şeyi bilmeye ihtiyaç duyar.
+117 - 117: Bu yapısından kaynaklanan bilinmeyeni bilinir kılma isteği onu asla rahat bırakmaz.
+118 - 118: Bu nedenle dünyayı anlamak için pek çok soru sorar ve bunlara yanıt bulmak ister.
+119 - 119: Böylece var olan şeyler arasındaki ilişkileri, bağları bulmaya çalışır.
+120 - 120: İnsanın bilme denilen bu anlama, açıklama çabası olmasaydı ne olurdu?
+121 - 121: Bu durumda insanın, kendisini çevreleyen gerçekliği anlaması, onunla ilişki kurması ve hatta yaşaması mümkün olmazdı.
+122 - 122: Başka bir söylemle giyinmesi, beslenmesi, varlığını sürdürmesi, doğayı anlaGörsel 1.2.
+123 - 123: İnsan kendisi ve dünya üzerine düşünen tek varlıktır.
+124 - 124: 1.1.
+125 - 125: FELSEFENİN ANLAMI Ünitemizin bu bölümünde, felsefenin ne anlama geldiğini belirlemek için “Bilgi, bilinç ve özbilinç nedir?” sorularından hareketle düşünmenin önemi ve gerekliliğini açıklayacağız.
+126 - 126: Filozofların neyi aradıklarını, felsefeyi nasıl tanımladıklarını belirleme yoluyla felsefenin doğasına ilişkin bir fikir edineceğiz.
+127 - 127: Ardından filozofların sahip olduğu özellikleri belirleyeceğiz.
+128 - 128: 12 ması, bilim, teknik gibi alanlardaki başarılarıyla yaşamını kolaylaştırması ve en önemlisi yaşama amacının farkında olabilmesi kısacası her şey bilgisi sayesinde gerçekleşir.
+129 - 129: Şimdi kendimize şu soruları soralım: İnsanın bilmek istediği şeyler nelerdir?
+130 - 130: Bilme; özne olarak insanın, nesne olarak var olanla karşılaşması mıdır?
+131 - 131: Bilgi nedir?
+132 - 132: İnsan bilmeyi nasıl gerçekleştirir?
+133 - 133: İnsan kendisini ve dünyadaki tüm var olanları bilmek ister.
+134 - 134: Bu bilme etkinliğinde insan düşünen yani özne (suje) iken, onun karşılaştığı ve bilmek istediği varlıklar ise nesne (obje) dir.
+135 - 135: Bilgi ise özne ile nesne arasındaki ilişki sonucunda ortaya çıkan bir üründür.
+136 - 136: Başka bir ifade ile bilgi, var olanı tanımaktır.
+137 - 137: Burada önemli olan bir şeyi söylemeden geçmeyelim, bilinmek üzere ele alınan nesnelere ilk hareket özneden gelir.
+138 - 138: Anlam veren varlık odur.
+139 - 139: Bu durumda bilgide insandan var olana doğru yönelen bir bilinçlilik hâli vardır.
+140 - 140: Bilinç, insanın kendisi, yaşantıları, dünya üzerindeki bilgisi, aynı zamanda düşünme ve kendini tanıma yeteneğidir.
+141 - 141: İnsan düşünüşünün var olana yönelmesiyle bilim, sanat, teknik gibi bilgi türleri kazanılmakta, bu da ona bir düşünme zenginliği getirmektedir.
+142 - 142: İnsan, bilinçli bir varlık olma özelliği ile yaşadıkları karşısında olumlu ya da olumsuz tavır alabilmekte, dünya içerisinde kendi yeri ve değeri üzerinde düşünebilmektedir.
+143 - 143: 1.
+144 - 144: Uygulama: İnsanın doğayla ilgili elde ettiği bilgiler üzerine derin düşünmesi, bir süre sonra kendi ilgisinin, kendi düşünmesinin yine kendisine yönelmesine neden olur.
+145 - 145: Siz de dünyadaki yeriniz, amaçlarınız hakkında düşünerek, bunun size neler kazandırabileceğini aşağıda ayrılan yere yazınız?
+146 - 146: ............................................................................................................................................. ............................................................................................................................................. ............................................................................................................................................. ............................................................................................................................................. ............................................................................................................................................ ............................................................................................................................................ İnsanın, düşünme eylemini gerçekleştiren bir varlık olarak, bu düşünme eylemi üstüne düşünmesi, bu bilinç uyanışı, felsefe etkinliği için ilk adımdır.
+147 - 147: Bu ona, dünya ve kendi var oluşu üzerinde hep yeniden ve derin düşünmeyi gerektiren bir bakış açısı sağlar.
+148 - 148: Böylelikle kendisi üzerine eğilmesiyle kendisini ve kendisinin evrendeki yerini sorgulaması, var olanlara anlam vermesinin başlangıcıdır.
+149 - 149: İşte, bu arayışı insanı özbilinç seviyesine taşıyan şeydir.
+150 - 150: Özbilinç, düşünen öznenin kendi üstüne dönerek düşünmesi, duygularına, algılarına, bilgilerine ve kavrayışlarına bağlı olarak kendini 13 Görsel 1.3.
+151 - 151: İnsanın kendini sorgulaması ve tanıması , dünyadaki yerini fark etmesine katkı sağlar.
+152 - 152: anlama, tanıma ya da bilme yeteneğidir.
+153 - 153: Buradan anlaşılıyor ki insanın yaşadıkları üzerine düşünmesi, neyi nasıl düşündüğünün hesabını vermesi, yaptıklarının değerini sorgulaması gerekir.
+154 - 154: Bu açıdan düşünmek zordur ve insanın bilgi, duygu, eylem gibi her yönünü dikkate alan bir etkinliktir.
+155 - 155: İşte bir düşünme etkinliği olan felsefe kişinin kendini bilmesine giden yolu açar.
+156 - 156: Öyle ki “Kendini Bil” buyruğu filozoflarca önemsenmiştir.
+157 - 157: Örneğin, Mevlâna’nın “Dün akıllıydım dünyayı değiştirdim.
+158 - 158: Bugün ise bilgeyim, kendimi değiştirdim.” sözünü düşünelim.
+159 - 159: Sonra Yunus Emre’yi hatırlayalım.
+160 - 160: “İlim ilim bilmektir.
+161 - 161: İlim kendini bilmektir.
+162 - 162: Sen kendini bilmez isen ya nice okumaktır.” derken insanları kendini bilmeye yöneltmektedir.
+163 - 163: Daha da öncesinde Sokrates’i unutmayalım.
+164 - 164: İnsanın kendini bilmesi ve kendine hâkim olması gerektiğini ünlü filozof Sokrates (MÖ 469-399) “Üstüne düşünülmemiş bir yaşam yaşanmaya değer değildir.” diyerek ifade etmiştir.
+165 - 165: Sokrates burada kişiden kendisi üzerine düşünerek her şeyden önce bilmediğinin farkında olmasını, bilgisinin sınırlarını bilmesini ister.
+166 - 166: Bunu bilmesinin onda bilginin peşinden koşma isteğini doğuracağına inanır.
+167 - 167: Şimdi burada duralım ve dünyamıza bir bakalım.
+168 - 168: Yaşanan tüm sorunların insanın insanla, insanın toplumla, insanın doğayla ilişkisinden kaynaklandığını görürüz.
+169 - 169: Bunun içindir ki insanın sorunlarının farkına varabilmesi kendisini tanımasına bağlıdır.
+170 - 170: Kendini anlamaya çalışmak bir bakıma başkalarını anlamayı da zorunlu kılar.
+171 - 171: Dünyadaki yerinin ve niçin var olduğunun farkında olan kişinin varlığının gerçek değerini ortaya çıkaracağını ve anlamlı yaşayacağını söyleyebiliriz.
+172 - 172: Bilinçli bir varlık olan insan düşünür.
+173 - 173: Düşünen insan kendisi ve dış dünyayı tanımak için sorular sorar.
+174 - 174: Bilimde, sanatta, teknikte gelişmeler ortaya koyar, yeni bilgiler üretir.
+175 - 175: Elde ettiği bilgiler ve kavramlar üzerine düşünür.
+176 - 176: Böylelikle insan, var olan bilgileri yeniden tartışmaya, 14 soruşturmaya açarak bu bilgilerden hareketle en doğru bilgiye ulaşmaya çabalar.
+177 - 177: Herhangi bir konuda doğrulara ulaşıldığı düşünülse de o sonuçlarla yetinmez ve onları sorgulamaya devam eder.
+178 - 178: Bu çabası düşüncenin yeniden üretilmesine neden olur.
+179 - 179: Tam da burada insanın elde ettiği bilgiler üzerine yeniden düşünmesini ve eleştirel olmasını sağlayan bu düşünüşün felsefe olduğu söylenebilir.
+180 - 180: Felsefeyle insan hem dünyaya ilişkin bilgileri hem de kendi üstüne dönerek neyi, ne kadar, nasıl bildiğini sorgular.
+181 - 181: Bu da insanın hakikat yolundaki bilgi arayışını daima sürdürmesini sağladığı gibi var oluşunun bilincine varmasına da katkıda bulunur.
+182 - 182: 1.1.2.
+183 - 183: Felsefenin Tanımı Sizce insan hakikate ulaşabilir mi?
+184 - 184: Arapçadan dilimize geçen felsefe kelimesi, Yunanca Philosophia (filyasofya) sözcüğünden gelmektedir.
+185 - 185: Philosophia ise philia (filia) (sevmek, peşinden koşmak) ve sophia (sofya: bilgi, bilgelik, hikmet) sözcüklerinden oluşan bir kelimedir.
+186 - 186: Felsefe, bilgelik (Arapçası hikmet) sevgisi demektir.
+187 - 187: + = İlk filozof olarak anılan kişi MÖ 6.yy.
+188 - 188: da Antik Yunanlı bir düşünür olan Thales (Tales)’tir.
+189 - 189: Öte taraftan kendisine filozof unvanını veren, filozof sözcüğünü kullanan ilk kişi Pythagoras [Pitagoras (MÖ 596-500)]’tır.
+190 - 190: Ondan öncekiler de bilge olarak bilinmiş ve her şeyi bilen kişiler olarak görülmüştür.
+191 - 191: Buna karşın Pythagoras, kendisini bilge Görsel 1.4.
+192 - 192: Felsefe hakikat arayışındadır.
+193 - 193: PHİLİA (SEVGİ) SOPHİA (BİLGELİK, HİKMET) PHİLOSOPHİA (BİLGELİK, HİKMET SEVGİSİ) 15 2.
+194 - 194: Uygulama: Sophia, bilgi, bilgelik, sevgi, arayış, hakikat kavramlarının felsefeyle ilişkisini düşünerek aşağıda numaralandırılmış yerleri, her kavramı bir defa kullanarak doldurunuz.
+195 - 195: Felsefe, …1….sevgisi demektir.
+196 - 196: Hikmet; bilgelik (sophia) demektir.
+197 - 197: Filozof ise hikmeti, bilgeliği sevendir.
+198 - 198: Felsefe kelimesi, Yunanca Philosophia sözcüğünden gelmektedir.
+199 - 199: Philosophia ise philia .........2… ve …3… (bilgelik, hikmet) sözcüklerinden oluşan bir kelimedir.
+200 - 200: Bilgelik ise tüm olup bitenlerin esasını bilmektir.
+201 - 201: Başka bir ifadeyle var olan her şey hakkında tam, doğru ve evrensel bir bilgiye sahip olmaktır.
+202 - 202: Felsefe ise böyle bir iddiada değildir.
+203 - 203: Filozof da her şeyi bilen değil, sadece ……4… yi seven, .....5…..i, doğruyu bulmak isteyen, hikmet ……6….ında olan kimsedir.
+204 - 204: olmaktan çok, bilgelik dostu olarak tanımlamıştır.
+205 - 205: Ona göre, bilgelik, yalnız tanrılara yakışır ve insanın ömrü, tüm hakikatleri bilmesine yeterli olmadığından ona yakışacak olan, bilgiyi sevmek ve bilgeliğe ulaşmaya çabalamaktır.
+206 - 206: Bilgelikten (hikmet) kastedilen şey, bütün var olanlar hakkında tam, doğru ve evrensel bir bilgidir.
+207 - 207: Aynı zamanda dünyaya, kendisine, yaşama ilişkin sağlam bir kavrayışa sahip olma, her türlü ölçüsüzlükten kaçınma tavrıdır.
+208 - 208: Dolayısıyla bu ikinci anlamıyla bilgelik, insanı kurtuluşa eriştirecek bir bilgi, bir yaşama tarzıdır.
+209 - 209: Örneğin, Newton’un evrensel çekim yasası, fizik bilimine ilişkin bir bilgi olmasına rağmen; bu bilgi, evreni belli bir plana göre düzenli ve uyumlu olarak yaratan Tanrı’nın bir işareti olarak yorumlandığında artık bir bilgelik olur.
+210 - 210: Bu durumda bilgelik, bilgiden farklı, çok daha geniş bir kavramdır.
+211 - 211: Bilgelik (hikmet), tüm olup bitenlerin esasını bilmektir.
+212 - 212: Felsefe ise böyle bir iddiada değildir.
+213 - 213: Felsefe, bir şeyi hakiki anlamda bilmeyi, anlamayı istemek anlamına gelir.
+214 - 214: Bilgeliğe, bilge olmaya, kişisel bilgeliğe varmak için sevgiye dayanan bir çabadır.
+215 - 215: Filozof da her şeyi bilen değil; sadece bilgiyi seven, doğruyu, hakikati bulmak isteyen, hikmet arayışında olan kimsedir.
+216 - 216: Felsefe, var olanların varlığı, anlamı ve nedeni üzerine sorularla ortaya çıkan, merak ve bilme isteğiyle sürdürülen düşünsel bir etkinliktir.
+217 - 217: İnsanın hiçbir çıkar gözetmeksizin sadece ve sadece bilmek isteğiyle hakikatin peşinden koşması, hakikati bulma arayışıdır.
+218 - 218: Genel olarak felsefeyi “insan, evren ve değerleri anlamak amacıyla sürdürülen en geniş bir araştırma, birleştirici ve bütünleştirici bir açıklama gayreti” şeklinde tanımlayabiliriz.
+219 - 219: 16 Felsefe ve Toplum Karl Jaspers (Karl Cespırs) felsefenin doğuşunda şu üç etkeni görüyor: Hayret, şüphe ve insanın sarsılması.
+220 - 220: Hayret, Platon ve Aristoteles (Aristoteles)’i varlığın özünü aramaya sevk etti; Descartes (Dekart)’ı şüphe edilmez kesin bilgiye yöneltti; Stoacıları hayatın ıstırabından ruhun sükûnunu aramaya yöneltti.
+221 - 221: Sözü edilen insan ruhunun üç hâli felsefenin doğmasına sebep olduğu gibi felsefe yapmanın devamının da önemli etkenidir.
+222 - 222: Felsefe, karşıt görüşlerin yer aldığı bir bilgi dalıdır.
+223 - 223: Felsefe tarihi birbirini reddeden bilgilerle doludur ve felsefe bu biçim üzere sürüp gider.
+224 - 224: Felsefi bilginin bu çoğulcu niteliği, insanın mutlak bilgiyi elde edemeyeceğinin bir delilidir.
+225 - 225: Bu da insanın dogmatik ve fanatik olmaması gerektiğini telkin eder.
+226 - 226: Böyle bir telkin insanda hoşgörü duygusunun doğmasının en önemli etkenidir.
+227 - 227: İşte böyle bir bilgi, olanın olduğu gibi bilinmesini, insanın var olanlar karşısında kendine uygun tavır almasını, bir konuya bütüncül bir görüşle yaklaşmasını, kendisini yanlışlara sürükleyecek dogmatizm ve fanatizmden kurtulmasını sağlayacak bir tutuma sokar ki bu tutum felsefi tutumdur.
+228 - 228: Felsefi tutum felsefe yapanlar için olduğu gibi diğer bütün kültür alanlarında zihin faaliyetinde bulunanlar içinde gereklidir.
+229 - 229: Bu cümleden olarak filozof kadar bilim adamı, sanatkâr, din adamı, politikacı da mesleklerinde başarılı olabilmeleri için felsefi tutuma ihtiyaçları vardır.
+230 - 230: Önemini belirttiğim felsefi tutum ancak felsefe öğrenmekle kazanılır.
+231 - 231: Felsefe ya okulda ya okul dışında kitapla öğrenilir.
+232 - 232: Ciddi ve sağlam bir felsefe öğretimi bir toplum için kaçınılmazdır.
+233 - 233: Bu öğretim öğrenciye felsefi tutumu kazandırmayı hedef almalıdır.
+234 - 234: Kişiler bu hedefe felsefi bilgiler edinmekle ulaşır.
+235 - 235: Felsefe bilmeden ne felsefe yapılır ne de felsefi tutum kazanılır.
+236 - 236: Felsefi bilgiler de fikir tarihi boyunca filozofların ortaya koydukları fikirlerdir.
+237 - 237: Necati Öner, Felsefe Yolunda Düşünceler Kısaltılarak alınmıştır.
+238 - 238: OKUMA PARÇASI 16 17 1.1.3.
+239 - 239: Filozoflara Göre Felsefe Tanımları Filozoflar hakikate ulaşmada aynı çabayı taşıdıkları hâlde neden birbirlerinden farklı düşünceler ortaya koyarlar?
+240 - 240: Görsel 1.5.
+241 - 241: Filozoflar var olanın doğru bilgisine yani hakikate ulaşmak ister.
+242 - 242: Felsefenin ne olduğu, yanıtlanması güç bir sorudur.
+243 - 243: Felsefe, farklı dönemlerde farklı anlamlara karşılık gelmiştir.
+244 - 244: Ne yazık ki herkesin üzerinde uzlaşabileceği bir tanım verilememiştir.
+245 - 245: Felsefenin bilmek ve anlamak istediği insanın kendisi, içinde yaşadığı dünya ve bu dünyada hayatına yön verecek değerlerdir.
+246 - 246: Böylelikle felsefede çok çeşitli konular ele alınmış ve metafizik konularla ilgilenilmiştir.
+247 - 247: Aynı zamanda farklı dönem ve kültürlerde yaşayan filozoflar, farklı tarihsel ve toplumsal koşullardan etkilenmiş ve gerçekliği, kendi mizaç ve bakış açılarına göre değerlendirmişlerdir.
+248 - 248: Elbette tüm bunların felsefenin kapsamı, amacı, içeriği ve işlevinde farklılıklara neden olacağı açıktır.
+249 - 249: Bu durumda filozofların yaptıkları felsefe tanımları da farklılaşmıştır.
+250 - 250: Felsefeye ilişkin tanım denemelerinde bir görüş birliği olmasa da benzer noktalar vardır.
+251 - 251: Filozoflar, içinde yaşadığı dünyada olup bitenleri anlamak, doğruya ulaşmak ve değerlere göre yaşamak gibi ortak problemlerle ilgilenirler.
+252 - 252: İnsan yaşamını ilgilendiren her şey hakkında akıl yürütür ve akla dayalı açıklamalar yaparlar.
+253 - 253: Evrensel bir bakış açısıyla her şeyin anlamını sorgularlar.
+254 - 254: Bilgiyi, bilmeyi sever; gerçeğin doğru bilgisine yani hakikate J. J. Rousseau (Russo), “Yeşillikler ve ormanlıklar, bir âşık için mutluluk kaynağı sayılırken, bir avcı için avcılık yapılacak yer olarak görülür.” der.
+255 - 255: İşte bunun gibi filozoflar da aynı gerçeği, kendi görüş açılarına göre yorumlarlar.
+256 - 256: 18 ulaşmak için çaba gösterirler.
+257 - 257: Bu arayışta her tür bilgiyi eleştirel bir gözle değerlendirirler.
+258 - 258: Böylelikle esasında hepsinin yaptığı felsefe denilen düşünme etkinliğidir.
+259 - 259: Öyleyse bu kadar çok anlayışın olması bize, felsefenin hiç bitmeyecek bir sorgulama ve araştırma olduğunu gösterir.
+260 - 260: Felsefe de aynı konuda birbirini yok edemeyen farklı fikirlerin olması insanın değişmez, mutlak bilgiyi elde edemeyeceğinin ancak bu arayışın daima süreceğinin bir göstergesidir.
+261 - 261: Bu açıklamalardan sonra, filozofların yaptıkları felsefe tanımlarında benzer ve farklı noktalar olabileceğine göre bu tanımlara bakalım: Antik Yunan filozofu Platon (MÖ 427-347)’a göre felsefe, “Doğruya varmak, var olanı bilmek için düşüncenin yöntemli bir çalışmasıdır.” Buna göre o, felsefeyi, insanı hakikate götürecek bir yol olarak görür.
+262 - 262: Bazı filozoflar da felsefeyi, varlıkla ilgili bir tür bilgi ya da bilgelik olarak görmüşlerdir.
+263 - 263: Filozofun da bilgiden amacı gerçeğin bilgisini yakalamaktır.
+264 - 264: Yine bir Yunan düşünürü olan Aristoteles (MÖ 384-322) felsefeyi “Var olanın ilk ilkelerinin ve temellerinin araştırılmasıdır.” şeklinde tanımlamıştır.
+265 - 265: İslam filozofu El-Kindi (801-873), “Felsefe, insanın gücü ölçüsünde varlığın hakikatini bilmesidir.” derken, Türk-İslam filozofu Farabi (870-950)’ye göre felsefe, “Var olmaları bakımından varlıkların bilinmesidir.” İbn-i Sina (980-1037) ise insan aklının sınırlı olduğunu, bu nedenle de insanın nesnelerin hakikatini bilemeyeceğini savunmuştur.
+266 - 266: Buna göre o, felsefenin amacını “Bir insanın nesnelerin hakikatlerini kavrayabileceği kadar kavramasıdır.” şeklinde vermiştir.
+267 - 267: Alman filozofu Immanuel Kant (İmmanuel Kant) (1724-1804) Aydınlanma Dönemi düşünürüdür.
+268 - 268: Bu dönemin temel motifi akıldır.
+269 - 269: O yaşadığı dönemin etkisiyle aklın bilme yetisinin sınırlarını sorgulamış, aklın insan Görsel 1.
+270 - 270: 6.
+271 - 271: Platon  (MÖ 427-347) Görsel 1.
+272 - 272: 7.
+273 - 273: Avicenna, Avrupalıların İbn Sina’ya taktığı “Vazgeçilmez” anlamında bir isimdir.
+274 - 274: 19 yaşamında yol göstericiliğine öncelik tanımıştır.
+275 - 275: Kant’a göre, “Felsefe kendisini akla dayanan nedenlerle meşru kılmak veya haklı çıkarmak iddiasında bir zihinsel etkinlik biçimidir.” Buna göre felsefe, insanın her türlü akıl yürütmesini birtakım gerekçelerle ortaya koymasını sağlayan bir etkinliktir.
+276 - 276: Tüm bu felsefe tanımları felsefede tek bir doğru görüşün kabul edilmediği, aynı konuda farklı fikirlerin olduğunu gösterir.
+277 - 277: Bu düşünce zenginliği aslında felsefenin doğasını aydınlatmaktadır.
+278 - 278: Felsefe, ilk ortaya çıktığı andan günümüze dek gelişmiş, değişmiş bir etkinliktir ancak olmuş bitmiş bir yapısı yoktur.
+279 - 279: Bunu Karl Jaspers (1883-1969), “Felsefe yapmak, sürekli yolda olmaktır.” diyerek ifade etmiştir.
+280 - 280: Benzer şekilde felsefenin eleştirel, sorgulayıcı bir düşünüş ve bitmeyecek bir arayış olduğuna vurgu yapan başka filozoflarda vardır.
+281 - 281: Bu düşünürlerden biri olan Türk düşünürü Hilmi Ziya Ülken (1901- 1974) felsefeyi, “Bir eleştirme ve tespit etme faaliyeti” olarak tanımlamıştır.
+282 - 282: Ülken aynı zamanda felsefeyi ''varlık hakkındaki düşünce ve bu düşünce üzerinde düşünce'' olarak da görmüştür.
+283 - 283: Ona göre felsefenin en önemli problemleri varlık ve insandır.
+284 - 284: Diğer bir Türk düşünürü Takiyettin Mengüşoğlu (1905-1984) ise felsefeyi, “Nesnel gerçekliğin hemen her boyutunda olup bitenler üzerinde gerçekleştirilen sorgulamadır, çok yönlü, kuşkulu ve derinlemesine düşünce biçimidir.” şeklinde değerlendirmiştir.
+285 - 285: Görsel 1.8.
+286 - 286: K. Jaspers’e göre felsefe, yolda, hakikat yolunda olmaktır.
+287 - 287: 3.
+288 - 288: Uygulama: Filozofların yaptıkları felsefe tanımlarındaki benzer ve farklı noktaların neler olabileceğini düşünerek aşağıda ayrılan yere yazınız.
+289 - 289: .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... .......................................................................................................................................... 20 1.1.4.
+290 - 290: Filozof Kimdir?
+291 - 291: Günümüze ulaşmış bir hikâye vardır.
+292 - 292: Hikâyeye göre kendini beğenmiş, giyinip gezmekten başka hiçbir şey düşünmeyen bir kral varmış.
+293 - 293: Bir gün komşu ülkenin kralı kendisini ziyarete geleceğini bildirmiş.
+294 - 294: Bunun üzerine kral kendisine dünyada eşi benzeri olmayan bir elbise diktirmeye karar vermiş.
+295 - 295: Bu işten çıkar sağlamak isteyen terziler ise kralı sadece zeki insanların görebildiği iddia edilen bir elbise diktiklerine inandırmışlar.
+296 - 296: Sarayda kimse elbiseyi görmediği hâlde, diğerleri aptal olduğunu düşünmesin diye görüyormuş gibi rol yapmış.
+297 - 297: Saraydan çıktığında onu gören halk şaşırmış ama cesaret edip de krala gerçeği söyleyememiş.
+298 - 298: Ansızın küçük bir çocuk “Kral çıplak!” diye haykırmış.
+299 - 299: Hikâyedeki çocuğun tutumu ile filozofun tutumu arasında bir bağlantı kurmak gerekirse sizce bir filozofu diğerlerinden ayıran özellikler neler olabilir?
+300 - 300: Görsel 1.9.
+301 - 301: İtalyan Rönesans sanatçısı Raphael (1509-1511) tarafından yapılan tabloda Sokrates, Platon, Aristoteles, Diogenes gibi pek çok filozofun resmedildiği görülmektedir.
+302 - 302: Önceki dersimizde filozofların var olan her şeyle ilgili tam, eksiksiz bilgilere sahip olmaktan çok, sürekli hakikati arama yolunda olan kişiler olduğunu söylemiştik.
+303 - 303: Yine Karl Jaspers (1883-1969)’ın filozof için “Bilgeliğin peşinden koşan.” ifadesini kullandığını hatırlayalım.
+304 - 304: “Bilgiyi seven, bilgelik arayışına muhtaç olduğunu hisseden filozofu diğer insanlardan farklılaştıran şey, onun kendi kendine soru soran kişi olmasıdır.” O, tüm hayatı boyunca görüp duyduğu her şey hakkında sorgulama yapan, onlardaki problemleri gören birisidir.
+305 - 305: Filozof düşüncelerini mantıksal bir tutarlılıkla ortaya koyan ve sistemli bir bütünlük içinde sunandır.
+306 - 306: O, karşıtlıkları içinde hayatı, hayatın anlamını, anlamsızlığı, doğruyu yanlışı, iyiyi kötüyü, bizi mutluluğa götüreni bilmeye çalışır.
+307 - 307: “Wittgenstein’ın belirttiği gibi “Filozof, hiçbir düşünce coğrafyasının vatandaşı olamaz.” Ne bilgi filozofun malıdır ne de bilgelik filozofun sahip olduğu bir şeydir.
+308 - 308: Bu anlayıştan hareketle filozof, bulduğu her tür bilgiye asla hakikat gözüyle bakmaz.
+309 - 309: O, hiçbir varsayımı, çıkarımı, bilgiyi sorgulamadan, eleştirmeden kabul etmeyen bir kişidir.
+310 - 310: 21 Görsel 1.10.
+311 - 311: Filozof dünyada var olan sorunları kendine problem edinen kişidir.
+312 - 312: Görsel 1.11.
+313 - 313: Esas marifet “Kral Çıplak!” diyebilmektir.
+314 - 314: Filozofun yaptığı tüm insanlığın sorunlarını kendine problem edinmek, bilim, sanat, siyaset gibi her alanda düşünerek yeni, özgün fikirler ortaya koyabilmektir.
+315 - 315: Onların getirdiği bu düşünce zenginliği ve yaşama tarzı yoluyla insanlar etrafında olup bitenleri fark eder ve gerçekleri görmeye başlarlar.
+316 - 316: Filozof, var olan her şeyi ve insan yaşamını bütün boyutlarıyla kavramaya çalışırken de alçak gönüllüdür ve “Ben bilirim.” iddiasında değildir.
+317 - 317: O, neyi bilip neyi bilmediğinin farkındadır.
+318 - 318: Kendi ön yargılarıyla, bilgisizlikleriyle yüzleşebilir ve kibre kapılmaz.
+319 - 319: Doğruların onu araştıran herkese açık olduğu anlayışıyla hakikate ulaşma isteğini taşır ve soruşturma azmini sürdürür.
+320 - 320: Bunların yanı sıra filozof, dediği ile yaptığı birbiri ile uyumlu olan, savunduğu düşünceleri hayatına aktarabilen bir kişidir.
+321 - 321: O, bilgece bir hayat tarzının yaşayan örneğidir.
+322 - 322: Filozoflar, “Kral Çıplak!” isimli hikâyedeki gerçeği haykırarak söyleyen çocuk gibi doğruları olduğu gibi söylerler.
+323 - 323: Sonra çorap söküğü gibi arkası gelir.
+324 - 324: Herkesin çocuğu onayladığı gibi filozofların çabası da toplumda er ya da geç fark edilir.
+325 - 325: Hakikat peşinde koşan bu filozoflar, eleştirel düşünen ve düşündüklerini her koşulda söyleyenlerdir.
+326 - 326: Bu yönleriyle filozoflar yaşadığı toplumda insanlarla ters düşme pahasına ve gerektiğinde ölümü göze alarak uyarma ve uyandırma sorumluluğu taşıyan kişilerdir.
+327 - 327: 4.
+328 - 328: Uygulama: Genel Ağda Eba sitesine girerek “yeni bir sunu oluşturma” konulu videoyu izleyiniz.
+329 - 329: Sunumun nasıl hazırlandığını öğrendikten sonra hem yukarıdaki metinden yararlanınız hem de başka kaynaklardan araştırma yapınız.
+330 - 330: Ardından bilişim teknolojilerini kullanarak “Filozof Kimdir?” sorusunu cevaplayıcı bir sunum hazırlayınız.
+331 - 331: Böylelikle hazırladığınız bu sunumu çevrenizdekilerle veya sanal ortamda paylaşınız.
+332 - 332: (Sunumdan sonra ünitenin bitimindeki kontrol listesini uygulayarak öğrendiklerinizi değerlendiriniz.)
+333 - 333: 22 1.2.
+334 - 334: FELSEFİ DÜŞÜNCE Ünitemizin bu bölümünde öncelikle felsefi düşüncenin nasıl ortaya çıktığını, felsefi düşüncenin merak etme, sorgulama, şüphe etme, eleştirel olma gibi temel özelliklerini tanıyacağız.
+335 - 335: Ardından Nermi Uygur’un “Bir Felsefe Sorusu Nedir?” isimli denemesinden hareketle felsefe sorusunun özelliklerini tespit edeceğiz.
+336 - 336: 1.2.1.
+337 - 337: Felsefi Düşüncenin Ortaya Çıkışı Görsel 1.12.
+338 - 338: Yunan mitolojisinin baş tanrısı Zeus’un erkek kardeşi olan Poseidon deniz ve nehir tanrısıydı.
+339 - 339: Denizde fırtınalar koparan, korkunç dalgaları oluşturan ve yıkıcı depremleri meydana getiren sebep ne olabilir?
+340 - 340: Bir zamanlar insanlar bunun sebebini Tanrı Poseidon’un, Zeus ve Athena gibi diğer tanrılara olan öfkesiyle açıklamışlardır.
+341 - 341: Sizce neden insanlar mitolojik açıklamalarla yetinmemişlerdir?
+342 - 342: Felsefi düşünce nasıl bir arayışla başlamıştır, hiç merak ettiniz mi ?
+343 - 343: Yeryüzüne adım attığı andan itibaren insan, evrensel bazı soruların cevabını merak etmiştir: “Doğada var olan her şeyin kökeni ve nedeni ne olabilir?, Evren nedir ve nasıl oluşmuştur?, İnsanın ve evrenin var olma nedeni ne olabilir?” bunlar sorulan sorulardan sadece bir kaçıdır.
+344 - 344: Peki şimdi düşünelim ve kendimize soralım:'' İnsanoğlu evreni nasıl anlamış, ona nasıl yorum getirmiştir?
+345 - 345: ''Doğadaki tüm olayların bir düzen içinde olduğunu gözlemleyen insanlar, bunların gerisinde bir nedenin olması gerektiğini düşünmüştür.
+346 - 346: Başlangıçta evren, doğa ve kendisi hakkındaki bu soruların karşılığını dinî-mitolojik açıklamalarla vermiştir.
+347 - 347: Başka bir ifadeyle, insanlar, olayların asıl nedenlerini açıklayamadığında evrende olup biten her şeyi; hayal gücüne 23 Görsel 1.13.
+348 - 348: İyonya denilen bölgede yer alan Milet antik kenti dayalı olarak, bunların gerisinde pek çok doğaüstü güç ve insanüstü varlık olduğuna inanarak anlamlandırma yoluna gitmiştir.
+349 - 349: Binlerce yıllık birikimin sonunda oluşmuş olan dinî-mitolojik açıklamalar o zamanın mevcut bilgi koşullarında yeterli görülmüş ve tartışmasız kesin kabul edilmiştir.
+350 - 350: Öte taraftan zamanla insanlar bu açıklamalardan tatmin olmamış, bunlardan şüphe duymaya ve onların verdiği yanıtları sorgulamaya başlamıştır.
+351 - 351: İşte felsefe, var olan her şeyin nedenini, esasını merak eden ve bunları bilmek, anlamak ihtiyacı duyan insan aklının her tür bilgiyi eleştiri süzgecinden geçirme çabasıyla MÖ 6.yy.da İyonya’ da doğmuştur.
+352 - 352: Bağımsız bir düşünce faaliyeti olarak felsefenin, Antik Yunanlılarda başladığı kabul edilir.
+353 - 353: Bugün bildiğimiz anlamdaki “var olanlar üzerine akla dayalı, sistemli bir düşünme” olan felsefeye yol açan Yunanlılar olmakla beraber bu bir mucize veya tesadüf değildir.
+354 - 354: Bununla birlikte Antik Yunan dışında da Çin, Hint, Sümer, Mezopotamya, Mısır ve İran’da önemli bir düşünce geleneğinin bulunduğu ifade edilir.
+355 - 355: Ne var ki bu medeniyetlerde “hikmet” denilebilecek öğeler bulunmakla birlikte bilimsel ve felsefi düşünce genelde dinî-mitolojik öğelerin etkisi altında kalmıştır.
+356 - 356: Yapılan çalışmalar pratik hayatın zorunlulukları sonucunda elde edilmiştir.
+357 - 357: Bu nedenle onların düşünceleri felsefe öncesi düşünceler olarak nitelendirilmiştir.
+358 - 358: Antik Yunanlıların doğaya yönelimleri ise pratik kaygılardan uzak, sadece bilmek isteğiyle gerçekleşmiştir.
+359 - 359: Onlar kendilerine sunulan her tür bilgiyi, anlayışı kendi düşünce birikimleri ve eleştirel bakış açısıyla değerlendirmişler; evren, insan, doğa hakkında akılsal kanıtlamalara dayanan genel, sistemli, kuramsal düşünceler geliştirmişlerdir.
+360 - 360: Coğrafi koşullarından dolayı gemicilik ve ticaretle uğraşan Antik Yunanlılar, zengin liman kentlerinde doğudaki medeniyetlerle ticari ilişkilerde bulunarak maddi refah düzeyine ulaştıkları gibi Bilgi Kutusu İyonya aşağı yukarı bugünkü İzmir ve Aydın illeri ile karşılarındaki adaların olduğu bölgelerdir.
+361 - 361: 24 5.
+362 - 362: Uygulama: Antik Yunan'da felsefi düşünceyi ortaya çıkaran koşulların neler olabileceğini düşünerek aşağıda ayrılan yere yazınız.
+363 - 363: .................................................................................................................................. .................................................................................................................................. .................................................................................................................................. .................................................................................................................................. .................................................................................................................................. ..................................................................................................................................
+364 - 364: Antik Yunanlılarda felsefe; eleştirel bir zihniyetle dinî-mitolojik düşünceden kopuşun sonucunda insanların doğayı, doğaüstü değil de yine doğada bulunan nedenlerle açıklamasıyla insan aklına dayanan bağımsız bir faaliyet olarak başlamıştır.
+365 - 365: onlarla yoğun bir kültürel alışverişte de bulunmuşlardır.
+366 - 366: Bu durum onlara maddi ihtiyaçlarını karşılamalarıyla beraber maddi kaygılar duymadan, felsefe için kaçınılmaz, olan boş zamanı da kazandırmıştır.
+367 - 367: Böylelikle doğu medeniyetleriyle olan etkileşimleri sayesinde bu kültürlerin bilgi birikimlerinden yararlanmışlardır.
+368 - 368: Antik Yunanlılar, doğu medeniyetlerinden sadece bilgi, buluş, öğreti almamışlar aynı zamanda onların farklı görüşleri ve bakış açılarını da tanımışlardır.
+369 - 369: Meraklı ve araştırmacı bir millet olmalarının da etkisiyle onlardan edindikleri bilgileri neden, niçin sorularıyla değerlendirmişler, kendilerine sunulan bilgilerle yetinmeyip dünyada olup bitenlerin gerçek sebebini merak etmişler ve anlamaya çalışmışlardır.
+370 - 370: Bu sayede her tür düşünceye eleştirel gözle bakabilmişlerdir.
+371 - 371: Bunlara ek olarak, Antik Yunan'da var olan demokratik düzen özgür düşüncelerin çıkması ve yaşaması için olumlu bir zemin oluşturmuştur.
+372 - 372: Felsefi düşünceyi ortaya çıkaran koşullara bakılacak olursa; bilme merakının olması, maddi refah ortamı, hazır bulunan bilgi birikimi ve bu farklı fikirlerin zenginliğiyle doğan kültür alışverişi, hoşgörü ve özgür düşünce ortamı ile doğayı akla ve gözlemlere dayalı olarak açıklama çabası görülür.
+373 - 373: Felsefe durup dinlenmeden, gerçekliğin doğru bilgisine ulaşmayı istemektir.
+374 - 374: 25 Thales (Tales) (MÖ 624-546), dünyadaki düzen, mevsimlerin birbirini izleyişindeki kusursuzluk karşısında hayrete düşmüş; gökyüzündeki güneş, ay ve yıldızların muhteşem görünüş ve dizilişi karşısında âdeta dehşete kapılmıştır.
+375 - 375: Bu düzenin kaynağını, gökyüzündeki dev nesneler arasındaki ilişkiyi, var olanların nereden gelip nereye gittiklerini merak etmiştir.
+376 - 376: Thales, bir şeylerin neden var olduğunu sorgulamış, anlamaya çalışmıştır.
+377 - 377: O, yeryüzündeki şeyleri bir kenara bırakıp “gökyüzünde olup bitenlere” ilgi göstermiştir.
+378 - 378: Thales, bir gün yanında gündelik işlerini yaptırdığı kölesiyle gezintiye çıkmıştır.
+379 - 379: Anlatılanlara göre, gökyüzüne bakarken, önündeki çukuru göremeyip yere boylu boyunca serilmiştir.
+380 - 380: Thales yere serilmekle de kalmamış kölesinin alayına hedef olmuştur.
+381 - 381: Kölesi “Siz filozoflar böylesiniz, ayağınızın altındakileri görmezken göklerde olup bitenleri anlamaya çalışırsınız!” demiştir.
+382 - 382: Sizce bu metinde felsefi düşüncenin hangi temel özelliklerinden bahsedilmektedir?
+383 - 383: Görsel 1.14.
+384 - 384: İlk Çağ'daki filozoflar aynı zamanda dönemin bilim insanlarıdır.
+385 - 385: Onların doğayı anlama arzusu felsefe ve bilimin doğmasına neden olmuştur.
+386 - 386: 1.2.2.
+387 - 387: Felsefi Düşüncenin Özellikleri Burada öncelikle Görsel 1.14’ü inceleyelim ve soru metnini okuyalım.
+388 - 388: Sonra ikisi arasında bir ilişki kuralım.
+389 - 389: Felsefi düşüncenin en temel özelliklerinden üç tanesinin karşınıza çıktığını fark edeceksiniz.
+390 - 390: İlki insanın hayret etmesi, ikincisi merak etmesi, üçüncüsü soru sormasıdır.
+391 - 391: Hayret insanın evrende olup bitenler karşısındaki şaşkınlığı ve hayranlık duygusudur.
+392 - 392: Bu duygu, onda bilme isteği doğurur ve onu soru sormaya iter.
+393 - 393: Merak; gerçeği bulmak isteyen insanın bilme arayışı, öğrenme isteğidir.
+394 - 394: Sorgulamak ise doğruya ulaşma çabasıyla insanın kendi yaşamıyla, evrenle ve bunların anlamıyla ilgili belirli türden sorular sormasıdır.
+395 - 395: Düşünme soru sormakla başladığından felsefede, sorular cevaplardan daha önemlidir.
+396 - 396: Soru sormanın durması demek, felsefenin durması demektir.
+397 - 397: 26 6.
+398 - 398: Uygulama: Şüphe gibi bir düşünme eğilimini durdurmanın veya sınırlandırmanın insana ne gibi etkileri olabileceğini aşağıda ayrılan yere yazınız.
+399 - 399: ............................................................................................................................ ............................................................................................................................
+400 - 400: Şüphe, felsefi sorgulamayı harekete geçireceği için oldukça önemli bir güçtür.

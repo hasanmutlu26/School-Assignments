@@ -1,0 +1,400 @@
+Görsel 2.24.
+Kromatinler hücre bölünmesi sırasında kısalıp kalınlaşarak kromozom hâlini alır.
+Çekirdek dört kısımda incelenir.
+Bunlar, a.
+Çekirdek zarı, b.
+Çekirdek plazması, c. Çekirdekçik ç. Kromatin ve kromozom a.
+Çekirdek Zarı: Çekirdeği sarar ve çift katlıdır.
+Çekirdek zarında por olarak adlandırılan delikler bulunur.
+Porlar çekirdekle sitoplazma arasında madde geçişini sağlar.
+RNA ve proteinler porlardan geçerek çekirdeğe girer.
+b.
+Çekirdek plazması: Çekirdeğin içini dolduran sıvıdır.
+Nükleik asitler, mineral maddeler, enzimler, proteinler ve çekirdekçik bu plazmada yer alır.
+c. Çekirdekçik: Yapısında DNA, RNA ve proteinler bulunur.
+Ribozomal RNA’ların (rRNA) sentezi burada gerçekleşir.
+Hücre bölünmesi sırasında çekirdekçik kaybolur.
+Bölünmenin son evresinde tekrar oluşur.
+ç. Kromatin ve Kromozomlar: Çekirdekte, DNA ve proteinlerin oluşturduğu yapı kromatin olarak adlandırılır.
+Kromatinler uzun, ince yumak şeklinde görünür.
+Hücre bölünmesi sırasında kısalıp kalınlaşan yumaklar kromozom hâlini alır.
+2.Ünite Hücre 61 2.1.3.
+Hücre Zarından Madde Geçişi Hücre zarının görevlerinden biri de hücreye madde giriş çıkışını kontrol etmektir.
+Hücre zarı seçici geçirgen özellikte olduğu için bazı maddelerin geçişine kolaylaştırırken bazı maddelerin geçişini engeller.
+Hücre zarından madde geçişlerinde; maddenin büyüklüğü, elektrik yükü, yağda veya suda çözünebilme özelliği ve konsantrasyonu etkilidir.
+Buna göre; • Glikoz, fruktoz, galaktoz, amino asit, yağ asiti, gliserol gibi küçük organik moleküller ile su, mineral, iyonlar gibi inorganik moleküller büyük moleküllere göre hücre zarından daha kolay geçer.
+• Nötr atomlar negatif iyonlara, negatif iyonlar da pozitif iyonlara göre zardan daha kolay geçer.
+• Yağı çözen ve yağda çözünen maddelerin zardan geçiş hızı, suda çözünen maddelerin geçiş hızından daha yüksektir.
+Örneğin A, D, E, K vitaminleri gibi yağda çözünen maddeler B, C vitaminleri gibi suda çözünenlere göre hücre zarından daha kolay geçer.
+Alkol, eter, benzen gibi yağı çözen maddeler de yağda çözünenlere göre hücre zarından daha kolay geçer.
+Molekül büyüklüğüne göre hücre zarından madde geçişleri tablodaki gibi gruplandırılır: I.
+Küçük Moleküllerin Zardan Geçişi Küçük moleküllerin hücre zarından geçişi, enerji harcanıp harcanmamasına göre iki şekilde gerçekleşir: A.
+Pasif Taşıma B.
+Aktif Taşıma A.
+Pasif Taşıma Pasif taşıma; moleküllerin çok yoğun olduğu ortamdan az yoğun olduğu ortama enerji harcamadan geçmesidir.
+Pasif taşıma kendiliğinden ve enerji harcamadan gerçekleşen bir olay olduğu için cansız ortamlarda da gerçekleşir.
+Örneğin; bir bardak suya birkaç damla mürekkep damlatıldığında mürekkebin bir süre sonra suyun tamamına dağılması pasif taşımaya örnektir.
+Hücre Zarından Madde Geçişleri Küçük Moleküllerin Taşınması - Pasif Taşıma - Difüzyon - Osmoz - Aktif Taşıma Büyük Moleküllerin Taşınması - Endositoz - Fagositoz - Pinositoz - Ekzositoz Görsel 2.25.
+Mürekkep taneciklerinin suda dağılması pasif taşımaya örnektir.
+62 Biyoloji 1 Pasif taşıma yolları difüzyon ve osmoz’ dur.
+1.
+Difüzyon Difüzyon; moleküllerin çok yoğun olduğu ortamdan az yoğun olduğu ortama yayılmasıdır.
+Difüzyon olayı çok yoğun ortam ile az yoğun ortam arasında molekül yoğunluğunda denge sağlanana kadar devam eder.
+Çaya karıştırılan şekerin çözünmesi difüzyona örnektir.
+Hücre zarındaki difüzyon basit difüzyon ve kolaylaştırılmış difüzyon olarak iki şekilde gerçekleşir.
+Basit difüzyonda moleküller zarda bulunan fosfolipit tabakasından geçiş yapar.
+Bu geçiş zarın her iki tarafındaki madde yoğunluğu eşitleninceye kadar devam eder.
+Yağda çözünen ve yağı çözen maddeler ile gaz molekülleri basit difüzyonla enerji harcanmadan ve taşıyıcı proteinler kullanılmadan hücre zarından geçer.
+Kolaylaştırılmış difüzyonda glikoz ve galaktoz gibi küçük moleküllerin geçişi zarın yapısında bulunan özel proteinlerle gerçekleşir.
+Bu proteinlere taşıyıcı protein denir.
+Taşıyıcı proteindeki şekil değişikliği ile küçük moleküller enerji harcanmadan zarın diğer tarafına geçmiş olur.
+Difüzyon olayında enerji harcanmaz, bu yüzden canlılık şart değildir.
+Bir maddenin difüzyon hızı zardaki protein kanalının sayısına, molekülün büyüklüğüne, sıcaklığa, difüzyon yüzeyinin genişliğine, molekülün yapısal özelliklerine bağlıdır.
+Görsel 2.26.
+Şekerin suda çözünmesi difüzyona örnektir.
+Su Küp şeker Şeker I II III Sitoplazma Glikoz Görsel 2.27.
+Kolaylaştırılmış difüzyon Hücre dışı Glikoz 2.Ünite Hücre 63 Diyaliz Seçilmiş moleküllerin seçici geçirgen zardan difüzyonuna diyaliz denir.
+Böbrek hastalarında, böbrekler tarafından süzülüp atılamayan zararlı maddeler ile suyun fazlası seçici geçirgen bir zardan geçirilerek madde yoğunlukları özel olarak ayarlanmış diyaliz sıvısına alınır.
+Hemodiyaliz denilen bu işlem sırasında hastadan alınan kanın içeriği diyaliz makinesi yardımıyla düzenlenir ve hastaya geri verilir.
+2.
+Osmoz Osmoz su moleküllerinin çok yoğun olduğu ortamdan az yoğun olduğu ortama geçmesidir.
+Bir başka deyişle osmoz suyun difüzyonudur.
+Hücredeki çözünmüş madde yoğunluğuna bağlı olarak ortaya çıkan su alma isteğine osmotik basınç denir.
+Çözünmüş madde miktarı arttıkça osmotik basınç artar, su miktarı arttıkça osmotik basınç azalır.
+Osmotik basıncın fazla olduğu yerde emme kuvveti oluşur.
+Böylece su daima osmotik basıncın yüksek olduğu yere doğru hareket eder.
+Buna göre Görsel 2.29 incelendiğinde osmoz gereği su moleküllerinin yarı geçirgen zardan geçerek şekerli su olan bölmeye geçtiği gözlenir.
+Hücre hipertonik ortama konulduğunda su kaybederek büzülür.
+Bu olaya plazmoliz denir.
+Günlük hayatımızda tuzlanan derinin su kaybederek büzülmesi, balıkların tuzlanarak kurutulması plazmolize örnektir.
+Yoğunluğu hücrenin sitoplazma yoğunluğundan fazla olan çözeltilere hipertonik çözelti denir.
+Bu tür çözeltlerin osmotik basıncı yüksektir.
+Görsel 2.28.
+Diyaliz makinesi Görsel 2.29.
+Osmoz 64 Biyoloji 1 Plazmolize uğramış bir hücre hipotonik ortama konulduğunda su alarak şişer.
+Bu olaya deplazmoliz denir.
+Deplazmoliz olayından sonra hücreye su girişi devam ederse hücre giderek şişer.
+Bitki hücrelerinde bulunan duvar, hücre zarının turgor basıncı ile parçalanmasını engeller.
+Hayvan hücreleri, bu basınca dayanamaz ve parçalanır.
+Bu olaya hemoliz denir.
+Hücre izotonik çözeltiye konulduğunda hücrenin hacminde değişiklik olmaz.
+Çünkü hücre sitoplazması ile çözelti arasında birim zamanda yer değiştiren su molekülü sayısı eşittir.
+Göz ve burun damlaları kullanıldığında hücrelerde plazmoliz ve ya turgor olmaz.
+Çünkü bu damlalar izotonik özelliktedir.
+B.
+Aktif Taşıma Hücre zarından geçebilecek büyüklükteki molekül ve iyonların az yoğun olduğu ortamdan çok yoğun olduğu ortama enerji harcanarak taşınmasına aktif taşıma denir.
+Örneğin sinir hücrelerinde uyartı iletimi sırasında sodyum (Na+) ve potasyum (K+) iyonları aktif taşıma ile taşınır.
+Yoğunluğu hücrenin sitoplazma yoğunluğundan az olan çözeltilere hipotonik çözelti denir.
+Hipotonik çözeltilerin osmotik basıncı düşüktür.
+Yoğunluğu hücrenin sitoplazma yoğunluğuna eşit olan çözeltilere izotonik çözelti denir.
+Görsel 2.30.
+Bitki hücresinde plazmoliz ve deplazmoliz olayları ile turgor durumu Görsel 2.31.
+Aktif taşıma.
+2.Ünite Hücre 65 II.
+Büyük Moleküllerin Zardan Geçişi Moleküller hücre zarından pasif taşımayla ya da aktif taşımayla geçemeyecek kadar büyükse endositoz ve ekzositoz adı verilen mekanizmalar ile taşınır.
+Endositoz ve ekzositoz olayları yoğunluk farkına bağlı olmaksızın gerçekleşir ve tek yönlü taşımadır.
+Taşıma sırasında ATP harcanır.
+A. Endositoz Endositoz hücre zarından geçemeyecek kadar büyük olan maddelerin hücre zarındaki cepler aracılığıyla hücre içine alınmasıdır.
+Endositoz ile katı maddelerin hücreye alınmasına fagositoz, sıvı maddelerin hücreye alınmasına pinositoz denir.
+B. Ekzositoz Hücre zarından geçemeyecek kadar büyük olan moleküllerin, enerji harcanarak kofullar yardımıyla hücre dışına taşınmasına ekzositoz denir.
+Hücrede üretilen enzim, hormon, tükürük, süt gibi salgılar ve atık maddeler ekzositoz ile hücre dışına verilir.
+Hücre Zarından Madde Geçişine İlişkin Kontrollü Deney Hücre zarından madde geçişine ilişkin kontrollü deney yapma bilimsel yöntem basamaklarından biridir.
+Bilimsel yöntem; bir problemi çözmek amacıyla gerçekleştirilen mantık, ölçme, gözlem ve deneylere dayalı, sistemli çalışmaların bütünüdür.
+Bütün bilimsel çalışmalarda kullanılan standart tek bir bilimsel yöntem olmasa da ortak yönler vardır.
+Bu ortak yönler esas alınarak oluşturulan bilimsel yöntem basamakları şunlardır: • Problem belirleme: Çözümü aranacak problemin net bir şekilde ortaya konmasıdır.
+• Hipotez oluşturma: Hipotez; araştırılacak probleme çözüm önerisi getiren test edilebilir açıklamadır.
+Araştırma problemine dayalı bir hipotez oluşturabilmek için gözlem yapılır ve daha önceden yapılmış çalışmalardan yararlanılır.
+Görsel 2.32.
+Endositoz Görsel 2.33.
+Ekzositoz 66 Biyoloji 1 • Hipoteze dayalı tahminlerde bulunma: Hipotezlerden tahmin adı verilen mantıklı sonuçlar çıkarılır.
+• Veri toplama: Hipotezler gözlem ve deneylerle test edilerek veri toplanır.
+Veri toplama bilimsel sürecin her aşamasında yapılabilir.
+• Verilerin hipotezi destekleyip desteklemediğini araştırma: Elde edilen verilerin hipotezi destekleyip desteklemediği araştırılır.
+Sonuçlar hipotezi destekliyorsa deneyler tekrarlanarak sonuçların başka araştırmacılar tarafından da doğrulanması gerekir.
+Böylece hipotez gerçek hâline gelir.
+Sonuçlar hipotezi desteklemiyorsa hipotez gözden geçirilerek yeni bir hipotez kurulur.
+Bilimsel bir çalışma yapılırken genellikle şu sıralama takip edilir: Gözlemlerin yapılması ve verilerin toplanması Problemin tespit edilmesi Hipotez oluşturulması Hipoteze dayalı tahminler yapılması Hipotezin gözden geçirilerek yeni bir hipotez kurulması Kontrollü deneylerin tasarlanarak uygulanması Sonuçlar hipotezi desteklemiyor ise Sonuçlar hipotezi destekliyor ise Deneylerin tekrarlanması, sonuçların başka araştırmacılar tarafından doğrulanması Hipotezin gerçek hâline gelmesi Sonuçların değerlendirilmesi 2.Ünite Hücre 67  Kontrollü deneylerde kontrol grubu ve deney grubu olmak üzere iki grup vardır.
+Deney grubunda etkisi araştırılan faktör değiştirilirken, diğer faktörler hem kontrol grubunda hem deney grubunda aynı değerde tutulur.
+Deney sonucunda iki gruptan elde edilen veriler karşılaştırılır.
+Etkisi araştırılan değişkene bağımsız değişken, bağımsız değişkene bağlı olarak değişen değişkene bağımlı değişken denir.
+Örneğin ışık renginin fotosentez hızına etkisi araştırılırken ışık rengi değiştirilirken diğer tüm şartlar sabit tutulur.
+Burada kullanılan ışık rengi bağımsız değişkendir.
+Kullanılan ışık rengine göre fotosentez hızında meydana gelen değişim ise bağımlı değişkendir.
+Bilimsel yöntem basamaklarının nasıl uygulandığı aşağıda verilen örnek çalışmada gösterilmiştir.
+BİLİMSEL ÇALIŞMA ÖRNEĞİ Gözlem Yapma-Veri Toplama 1.
+Bitkilerin yaprakları normalden daha hızlı dökülüyor.
+2.
+Bitkilerin yaprak uçlarında sararma var.
+3.
+Bitkilerin yaprak yüzeyinde küf benzeri yapılar var.
+4.
+Bitkilerin kökleri toprak yüzeyine çıkıyor.
+5.
+Bitkilerin bulunduğu yerde yeterli ışık yok.
+6.
+Bitkilerin bulunduğu toprak sert ve kuru.
+Problem Saksılardaki bitkilerin yapraklarının normalden daha hızlı dökülmesinin nedeni nedir?
+Hipotezler 1.
+Bitkilerin toprağında yeterli miktarda su olmadığı için yaprakları dökülüyor.
+2.
+Bitkiler yeterli miktarda ışık alamadığı için yaprakları dökülüyor.
+3.
+Bitkilerin yetiştiği toprakta yeterli besin maddesi bulunmadığı için yaprakları dökülüyor.
+4.
+Bitkilerin yetiştiği toprakta zararlı mikroorganizmalar bulunduğu için yaprakları dökülüyor.
+Tahminler 1.Eğer bitkiler, toprakta yeterli miktarda su olmadığı için yaprak döküyorsa verilen su miktarı artırıldığında yaprak dökümü azalacaktır.
+2.Eğer bitkiler, yeterli miktarda ışık alamadığı için yaprak döküyorsa daha aydınlık ortama alındığında yaprak dökümü azalacaktır.
+3.Eğer bitkiler, yetiştiği toprak mineral bakımından verimsizleştiği için yaprak döküyorsa gübre verildiğinde yaprak dökümü azalacaktır.
+4.Eğer bitkiler, toprakta zararlı mikroorganizmalar bulunduğu için yaprak döküyorsa parazitler uzaklaştırıldığında yaprak dökümü azalacaktır.
+Kontrollü Deneyler Bitkiler gruplara ayrılır: 1.
+I. gruptaki bitkilere verilen günlük su miktarı iki katına çıkarılır.
+2.
+II.
+gruptaki bitkiler daha aydınlık ortama alınır.
+3.
+III.
+gruptaki bitkilerin yetiştiği saksıya gübre ile zenginleştirilmiş yeni toprak ilave edilir.
+4.
+IV.
+gruptaki bitkilerin yaprağına uygun dozda parazit ilacı sıkılır.
+Bulguların Değerlendirilmesi ve Sonuç Çıkarma 1.
+I. gruptaki bitkilerin yapraklarında sararma ve dökülmeler hızlanmıştır.
+2.
+II.
+gruptaki bitkilerde herhangi bir değişiklik olmamıştır.
+3.
+III.
+gruptaki bitkilerde yaprak dökümü azalmıştır ve yeni çıkan yapraklar daha canlıdır.
+4.
+IV.
+gruptaki bitkilerin yaprağındaki küf benzeri yapılar kaybolmuş ancak bitkide herhangi bir değişiklik olmamıştır.
+Sonuç Bitkilerin yaprak dökmesinin sebebi, yetiştiği toprağın besin bakımından fakirleşmesidir.
+68 Biyoloji 1 Biyoloji Laboratuvarında Kullanılan Temel Araç Gereçler Bir bilim dalı veya çalışma alanı bünyesinde, çeşitli alet ve cihazlar kullanılarak deneylerin, testlerin, analiz ve gözlemlerin yapıldığı mekânlara laboratuvar denir.
+Biyoloji laboratuvarı ise biyoloji ile ilgili deney, analiz ve gözlem gibi çalışmaların yapıldığı ve bu çalışmalarla ilgili araç gereçlerin bulunduğu alanlardır.
+Biyoloji laboratuvarında kullanılan temel araç gereçler; agar (besi yeri), cam malzemeler, kurutulmuş bağırsak, çeşitli kimyasallar, hücre modeli, böbrek kesiti modeli, çiçek kesiti modeli, mikroskop, lam ve lamel, çukur lam, DNA modeli, insan anatomisini gösteren model, göz modeli, kalp modeli, bitkilerin kök, gövde, yaprak kesitlerini gösteren modeller, kuluçka makinesi, akvaryum, büyüteç gibi malzemelerdir.
+Bu malzemelerin bazıları Görsel 2.34’te gösterilmiştir.
+DNA modeli Göz modeli Cam malzemeler Bitki hücresi modeli Mikroskop Kimyasal malzemeler Çiçek modeli Petri kabı ve Agar İnsan anatomisi modeli Böbrek modeli Kalp modeli Görsel 2.34.
+Biyoloji laboratuvarında kullanılan temel araç gereçler 2.Ünite Hücre 69 Laboratuvarda yapılan deneylerde ve çalışmalarda çeşitli tehlikeler oluşabilir.
+Bu yüzden laboratuvarda çalışırken güvenlik önlemlerinin alınması ve bu önlemlere mutlaka uyulması gerekir.
+Laboratuvar güvenlik kurallarına uyulduğunda kişi hem kendi güvenliğini hem de çalıştığı yerdeki diğer kişilerin güvenliğini sağlamış olur.
+Hücre Zarından Madde Geçişine Sıcaklığın Etkisi ile İlgili Yapılan Kontrollü Deney Çalışması Sıcaklığın hücre zarından madde geçişine etkisini gösteren kontrollü deney düzeneği şekildeki gibi hazırlanır.
+Bu deney düzeneğinde kontrol grubunda ve deney grubunda bağırsağın içerisindeki nişasta çözeltisinin yoğunluğu, cam şişedeki suyun saf su olması, suya damlatılan iyot çözeltisinin miktarı gibi değişkenler aynı değerlerde tutulurken etkisi araştırılan sıcaklık değişkeni farklı değerlerde tutulur.
+Böylece hangi sıcaklık değerinde hücre zarından madde geçişinin daha hızlı olduğu tespit edilmeye çalışılır.
+Deney düzeneğinde bağırsağın içinde nişasta çözeltisi vardır.
+Nişasta molekülleri büyük olduğu için hücre zarından geçemezken suya damlatılan iyot zardan geçerek bağırsağın içine girer.
+Burada bulunan nişasta molekülleri ile etkileşime girerek mavi mor renk oluşmasını sağlar.
+Bu çalışmada deney grubundaki bağırsağın içinde mavi mor renk oluşumunun daha hızlı gerçekleştiği gözlenir.
+Bunun nedeni 25 °C’de iyot moleküllerinin kinetik enerjisinin artmasıdır.
+Kinetik enerjisi artan iyot molekülleri daha hızlı hareket ettiği için hücre zarından daha hızlı geçer.
+Böylece bağırsağın içinde renk değişimi daha hızlı olur.
+Sonuç olarak sıcaklığın artması hücre zarından madde geçiş hızının artmasını sağlar.
+Bağırsak Bağırsak %10 Nişasta çözeltisi %10 Nişasta çözeltisi Saf su Saf su Beher Beher 15 0 C Kontrol Grubu 25 0 C Deney Grubu 10 damla iyot çözeltisi damlatıldı 10 damla iyot çözeltisi damlatıldı 70 Biyoloji 1 ÖZET BÖLÜM 1: HÜCRE Canlılığın Temel Birimi Hücre Tüm canlılar hücreden ya da hücrelerden oluşur.
+Hücre, yaşama, üreme, solunum gibi canlılık olaylarının tamamını gerçekleştiren temel birimdir.
+Bu yüzden hücre, canlıların en küçük yapı ve işlev birimidir.
+Leeuwenhoek, 17. yüzyılda ışık mikroskobunu geliştirdi.
+Robert Hooke, 1665 yılında incelediği ölü mantar dokusunda içi boş odacıklar gördü.
+Bu boş odacıklara hücre adını verdi.
+1838 yılında Alman bilim insanı Mathias Schleiden, bitkilerin hücrelerden oluştuğunu tespit etti.
+1839 yılında Alman Thedor Schwann, hayvanların da hücrelerden oluştuğunu belirledi.
+Schwann’ın hücre teorisini katkısı organizmalar bir ya da daha fazla hücreden oluşur şeklinde oldu.
+1855 yılında Rudolph Wirchow, Bütün hücrelerin daha önce var olan başka bir hücreden meydana geldiğini belirledi.
+Hücrenin Yapısı Hücreler genetik materyallerinin zarla çevrili olup olmamasına göre Prokaryot hücre (Çekirdeksiz Hücre) ve Ökaryot hücre (Çekirdekli Hücre) olarak iki gruba ayrılır.
+Prokaryot Hücre Prokaryot hücrelerin zarla çevrili çekirdeği ve zarlı organelleri yoktur.
+Kalıtım materyali olan DNA sitoplazma içerisinde dağınık halde bulunur.
+Sadece zarsız organel olan ribozomları vardır.
+Protein sentezi ribozomda gerçekleşir.
+Bu canlılardaki bütün metabolizma olayları, sitoplazma ve hücre zarındaki yapılarda gerçekleşir.
+Bakteriler, arkebakteriler ve mavi - yeşil algler prokaryot canlılardır.
+Ökaryot Hücre Ökaryot hücrelerde zarla çevrili çekirdek ve organeller bulunur.
+Kalıtım materyali de çekirdek içerisinde yer alır.
+Mantarlar, bitkiler, hayvanlar ve protistalar ökaryot canlılardır.
+Ökaryot hücreye sahip canlılar bir veya çok hücrelidir.
+Ökaryot hücreler, hücre zarı, sitoplazma ve çekirdekten oluşur.
+1.
+Hücre Zarı Hücre zarı; canlı ve esnektir.
+Hücreye şekil verir.
+Hücreler arası iletişimi sağlar.
+Madde alış verişini düzenler.
+Yapısında protein, lipit ve karbonhidrat bulunur.
+Hücre zarının yapısı “akıcı mozaik zar modeli” ile açıklanır.
+Bu modele göre; hücre zarında çift katlı lipit tabakası, aralarında proteinler ve karbonhidratlar bulunur.
+Sil, kamçı ve mikrovillüsler zardan oluşan yapılardır.
+Bazı mantar, bakteri, protista ve bitkilerde zarın dış tarafında hücre duvarı vardır.
+Duvar hücreye dayanıklılık verir.
+2.
+Sitoplazma Ökaryot hücrede çekirdekle zar arasındaki kısım sitoplazmayı oluşturur.
+Prokaryot hücrelerde hücre zarının içerisinde kalan kısmın tamamı sitoplazmayı oluşturur.
+Sitoplazmada; hücre iskeleti, sitoplazma sıvısı ve organeller vardır.
+Sitoplazmanın %70 - %90’ı sudur.
+İçerisinde suyla birlikte mineraller, tuzlar, proteinler, karbonhidratlar, yağlar, enzimler, hormonlar, vitaminler ve nükleotitler bulunur.
+Ökaryot hücrelerde, lizozom, endoplazmik retikulum, golgi aygıtı, ribozom, mitokondri, plastitler ve koful organelleri bulunur.
+2.Ünite Hücre 71 Lizozom Alyuvar dışında hayvan hücrelerinin tümünde bulunur.
+Tek katlı zar yapısındadır.
+Bu organel hücre içi sindirimde görevlidir.
+İçinde sindirim enzimleri bulunur.
+Lizozomun zarı tahrip olup içerisindeki enzimler sitoplazmaya karışırsa hücredeki diğer yapıları sindirir ve parçalar.
+Bu olaya otoliz denir.
+Otoliz hücrenin ölümüne sebep olur.
+Endoplazmik Retikulum Hücre zarı ile çekirdek zarı arasında uzanan tek zarlı kanalcıklar sistemidir.
+Üzerinde ribozom bulundurup bulundurmamasına göre; granüllü endoplazmik retikulum ve granülsüz endoplazmik retikulum olarak ikiye ayrılır.
+Endoplazmik retikulum; protein, yağ ve enzim gibi bazı maddelerin sentezlenmesinden ve bazı maddelerin depolanmasından sorumludur.
+Hücre içinde madde taşınmasını gerçekleştirir.
+Hücreye desteklik sağlar.
+Granülsüz E.R ’den golgi oluşturulur.
+Endoplazmik retikulum ribozomlarda sentezlenen proteinleri hücrenin gerekli yerlerine taşır.
+Golgi Aygıtı Golgi aygıtı yassı keseciklerin üst üste dizilmesiyle oluşur.
+Tek katlı zarla çevrilidir.
+Golgi aygıtında lipit, protein ve karbonhidratlardan çeşitli salgılar, glikolipitler ve glikoproteinler oluşturulur.
+Golgi aygıtından sentezlenen veya işlenen salgılar kesecikler hâlinde sitoplazmaya verilir.
+Ribozom Ribozomlar zarsız yapıda olup diğer organellere göre daha küçüktür.
+Ayrıca biri büyük diğeri küçük olmak üzere iki alt birimden oluşur.
+Sitoplazmada, mitokondri ve kloroplast içinde, endoplazmik retikulum ve çekirdek zarının üzerinde bulunur.
+Ökaryot ve prokaryot tüm hücrelerde ortak olarak bulunan bu organelin temel görevi protein sentezini gerçekleştirmektir.
+Mitokondri Oksijenli solunumla ATP üretilen organeldir.
+Mitokondri çift zarlıdır.
+Dışta düz, içte ise kıvrımlı bir zar bulunur.
+Kıvrımlı iç zar krista olarak adlandırılır.
+Kristadaki kıvrımlar mitokondrinin yüzeyini genişletir.
+Böylece daha fazla ATP üretilir.
+Kristaların arasını matriks adı verilen sıvı doldurur.
+Matriksin içerisinde solunum enzimleri, DNA, RNA ve ribozomlar bulunur.
+Bu sayede çekirdek DNA’sının denetiminde mitokondri kendini eşleyerek yeni mitokondriler oluşturur.
+Plastidler Bitki hücrelerinde bulunur.
+Plastitler yapı ve görevlerine göre kloroplast, kromoplast ve lökoplast olmak üzere üç grupta incelenir.
+Kloroplast Fotosentez olayının gerçekleştiği organeldir.
+Kloroplast çift zarlıdır.
+Dıştaki ve içteki zar düz yapıdadır.
+Dıştaki zar kloroplastı çevreler.
+Kloroplastın içinde stroma denilen bir sıvı bulunur.
+Stroma içerisinde fotosentez enzimleri, DNA, RNA ve ribozomlar bulunur.
+Bu sayede çekirdek DNA’sının denetiminde kloroplast kendini eşleyerek yeni kloroplastlar oluşturur.
+72 Biyoloji 1 Kromoplast Bitkilerde yeşil dışındaki diğer renk pigmentlerini taşıyan plastit çeşididir.
+Örneğin limonun sarı, domatesin kırmızı, havucun turuncu rengini kromoplastlar oluşturur.
+Lökoplast Renksiz plastitlerdir.
+Bitkilerin kök, tohum, toprak altı gövde gibi kısımlarında bulunur.
+Lökoplastların karbonhidrat, lipit, protein gibi maddeleri depolama görevi vardır.
+Koful Kofullar, hücre zarından, endoplazmik retikulumdan ve golgi aygıtından oluşur.
+Kofullar; protein ve nişastanın depolanmasında ve atıkların hücreden uzaklaştırılmasında görev alır.
+Amip, paramesyum, öglena gibi tatlı sularda yaşayan tek hücreli canlılarda kontraktil koful adı verilen boşaltım kofulu bulunur.
+Bu koful hücredeki fazla suyun atılmasını sağlayarak hücrenin su dengesini korur.
+Sentrozom Sentrozom hayvan hücrelerinde ve bazı bitki hücrelerinde bulunan, zarsız bir organeldir.
+Hücre bölünmesinde görev alır.
+Hücre iskeleti Hücrede organeller dışında sitoplazmik uzantılar da bulunur.
+Hücre iskeleti olarak tanımlanan sitoplazmik uzantılar hücreyi korur, hücreye desteklik verir ve sitoplazmadaki hareketlere yardımcı olur.
+Hücrede bulunan iskelet yapı; mikrofilament, mikrotübül ve ara filament olmak üzere üç grupta incelenir.
+3.
+Çekirdek Hücredeki kalıtsal bilginin depolandığı, tüm metabolizma faaliyetlerinin yönetildiği yer çekirdektir.
+Çekirdek; çekirdek zarı, çekirdek plazması, çekirdekçik, kromatin ve kromozomlardan oluşur.
+Hücre Zarından Madde Geçişi Hücre zarından madde geçişlerinde maddenin büyüklüğü, elektrik yükü, yağda veya suda çözünebilme özelliği ve konsantrasyonu maddenin taşınma şeklini belirler.
+I.
+Küçük Moleküllerin Zardan Geçişi A.
+Pasif Taşıma Maddelerin yoğunluk farkından dolayı kolaylıkla, enerji harcamadan zardan geçmesidir.
+Pasif taşıma cansız ortamlarda da gerçekleşir.
+Pasif taşıma yolları difüzyon, kolaylaştırılmış difüzyon ve osmoz’ dur.
+Difüzyon Moleküllerin çok yoğun olduğu ortamdan az yoğun olduğu ortama doğru yayılmasıdır.
+Kolaylaştırılmış difüzyon Glikoz, galaktoz gibi küçük moleküllerin hücre zarından geçişleri zarın yapısında bulunan özel proteinlerle gerçekleşir.
+Bu proteinlere taşıyıcı protein denir.
+Enerji harcanmadan gerçekleşen bu pasif taşıma çeşidine kolaylaştırılmış difüzyon denir.
+2.Ünite Hücre 73 Diyaliz Seçilmiş moleküllerin seçici geçirgen zardan difüzyonuna diyaliz denir.
+Böbrek hastalarında, böbrekler tarafından süzülüp atılamayan zararlı maddeler ile suyun fazlası seçici geçirgen bir zardan geçirilerek madde yoğunlukları özel olarak ayarlanmış diyaliz sıvısına alınır.
+Hemodiyaliz denilen bu işlem sırasında hastadan alınan kanın içeriği diyaliz makinesi yardımıyla düzenlenir ve hastaya geri verilir.
+Osmoz Osmoz suyun difüzyonudur.
+Yani su moleküllerinin çok yoğun olduğu ortamdan az yoğun olduğu ortama geçişidir.
+Bir hücre kendisinden daha yoğun (hipertonik) bir ortama konulursa hücre su kaybederek büzülür.
+Bu olaya plazmoliz denir.
+Bir hücre kendisinden daha az yoğun bir ortama (hipotonik ortam) konursa su alarak şişer.
+Bu olaya deplazmoliz denir.
+Deplazmoliz devam ederse hücre giderek şişer ve turgor durumuna geçer.
+Hücreye giren fazla su, hücre zarına basınç uygular.
+Bu basınca turgor basıncı denir.
+Hayvan hücrelerinde hücre zarı fazla suyun neden olduğu basınca dayanamaz ve patlar.
+Bu olaya hemoliz denir.
+Çözelti içindeki çözünen madde derişimi, sitoplazmadaki madde derişimi ile aynı ise buna izotonik çözelti denir.
+Bir hücre denge ortamına (izotonik ortama) konursa hiçbir değişikliğe uğramaz.
+Bu durumda ozmotik basınç turgor basıncına eşittir.
+B.
+Aktif Taşıma Aktif taşımada taşınan madde az yoğun olduğu ortamdan çok yoğun olduğu ortama doğru taşınır.
+Bu taşıma için enerji gereklidir.
+II.
+Büyük Moleküllerin Zardan Geçişi Büyük moleküllerin hücre içine veya dışına enerji harcanarak taşınması endositoz veya ekzositoz ile gerçekleşir.
+A. Endositoz Büyük moleküllü katı ve sıvı maddelerin hücre içerisine alınmasıdır.
+Bu olayda ATP harcanır.
+Hücre zarı koful oluşturarak maddeyi hücre içerisine alır.
+Katı maddelerin hücreye alınması fagositoz, sıvı maddelerin hücreye alınmasına pinositozdur.
+B. Ekzositoz Oluşan atıklar ve sitoplazmada sentezlenen bazı salgılar ekzositoz yoluyla hücre dışına atılır.
+74 Biyoloji 1 ÜNİTE SONU DEĞERLENDİRME SORULARI 1.Bir bitki hücresi hipertonik çözelti içinde bekletilirse aşağıdakilerden hangisi görülmez?
+A) Su kaybetmesi B) Sitoplazmasının büzülmesi C) Çekirdeğinin büyümesi D) Hücre zarının hücre duvarından ayrılması 2.Hücre zarından geçemeyen büyük moleküllerin koful oluşturularak hücre içine alınmasına ne denir?
+A) Difüzyon B) Endositoz C) Pasif taşıma D) Kolaylaştırılmış difüzyon 3.
+Aşağıdakilerden hangisi zarla çevrili olmayan bir organeldir?
+A) Mitokondri B) Plastitler C) Ribozom D) Lizozom 4.
+Belirli sayıda nükleotit içeren ve en az bir protein ya da RNA’nın sentezinden sorumlu DNA parçasına ne ad verilir?
+A) Gen B) Kromozom C) Sentrozom D) Çekirdek 5.Gelişmiş organizasyonlu tipik bir bitki hücresinde aşağıdaki organellerden hangisi bulunmaz?
+A) Sentrozom B) Ribozom C) Kromoplast D) Mitokondri 6.Aşağıdaki organellerden hangileri yapısal olarak benzemelerine rağmen fonksiyonel olarak farklılık göstermektedir?
+A) Ribozom – Mitokondri B) Kloroplast - Ribozom C) Golgi aygıtı – Lizozom D) Kloroplast – Mitokondri 7.Aşağıdaki yapılardan hangisinde fotosentez olayı gerçekleşir?
+A) Kloroplast B) Hücre zarı C) Hücre çeperi D) Mitokondri 8.
+Tek hücrelilerde bulunan bazı organellerin işlevleri, insanlarda bulunan bazı organların işlevlerine benzer.
+Aşağıdakilerin hangisinde verilen organel ile organ arasında işlev yönünden bir benzerlik yoktur?
+A) Sindirim kofulu – Mide B) Mitokondri - Karaciğer C) Boşaltım kofulu – Böbrekler D) Kamçı - Bacaklar 9.Aşağıdakilerden hangisi golgi ve endoplazmik retikulumun ortak özelliğidir?
+A) Glikoz sentezleme B) Ribozom organeli taşıma C) Kalsiyum depolama D) Zarlı yapıya sahip olma 10.
+Bir hayvan hücresi kendisinden daha az yoğun bir ortamda bekletilirse aşağıdaki olaylardan hangisi gerçekleşir?
+A) Turgor B) Plazmoliz C) Hemoliz D) Fagositoz 2.Ünite Hücre 75 I.Ünite II.Ünite 1 1 C B C D C B C A 2 3 4 2 3 4 5 5 A B C C A D A B 6 7 8 6 7 8 9 9 A B C B D C 10 11 12 10 13 A B A D 14 15 16 17 C C D A 18 19 20 CEVAP ANAHTARI 76 Biyoloji 1 A adaptasyon : Bir türün birkaç nesil boyunca geçirdiği fizyolojik, biyokimyasal ya da anatomik değişiklikler sonucu belli bir çevreye uyum sağlama becerisidir.
+Bu beceri onun hayatta kalmasını ve üremesini kolaylaştırır.
+adenozin trifosfat (ATP): Hücrenin temel enerji molekülüdür.
+Adenin bazı, riboz şekeri ve üç tane fosfat molekülünden oluşur.
+aktif taşıma : Bir maddenin hücre zarından hücre içine veya dışına enerji harcanarak taşınması.
+aktivasyon enerjisi : Kimyasal reaksiyonların başlaması için gerekli olan enerji.
+alg : Gerçek anlamda kök, gövde ve yaprağı bulunmayan, fotosentez yapabilen, klorofil içeren, büyüklükleri 1 mikrometreden 100 metreye kadar değişebilen basit yapılı canlılar.
+alyuvar : Sitoplazmasındaki hemoglobin aracılığı ile akciğerlerle dokular arasında oksijen taşımakla görevli, disk şeklinde, memelilerde çekirdeğinin bulunmaması nedeniyle iki yüzü çukur olan kan hücresi.
+alzheimer : Ön beynin bazı kısımlarındaki nöronların zayıflaması ile ortaya çıkan, yaşlı insanlarda sık görülen, hafıza kaybı ile tanınan sinirsel bir hastalık.
+anabolizma : Hücrenin yapıtaşlarını, makromolekülleri ve polimerleri sentezlemesi.
+Biyosentez tepkimelerinin tümü.
+anatomi : Hücre, doku ve organların yapı, kimyasal bileşim ve işlevsel özelliklerinin mikroskobik yöntemlerle incelenmesini konu alan bilim dalı.
+antibiyotik : Seçici toksik özelliğe sahip olan, hastalık yapan mikroorganizmaları öldüren veya büyümesini durduran antimikrobiyal madde.
+antikor : Vücuda giren antijenlere karşı oluşan bağışıklık proteini.
+apoenzim : Bileşik enzimlerin protein kısmı.
+B bilim : Evrenin veya olayların bir bölümünü konu olarak seçen, deneye dayanan yöntemler ve gerçeklikten yararlanarak sonuç çıkarmaya çalışan düzenli bilgi, ilim.
+biyolog : Biyoloji ile uğraşan kimse, biyoloji uzmanı.
+biyoloji : Canlıların yapı ve işlevlerini, canlı ve cansız çevreyle ilişkilerini, dağılımlarını ve çeşitliliklerini inceleyen, temel olarak da canlılık olgusunu açıklamaya çalışan bilim dalı.
+boşaltım : Sindirimden sonra bağırsaklarda kalan posanın, idrar torbasındaki idrarın ve ter, tükürük, vb.
+salgıların vücuttan dışarı atılması.
+Ç çözücü : Katı, sıvı veya gaz haldeki bir maddeyi kendi kimyasal yapısında değişme olmaksızın çözen diğer bir katı, sıvı ya da gaz madde.
+D dehidrasyon tepkimesi: Küçük moleküllerin birleşerek büyük molekülleri oluştururken su açığa çıkardığı tepkimeler.
+denatürasyon : Eter, kloroform gibi çözücüler ile sıcaklık, pH, tuz derişimi gibi koşulların proteinin yapısını bozarak biyolojik etkinliğini kaybetmesine neden olması durumu.
+deoksiriboz : DNA’da bulunan 5C’lu şeker.
+deplazmoliz : Su kaybına uğramış hücrenin tekrar su alarak eski durumuna dönmesi.
+difüzyon : Moleküllerin ya da iyonların yüksek konsantrasyonlu bir alandan düşük konsantrasyonlu alana geçişleri.
+disakkarit : İki monosakkarit biriminin birleşmesi ile oluşmuş bir karbonhidrat çeşidi.
+diyabet : Kanda şeker düzeyinin normal değerlerin üzerine çıkması sonucu çok su içme, çok yemek yeme, çok idrar yapma ve idrarda şeker bulunması ile beliren hastalık.
+diyaliz : Seçilmiş moleküllerin seçici geçirgen zardan difüzyonu işlemi.
+doku : Aynı görevi yapmak üzere bir araya gelerek organları meydana getiren benzer ya da tek tip hücrelerin oluşturdukları yapı.
+SÖZLÜK Ekler 77 SÖZLÜK E ekzositoz : Ökaryot hücrelerde salgı vb.
+moleküllerin hücreden çıkarılması.
+elektron mikroskobu : Canlı yapıların, özellikle hücrelerin incelenmesinde kullanılan, ısıtılan bir metal parçasından çıkan ve vakum içinde yönlendirilen elektronların bir elektromanyetik alandan geçerek incelenen yapının çok fazla büyütülmüş olarak görülmesini sağlayan araç.
+element : Kimyasal yöntemlerle ayrıştırılamayan veya bileşim yoluyla elde edilemeyen madde.
+embriyo : Yumurtadan meydana gelen, yumurta zarı, yumurta kabuğu ile korunan ya da vücudun içinde bulunan ve gelişmenin erken evrelerinde olan genç organizma.
+endositoz : Ökaryot hücrelerde gerçekleşen, hücre zarının içeri çökmesi ile bir kesecik oluşturularak hücre dışındaki maddenin hücre içine alınması.
+enfeksiyon : 1.
+Bakteri, virüs, mantar ya da protozoonların bir organizmaya girmesi.
+2.
+Enfeksiyon yapan organizmaların bir hücre ya da canlıda meydana getirdiği durum.
+esterleşme : Nötral yağların sentezi sırasında yağ asitlerinin her birinin ester bağıyla gliserole bağlanması.
+F fagositoz : Büyük parçacıkların yalancı ayaklar yardımıyla hücre içerisine alınması.
+fermantasyon : Bakteri ve mayalarda görülen anaerobik şartlar (oksijensiz ortam) altında şeker moleküllerinin parçalanarak enerji açığa çıkması reaksiyonu.
+Mayalanma.
+fotosentez : Yeşil bitkilerde olduğu gibi klorofil içeren hücrelerde karbon dioksit ve su gibi hidrojen kaynağından karbonhidratların sentezi.
+G gen : Kromozom üzerinde belirli bir yer işgal eden kalıtımın temel birimi.
+glikojen : Glikoz monomerlerinden oluşan dallı polisakkarit zinciri.
+Omurgalılarda kasta ve karaciğerde depolananır.
+glikoz : Canlılarda bulunan altı karbonlu bir şeker; monosakkarit.
+granum : Kloroplasttaki tilâkoit zarların üst üste dizilerek oluşturduğu yığın.
+H hemoglobin : Omurgalı hayvanların alyuvarlarında bulunan, bileşiminde demir olan, oksijen ve karbondioksit taşıyan kırmızı solunum pigmenti.
+hemoliz : Alyuvarların, içerisindeki hemoglobinin dışarı çıkacak tarzda parçalanması.
+hemodiyaliz : Böbrek hastalarında, böbrekler tarafından süzülemeyen kanın diyaliz makinesi ile süzülerek, içeriğinin düzenlenmesi ve hastaya geri verilmesi işlemi.
+heterotrof : Kendi besinini üretemediği için, gerekli organik maddeleri dışarıdan almak zorunda olan organizma.
+hidroliz : Su ile parçalanma; bir molekülün kovalent bağlarının su ile parçalanarak ayrılan kısımların birine H+ ve diğerine OH- grubunun eklenmesi.
+hipotez : Doğruluğu istatistiksel sınama, kanıtlanma, gözlemlerle vb.
+ile ortaya çıkarılan sav.
+holoenzim : Bileşik enzim.
+homeostazi : Çevre şartlarının değişkenliğine rağmen canlının iç dengesinin sürekli olarak sabit tutulması.
+hormon : Canlılarda sentezlendikten sonra etki göstereceği yerlere taşınabilen ve çok düşük miktarlarda büyümeyi, farklılaşmayı ve çeşitli fizyolojik olayları olumlu ya da olumsuz yönde etkileyebilen organik bileşik.
+İ inorganik : Canlılardan elde edilmeyen, yapısında karbon içermeyen, karbondioksit, su, tuz gibi mineral maddeler.

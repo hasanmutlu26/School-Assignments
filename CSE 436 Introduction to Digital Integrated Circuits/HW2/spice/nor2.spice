@@ -1,0 +1,21 @@
+* SPICE3 file created from /mnt/c/Users/Lenovo/Desktop/mag/nor2.ext - technology: scmos
+
+.option scale=0.12u
+
+M1000 Y A gnd Gnd nfet w=4 l=2
++  ad=24 pd=20 as=40 ps=36
+M1001 a_7_31# A vdd Vdd pfet w=4 l=2
++  ad=24 pd=20 as=20 ps=18
+M1002 Y B a_7_31# Vdd pfet w=4 l=2
++  ad=20 pd=18 as=0 ps=0
+M1003 gnd B Y Gnd nfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+C0 B A 0.11fF
+C1 gnd Y 0.16fF
+C2 vdd Y 0.05fF
+C3 Y B 0.02fF
+C4 gnd Gnd 0.19fF
+C5 Y Gnd 0.17fF
+C6 vdd Gnd 0.16fF
+C7 B Gnd 0.28fF
+C8 A Gnd 0.28fF

@@ -1,0 +1,61 @@
+magic
+tech scmos
+timestamp 1671281871
+<< metal1 >>
+rect -14 116 0 120
+rect 262 116 270 120
+rect 349 78 353 82
+rect -15 69 -9 73
+rect -9 61 -5 68
+rect -9 57 0 61
+rect 315 57 319 61
+rect 341 57 353 61
+rect -15 49 -9 53
+rect -4 49 0 53
+rect 269 37 273 42
+rect -15 32 -9 36
+rect -4 32 4 36
+rect -15 0 0 4
+rect 262 0 269 4
+rect 316 0 319 4
+<< m2contact >>
+rect 257 78 262 83
+rect 344 78 349 83
+<< metal2 >>
+rect 262 78 344 82
+<< m123contact >>
+rect -9 68 -4 73
+rect 269 69 274 74
+rect 269 57 274 62
+rect -9 48 -4 53
+rect 124 48 129 53
+rect 269 48 274 53
+rect -9 32 -4 37
+rect 268 32 273 37
+<< metal3 >>
+rect -4 69 269 73
+rect -9 57 269 61
+rect -9 53 -5 57
+rect 129 49 269 53
+rect -4 32 268 36
+use inv  inv_0
+timestamp 1671192496
+transform 1 0 323 0 1 0
+box -6 0 18 120
+use aoi22  aoi22_0
+timestamp 1671190884
+transform 1 0 283 0 1 0
+box -14 0 34 120
+use xor3  xor3_0
+timestamp 1671278806
+transform 1 0 1 0 1 0
+box -1 0 263 120
+<< labels >>
+rlabel metal1 -15 69 -15 73 3 A
+rlabel metal1 -15 49 -15 53 3 B
+rlabel metal1 -15 32 -15 36 3 C
+rlabel metal1 -15 0 -15 4 2 gnd!
+rlabel metal1 -14 116 -14 120 4 vdd!
+rlabel metal1 353 78 353 82 7 sum
+rlabel metal1 353 57 353 61 7 cout
+<< end >>

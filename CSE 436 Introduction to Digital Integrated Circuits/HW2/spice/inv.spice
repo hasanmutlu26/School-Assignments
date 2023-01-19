@@ -1,0 +1,14 @@
+* SPICE3 file created from /mnt/c/Users/Lenovo/Desktop/mag/inv.ext - technology: scmos
+
+.option scale=0.12u
+
+M1000 Y A gnd Gnd nfet w=4 l=2
++  ad=20 pd=18 as=20 ps=18
+M1001 Y A vdd Vdd pfet w=4 l=2
++  ad=20 pd=18 as=20 ps=18
+C0 gnd Y 0.09fF
+C1 Y vdd 0.09fF
+C2 gnd Gnd 0.11fF
+C3 Y Gnd 0.14fF
+C4 vdd Gnd 0.11fF
+C5 A Gnd 0.28fF

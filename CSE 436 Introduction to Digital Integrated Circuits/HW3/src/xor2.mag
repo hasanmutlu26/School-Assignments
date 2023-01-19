@@ -1,0 +1,57 @@
+magic
+tech scmos
+timestamp 1671278367
+<< nwell >>
+rect 24 98 30 118
+rect 52 98 58 110
+<< metal1 >>
+rect -1 116 0 120
+rect 24 116 28 120
+rect 52 116 56 120
+rect 0 61 4 64
+rect -1 57 0 61
+rect 28 54 32 58
+rect 52 57 56 61
+rect 102 57 106 61
+rect 128 57 129 61
+rect -1 49 3 53
+rect -1 0 0 4
+rect 24 0 28 4
+rect 52 0 56 4
+rect 103 0 107 4
+<< m2contact >>
+rect 0 64 5 69
+rect 54 65 59 70
+rect 3 48 8 53
+rect 28 49 33 54
+rect 54 49 59 54
+rect 19 40 24 45
+rect 54 40 59 45
+<< metal2 >>
+rect 5 65 54 69
+rect 8 49 28 53
+rect 33 49 54 53
+rect 24 41 54 45
+use inv  inv_2
+timestamp 1671192496
+transform 1 0 110 0 1 0
+box -6 0 18 120
+use inv  inv_0
+timestamp 1671192496
+transform 1 0 6 0 1 0
+box -6 0 18 120
+use inv  inv_1
+timestamp 1671192496
+transform 1 0 34 0 1 0
+box -6 0 18 120
+use aoi22  aoi22_0
+timestamp 1671190884
+transform 1 0 70 0 1 0
+box -14 0 34 120
+<< labels >>
+rlabel metal1 0 57 0 61 3 A
+rlabel metal1 0 0 0 4 2 gnd!
+rlabel metal1 0 116 0 120 4 vdd!
+rlabel metal1 -1 49 -1 53 3 B
+rlabel metal1 128 57 128 61 7 Z
+<< end >>

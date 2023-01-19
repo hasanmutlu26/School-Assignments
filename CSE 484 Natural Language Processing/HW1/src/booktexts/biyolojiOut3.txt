@@ -1,0 +1,400 @@
+g. Uyarılara Tepki: Tüm canlılar ısı, ışık, besin, avcı, ses gibi birçok uyarıya çeşitli davranışlarıyla tepki verir.
+Uyarana karşı verilen bu tepkiler canlıların hayatta kalmasını sağlar.
+h.
+Uyum: Canlıların bulundukları çevrede yaşamasını sağlayan kalıtsal, yapısal veya davranışsal değişikliklere uyum denir.
+ı. Organizasyon: Tek hücreli canlılarda hücre organelleri arasında, çok hücreli canlılarda hücreler arasında belirli bir organizasyon vardır.
+Çok hücreli canlılardaki organizasyon şu şekildedir; görev ve yapı bakımından benzer hücreler bir araya gelerek dokuları, dokular organları, organlar sistemleri, sistemlerde organizmayı meydana getirir.
+i.
+Üreme: Tüm canlılar soylarını devam ettirmek için üremek zorundadır.
+Canlılar eşeyli ya da eşeysiz olarak ürer.
+j.
+Büyüme ve Gelişme: Büyüme, bir hücreli canlılarda hücre hacminin ve kütlesinin artmasıyla gerçekleşirken çok hücreli canlılarda hacim, kütle ve hücre sayısının artmasıyla gerçekleşir.
+Gelişme ise hücre bölünmesini, büyümesini, farklılaşmasını, doku ve organların oluşmasını kapsayan ve ergin canlının oluşmasıyla sonuçlanan bir süreçtir.
+BÖLÜM 2: Canlıların Yapısında Bulunan Temel Bileşikler Canlıların yapısını oluşturan temel bileşikler, inorganik ve organik yapılıdır.
+Canlı vücudunda sentezlenemeyip doğadan hazır olarak alınan bileşiklere inorganik bileşik denir.
+Su, asit, baz, tuz ve mineraller bu gruba girer.
+Canlılar tarafından sentezlenebilen bileşiklere organik bileşik denir.
+Karbonhidrat, protein, yağ, nükleik asit (DNA ve RNA), enzim, hormon, ATP ve vitamin bu gruba girer.
+1.Ünite Yaşam Bilimi Biyoloji 41 A. İnorganik Bileşikler 1.Su Canlının önemli bir bölümü sudan oluşur.
+Enzimlerin çalışması için su gereklidir.
+Su moleküllerinin kohezyon özelliği, bitkilerde su ve mineral taşınmasında, böceklerin su üstünde yürümesini sağlayan yüzey geriliminin oluşmasında etkilidir.
+Suyun öz ısısı yüksek olduğu için, geç ısınıp geç soğur.
+Bu sayede, kıyı bölgelerinde ılıman bir iklim oluşur.
+Su; alg, mercan, balık, yunus, balina gibi birçok canlı için yaşam ortamıdır.
+Fotosentez için su gereklidir.
+Hücrelerin ihtiyaç duyduğu maddelerin taşınması ve hücrelerde oluşan metabolik atıkların uzaklaştırılması su ile olur.
+Su, buharlaşma ısısının yüksek olması sebebiyle etkili bir soğutma sağlar.
+Böylece karada yaşayan bazı canlılar, artan vücut sıcaklığını terleme yoluyla düşürür.
+2.Asit ve Bazlar Asitler, su içerisinde çözündüklerinde H+ (hidrojen iyonu) veren bileşiklerdir.
+Asitler, mavi turnusol kâğıdını kırmızıya dönüştürür ve genellikle tatları ekşidir.
+Asitlerin bazıları yakıcı ve parçalayıcıdır.
+Bazlar; su içerisinde çözündüklerinde OH- (hidroksil iyonu) veren bileşiklerdir.
+Bazlar kırmızı turnusol kâğıdını maviye dönüştürür.
+Genellikle tatları acıdır ve ele kayganlık hissi verir.
+Maddelerin asitlik ve bazikliğini ölçmek için bir pH cetveli kullanılır.
+pH cetvelinde değerler; 0 ile 7 arasında ise madde asidik, 7 ile 14 arasında ise madde bazik, 7 ise madde nötrdür.
+3.Tuz ve Mineraller Asit ve bazların tepkimeye girmesiyle tuz oluşur.
+Tuzların vücut sıvısındaki oranını belirli sınırlar arasında olması gerekir.
+Aksi durumda canlının yaşamı tehlikeye girer.
+Tuz ve mineraller canlılık fonksiyonları ve metabolik reaksiyonlar için gereklidir.
+B.Organik Bileşikler 1.Karbonhidratlar Hücrenin yapısal maddesi ve besin deposudur.
+Enerji elde etmek için en hızlı şekilde kullanılan organik moleküldür.
+Karbonhidratlar; monosakkaritler, disakkaritler ve polisakkaritler olmak üzere üç grupta incelenir.
+Monosakkaritler, karbonhidratların en küçük birimidir.
+Sindirilmezler.
+İçerdikleri “C” sayısına göre; trioz (3C’lu), pentoz (5C’lu) ve heksoz (6C’lu) olarak gruplandırılır.
+Triozlara örnek; gliseraldehit, Pentozlara örnek; riboz ve deoksiriboz, Heksozlara örnek; glikoz (üzüm şekeri), früktoz (meyve şekeri) ve galaktoz (süt şekeri).
+Disakkaritler, iki monosakkaritin birleşmesi ile oluşur.
+Maltoz, sükroz ve laktoz olmak üzere üç çeşit disakkarit vardır.
+Polisakkaritler, çok sayıda monosakkaritin birleşmesi ile oluşur.
+Nişasta, selüloz, glikojen ve kitin olmak üzere dört çeşit polisakkarit vardır.
+Nişasta ve selüloz bitkisel, glikojen ve kitin hayvansal polisakkarittir.
+Selüloz ve kitin hücre yapısına katılırken, nişasta ve glikojen hücrede depo edilen polisakkarittir.
+2.Yağlar Yağlar, hücre zarının temel bileşenidir, canlının enerji kaynağıdır, suda çözünmez, eter ve kloroform gibi çözücülerde çözünür.
+Yağlar, nötral yağlar (trigliseritler), fosfolipitler ve steroitler olmak üzere üç grupta incelenir.
+Nötral yağları oluşturan yağ asitleri, doymuş ve doymamış yağlar olarak iki grupta incelenir.
+Karbon atomları arasında çift bağ yoksa doymuş yağlar, çift bağ varsa doymamış yağlar olarak adlandırılır.
+Fosfolipitler, hücre zarının temel bileşenidir.
+Hücre zarında çift tabaka halinde bulunur.
+42 Biyoloji 1 Steroidler, hem hücre zarında hem cinsiyet hormonlarında bulunur.
+Yağlar; deri altında depo edilerek koruyuculuk görevi yapar.
+Böylece organları dış darbelerden korur.
+Yalıtım görevi yaparak vücudun ısı kaybını önler.
+Metabolizmanın düzenlenmesinde rol alır.
+Göçmen kuşlar ve kış uykusuna yatan hayvanlar, yağları hem enerji kaynağı hem de su ihtiyacı için kullanır.
+Yağlar, vücuda alınan A, D, E ve K vitaminlerinin çözünmesinde de kullanılır.
+3.Proteinler Proteinler hücre zarının, organellerin, kas, kıkırdak, kemik gibi dokuların, bazı hormon ve enzimlerin yapısına katılır.
+Proteinleri oluşturan yapı taşları aminoasitlerdir.
+Protein zincirlerinde bulunan aminoasitlerin sayısı ve dizilimi farklı protein çeşitlerinin oluşmasını sağlar.
+Proteinler, hücre yapımında ve dokuların onarımında görev alır.
+Hücre zarının yapısına katılarak madde geçişlerinde görev yapar.
+Antikor yapısına katılarak vücudun bağışıklığında görev alır.
+Hemoglobin yapısına katılarak solunum gazlarının taşınmasında görev alır.
+Kan proteinlerinden albümin ve globulini oluşturarak kanın ozmotik basıncının düzenlenmesinde, fibrinojenin yapısına katılarak kan pıhtılaşmasında görev alır.
+Hücre içi ve dışı sıvıların pH değişimlerini dengeleyerek homeostazinin korunmasında rol oynar.
+Zorunlu durumlarda enerji kaynağı olarak kullanılır.
+4.Enzimler Enzimler, canlılarda gerçekleşen biyokimyasal reaksiyonların aktivasyon enerjisini düşürerek reaksiyonları hızlandıran ve reaksiyonlardan değişmeden çıkan biyolojik katalizörlerdir.
+Enzimler yapılarına göre basit ve bileşik enzimler olmak üzere iki grupta incelenir.
+Basit Enzimler, sadece protein yapıda olan enzimlerdir.
+Yardımcı grup bulundurmazlar.
+Sindirim enzimleri basit yapılı enzimlerdir.
+Bileşik Enzimler, yapılarında proteinle birlikte yardımcı grup olarak vitamin veya mineral bulunduran enzimlerdir.
+Bileşik enzimlere holoenzim de denir.
+Enzimlerin etki ettiği maddelere substrat denir.
+Enzimle substratı arasında anahtar-kilit uyumu vardır.
+Enzimler substratlara özgüdür.
+Her enzim her substrata etki edemez.
+Bazı enzimler çift yönlü çalışabilir (tersinir).
+Bazı enzimler tek yönlü çalışır.
+Enzimler çok hızlı çalışır.
+Enzimler, hem hücre içinde hem de hücre dışında çalışabilir.
+Enzimler, tepkimelerden değişmeden çıkar.
+Bu yüzden tekrar tekrar kullanılabilir.
+Hücrede her enzim, belirli bir genin kontrolünde sentezlenir.
+Enzimler takım hâlinde çalışır, bir enzimin etki ettiği tepkimenin ürünü, kendinden sonraki enzimin substratıdır.
+Enzimler, genellikle substrat çeşidi ya da tepkime çeşidi isminin sonuna -az eki getirilerek adlandırılır.
+Maltaz, sükraz, kinaz ve hidrolaz buna örnektir.
+İsminin sonunda -ojen eki bulunan enzimler ilk salgılandıklarında inaktif durumdadır.
+Bu enzimler, belirli şartlar altında aktif hâle geçer.
+Enzimlerin çalışmasına etki eden faktörler: sıcaklık, ph, enzim miktarı, substrat miktarı, substrat yüzeyi, su miktarı’dır.
+Enzimler, peynir ve ekmek yapımında, et ürünlerinin işlenmesinde, laktozsuz süt üretiminde, meyve sularının berraklaştırılmasında, biyoteknolojik araştırmalarda, tıpta teşhis ve tedavi, eczacılıkta ilaç üretimi amacıyla, deterjan endüstrisinde, kanser hastalığına karşı uygulanan enzim tedavisi gibi alanlarda kullanılır.
+5.Hormonlar Özel bezler tarafından salgılanan, kan yolu ile ulaştıkları organ ve dokularda üzerinde düzenleyici olarak görev alan organik moleküllerdir.
+Amino asit, protein ve steroit yapılı olabilirler.
+Hormonlar; üreme, beslenme, korku, heyecan, büyüme, gelişme ve homeostazi gibi pek çok yaşamsal olayda görev alır.
+1.Ünite Yaşam Bilimi Biyoloji 43 6.Vitaminler Vitaminler; yapı maddesi veya enerji kaynağı olarak kullanılmaz.
+Düzenleyici ve direnç artırıcı olarak kullanılır.
+Enzimlerin yapısına katılarak katalizör olarak görev yapar.
+Bitkilerde fotosentez reaksiyonları ile doğrudan üretilebildikleri gibi, hayvanlarda öncül maddelerden dönüşüm reaksiyonlarıyla da üretilir.
+Vitaminler; suda ve yağda çözünen vitaminler olmak üzere iki grupta incelenir.
+A, D, E ve K vitaminleri yağda çözünen vitaminlerdir.
+C ve B grubu vitaminleri suda çözünen vitaminlerdir.
+7.Nükleik Asitler Nükleik asitler; hücredeki metabolik faaliyetleri yönetir ve kalıtımı sağlar.
+Nükleik asitler nükleotit’lerden oluşur.
+DNA ve RNA olmak üzere iki çeşit nükleik asit vardır.
+DNA kalıtım materyalidir.
+Saç rengi, göz rengi gibi birçok özelliği belirleyen genetik bilgi DNA ile taşınır.
+DNA prokaryot hücrelerde sitoplazmada, ökaryot hücrelerde çekirdekte, mitokondride, ve ribozomda bulunur.
+RNA molekülü DNA’dan aldığı genetik bilgi ile protein sentezini gerçekleştirir.
+RNA molekülü; mRNA (mesajcı RNA), rRNA (ribozomal RNA) ve tRNA (taşıyıcı RNA) olmak üzere üç çeşittir.
+mRNA; protein sentezi için gerekli olan genetik bilgiyi DNA’dan alıp sitoplazmadaki ribozoma taşır.
+tRNA; protein sentezi için gerekli olan amino asitleri sitoplazmadan alarak ribozoma taşır.
+rRNA, proteinlerle birlikte ribozomların yapısına katılır.
+8.ATP ATP hücredeki temel enerji molekülüdür.
+ATP, hücre içinde sentezlenen ve kullanılan bir moleküldür.
+Bir hücreden bir başka hücreye aktarılamaz ve depolanamaz.
+Bu yüzden hücre içinde bir taraftan sentezlenirken diğer taraftan kullanılır.
+LİPİT, KARBONHİDRAT, PROTEİN, VİTAMİN, SU VE MİNERALLERİN SAĞLIKLI BESLENME İLE İLİŞKİSİ Sağlığın korunmasında ve hastalıkların önlenmesinde yeterli ve dengeli beslenme çok önemlidir.
+Yeterli ve dengeli beslenme, tüm besin öğelerinden yani yağlar, karbonhidratlar, proteinler, vitaminler ve minerallerden yeterli miktarda alınması demektir.
+Yeterli ve dengeli beslenmeye dikkat edilmediğinde insülin direnci, diyabet ve obezite gibi ciddi sağlık sorunları oluşur.
+Dünya Sağlık Örgütü (WHO) tarafından en riskli 10 hastalıktan biri olarak kabul edilen obezite, yüksek tansiyon, kalp-damar hastalıkları, şeker hastalığı, karaciğer yağlanması gibi bir çok hastalığa neden olur.
+Yine aynı örgüt tarafından yürütülen son araştırmalar, obezitenin kanserle yakın ilgisi olduğunu göstermektedir.
+44 Biyoloji 1 ÜNİTE SONU DEĞERLENDİRME SORULARI 1.
+İyot çözeltisi nişasta varlığında mavi-mor renk verdiği için besinlerde nişasta olup olmadığını tespit etmek için iyot çözeltisi kullanılır.
+Buna göre hangisine iyot çözeltisi damlatıldığında mavi-mor renk oluşması beklenir?
+A) Maydanoz B) Yumurta C) Patates D) Salatalık 2.
+Biüret çözeltisi protein varlığında pembe-mor renk verir.
+Buna göre çeşitli besin maddeleri konan deney tüplerinden hangisine biüret çözeltisi damlatıldığında pembe-mor renk oluşması beklenir?
+A) I ve II B) II ve III C) III ve IV D) II ve IV 3.
+Hangisi enzim aktivitesini arttırıcı yönde etki eder?
+A) Ortam sıcaklığının düşmesi B) Ortamdaki su miktarının %15’in altına inmesi C) Substratın yüzey alanının artması D) Ortama inhibitör madde eklenmesi 4.
+Bazı amino asitlerin sentezi için gerekli olan, eksikliğinde deride solgunluğa fazlalığında ise alerjik rahatsızlıklara neden olan mineral hangisidir?
+A) Çinko B) Potasyum C) Klor D) Kükürt 5.
+Hücre zarının temel bileşeni ve hücrenin enerji kaynağı olan, suda çözünmediği hâlde eter, kloroform gibi çözücülerde çözünen molekül hangisidir?
+A) Lipit B) Protein C) Karbonhidrat D) ATP 6.
+Suyun canlılar için önemine ilişkin olarak hangisi yanlıştır?
+A) Enzimlerin çalışması için gereklidir.
+B) Enerji verici olarak kullanılır.
+C) Fotosentez tepkimelerinde kullanılır.
+D) Vücut sıcaklığının dengelenmesini sağlar.
+7.
+Hangisinde protein yönünden zengin besinler bir arada verilmiştir?
+A) Patlıcan, salata, yoğurt B) Köfte, patates, ayran C) Yumurta, köfte, fasulye D) Ispanak, portakal, patates Biüret çözeltisi Su Biüret çözeltisi Yumurta akı Biüret çözeltisi Çiğ süt Biüret çözeltisi Elma I II III IV 1.Ünite Yaşam Bilimi Biyoloji 45 8.
+Üreme olayının temel amacı hangisidir?
+A) Metabolizma olaylarının sürekliliğini sağlamak B) Hücre sayısının artmasını sağlanmak C) Canlıların nesillerinin devam etmesini sağlamak D) Kalıtsal yapının yavru bireylerde korunmasını sağlamak 9.
+Aşağıdaki olaylardan hangisi tüm canlılarda ortak olarak gerçekleşmez?
+A) Fotosentez B) Katabolizma C) Solunum D) Anabolizma 10.
+Canlıların, yaşamak, üremek, büyümek için gerçekleştirdikleri sindirim, solunum ve boşaltım gibi yaşamsal reaksiyonların tümüne ne ad verilir?
+A) Organ B) Metabolizma C) Genetik D) Doku 11.
+Canlılar büyüme, gelişme ve enerji gereksinimlerini karşılamak için aşağıdaki olaylardan hangisini gerçekleştirmek zorundadır?
+A) Hücreler arası organizasyon B) Üreme C) Beslenme D) Boşaltım 12.
+Yaşamın devamı için hücre içi veya vücut içi ortamın, sıcaklık, madde yoğunluğu ve pH gibi birçok değer bakımından belirli bir dengede olması durumuna ne ad verilir?
+A) Uyarılara tepki B) Homeostazi C) Uyum D) Boşaltım 13.
+Aşağıda verilenlerden hangisi tüm canlıların ortak özelliklerinden biri değildir?
+A) Dokulardan oluşma B) Solunum yapma C) Boşaltım D) Beslenme 14.
+Vitaminlerle ilgili hangisi yanlıştır?
+A) Suda ve yağda çözünen olmak üzere iki temel grupta incelenir.
+B) Yapı maddesi veya enerji kaynağı olarak kullanılır.
+C) Enzimlerin yapısına katılan vitaminlere koenzim denir.
+D) Düzenleyici ve direnç artırıcı olarak kullanılır.
+15.
+Aşağıdakilerden hangisi hem DNA’da hem de RNA’da bulunan bir moleküldür?
+A) Adenin B) Riboz C) Deoksiriboz D) Timin 46 Biyoloji 1 16.
+Aşağıdakilerden hangisi inorganik bir bileşiktir?
+A) Lipit B) Protein C) Nükleik asit D) Kalsiyum 17.Aşağıdakilerden hangisi suda çözünmeyen bitkisel bir polisakkarit olup bitki hücresinde hücre çeperinin temel maddesini oluşturur?
+A) Kitin B) Nişasta C) Selüloz D) Glikojen 18.
+Enzimlerin etki ettiği maddeye ne ad verilir?
+A) Kofaktör B) Koenzim C) Substrat D) Aktivasyon enerjisi 19.Aşağıdakilerden hangisi nükleotitlerin yapısına katılan beş karbonlu şekerlerden biridir?
+A) Glikoz B) Fruktoz C) Galaktoz D) Deoksiriboz 20.
+DNA molekülündeki organik bazlarla ilgili verilen eşitliklerden hangisi doğrudur?
+A) A=T B) T=C C) A=C D) G=T 1.Ünite Yaşam Bilimi Biyoloji 47 ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... ........................................................................................................................... .......................................................................................................................... NOTLAR 2.
+Ünite Bu ünitede; 1.
+Bölüm: Hücre HÜCRE 50 Biyoloji 1 NELER ÖĞRENECEĞİZ?
+1.
+Hücre teorisine ilişkin çalışmaları, 2.
+Hücresel yapıları ve görevlerini, 3.
+Hücre zarından madde geçişini öğreneceğiz.
+HÜCRE 1.
+BÖLÜM ANAHTAR KAVRAMLAR Aktif Taşıma Endositoz Organel Osmoz Ökaryot Prokaryot Difüzyon Ekzositoz Pasif Taşıma 2.Ünite Hücre 51 2.1.
+HÜCRE Tüm canlılar hücreden ya da hücrelerden oluşur.
+Hücre, yaşama, üreme, solunum gibi canlılık olaylarının tamamını gerçekleştiren temel birimdir.
+Bu yüzden hücre canlıların en küçük yapı ve işlev birimi olarak tanımlanır.
+2.1.1.
+Hücre Teorisine İlişkin Çalışmalar 17. yüzyılda Leeuwenhoek, lensler üzerine yaptığı çalışmalarla hücreyi incelemeye olanak sağlayan ışık mikroskobunu geliştirdi.
+Görsel 2.1.
+Leeuwenhoek Robert Hooke 1665 yılında, Leeuwenhoek’in mikroskop tasarımından biraz daha farklı bir mikroskop tasarladı.
+Tasarladığı bu mikroskopla incelediği ölü mantar dokusunda içi boş odacıklar gördü.
+Bu boş odacıklara hücre adını verdi.
+Görsel 2.2.
+Robert Hooke 1838 yılında Alman bilim insanı Mathias Schleiden, bitkilerin hücrelerden oluştuğunu tespit etti.
+Görsel 2.3.
+Mathias Schleiden 1839 yılında Alman Thedor Schwann, hayvanların hücrelerden oluştuğunu belirledi.
+Schwann, hayvan ve bitki hücrelerinin temelde aynı yapıda oldukları sonucuna varmıştır.
+Hücre teorisine ise şu şekilde katkı sağlamıştır; bütün organizmalar bir ya da daha fazla olmak üzere hücreden oluşur.
+1855 yılında Rudolph Wirchow, bütün hücrelerin daha önce var olan başka bir hücreden meydana geldiğini belirledi.
+Görsel 2.5.
+Rudolph Wirchow Görsel 2.4.
+Thedor Schwann 52 Biyoloji 1 Bilim insanlarının bu çalışmaları hücre teorisinin oluşturulmasını sağlamıştır.
+Hücre teorisi şu şekilde özetlenebilir: • Bütün canlılar bir ya da birden çok hücreden oluşur.
+• Hücreler, canlıların temel yapısal ve fonksiyonel birimidir.
+• Hücreler, daha önce var olan bir hücrenin bölünmesi ile oluşur.
+• Hücreler kalıtım materyalleri içerir ve ana hücreden yavru hücreye bu materyaller aktarılır.
+• Metabolik tepkimelerin gerçekleştiği yer hücredir.
+Mikroskobun icadı hücrenin keşfinde ve hücre teorisinin oluşturulmasında önemli bir yere sahiptir.
+Çünkü mikroskop bilim insanlarına, gözle görülemeyecek kadar küçük olan yapıları inceleme imkânı sağlamıştır.
+Elektron mikroskobunun geliştirilmesiyle incelenen nesnenin yüz binlerce kez büyütülebilmesi sağlanmıştır.
+Böylece bilim insanları hücrenin yapısı hakkında daha detaylı bilgilere ulaşmıştır.
+Bilim ve teknoloji alanında yaşanan bu ilerlemeler sadece hücre yapısıyla ilgili çalışmaları değil, aynı zamanda hücrede meydana gelen kimyasal olaylar ve genetik materyaller konusundaki çalışmaları da hızlandırmıştır.
+2.1.2.
+Hücresel Yapılar ve Görevleri Hücreler genetik materyallerinin zarla çevrili olup olmamasına göre iki grupta incelenir: Prokaryot hücre (Çekirdeksiz Hücre) ve Ökaryot hücre (Çekirdekli Hücre).
+a. Prokaryot Hücre Prokaryot hücrelerin zarla çevrili çekirdeği ve zarlı organelleri yoktur.
+Sadece zarsız organel olan ribozomları vardır.
+Ribozom protein sentezinde görev alır.
+Kalıtım materyali olan DNA sitoplazma içerisinde dağınık halde bulunur.
+Bu canlılardaki bütün metabolizma olayları, sitoplazma ve hücre zarındaki yapılarda gerçekleşir.
+Bakteriler ve arkebakteriler prokaryot hücre yapısına sahiptir.
+Görsel 2.6.
+Mikroskop Görsel 2.7.
+Elektron Mikroskobu Görsel 2.8.
+Prokaryot Hücre kamçı DNA hücre zarı hücre duvarı kapsül ribozom SIRA SENDE Sende hücre teorisine ilişkin verilen bilgiler ışığında mikroskop ve ileri görüntüleme teknolojilerinin kullanılmasının hücre teorisine katkılarını araştırabilirsin.
+2.Ünite Hücre 53 b. Ökaryot Hüc Ökaryot hücrelerde zarla çevrili çekirdek ve organeller bulunur.
+Kalıtım materyali çekirdek içerisinde yer alır.
+Mantarlar, bitkiler, hayvanlar ve protistalar ökaryot canlılardır.
+Ökaryot hücreye sahip canlılar bir veya çok hücreli olup organellere sahiptir.
+Ökaryot hücreler hücre zarı, sitoplazma, ve çekirdekten oluşur.
+Prokaryot ve ökaryot hücrelerde ortak yapılar bulunur.
+Bu yapılar hücre zarı, sitoplazma, ribozom ve genetik materyaldir.
+Sentriol Görsel 2.9.
+Ökaryot Hücre Koful Sitoplazma Ribozom Hücre zarı Golgi aygıtı Mitokondri Çekirdekçik Çekirdek Lizozom Endoplazmik retikulum Görsel 2.10.
+Prokaryot ve ökaryot hücre özelliklerini gösteren infografi 54 Biyoloji 1 Hücre zarının yapısı “akıcı mozaik zar modeli” ile açıklanır.
+Bu modele göre hücre zarında çift katlı lipit tabakası, aralarında proteinler ve karbonhidratlar bulunur.
+Hücre zarındaki lipitler çoğunlukla fosfolipit yapıdadır.
+Çift katlı fosfolipit tabakası esnek olup sürekli hareket hâlindedir.
+Bu durum hücre zarının akıcı olmasını sağlar.
+Hücre zarında bulunan fosfolipit moleküllerinin arasında düzenli biçimde dağılmış ve yer değiştirebilen protein molekülleri bulunur.
+Bu proteinler çoğu zaman yağ tabakası içinde zarı boydan boya kateden kanallar oluşturur.
+Bunlara kanal proteinleri denir.
+Bu kanallar hücrenin dış ortamla madde alışverişini sağlar.
+Glikoz zincirleri hücre zarındaki lipit ve proteinlere bağlanarak glikoprotein ve glikolipitleri oluşturarak bazı hormonların ve hücre içine alınacak bazı maddelerin tanınması ve gerekli tepkinin verilmesi sağlanır.
+Hayvan hücrelerinin zarında zara sağlamlık ve esneklik veren, steroit olan kolesterol molekülü bulunur.
+Sil, kamçı ve mikrovillüsler zardan oluşan yapılardır.
+Bazı mantar, bakteri, protista ve bitkilerde zarın dış tarafında hücre duvarı vardır.
+Duvar hücreye dayanıklılık verir.
+Ökaryot hücre temel olarak 3 kısımdan oluşur.
+Bunlar: • Hücre zarı • Sitoplazma • Çekirdek 2.1.2.1.
+Hücre Zarı Hücre zarı: • Canlı ve esnektir.
+• Hücreye şekil verir.
+• Hücreler arası iletişimi sağlar.
+• Madde alış verişini düzenler.
+• Yapısında protein, lipit ve karbonhidrat bulunur.
+Görsel 2.11.
+Hücre zarının yapısı “akıcı mozaik zar modeli” ile açıklanır.
+Glikoprotein Glikoz zinciri Glikolipit Protein Yüzey kanal proteini Protein Kolestrol Çift katlı lipit tabakası 2.Ünite Hücre 55 2.1.2.2.
+Sitoplazma Ökaryot hücrede çekirdekle zar arasındaki kısım, prokaryot hücrelerde ise zarla çevrili bir çekirdek olmadığı için hücre zarının içerisinde kalan kısmın tamamı sitoplazmayı oluşturur.
+Sitoplazmanın %70 - %90’ı sudur.
+İçerisinde suyla birlikte mineraller, tuzlar, proteinler, karbonhidratlar, yağlar, enzimler, hormonlar, vitaminler ve nükleotitler ile birlikte hücre iskeleti, sitoplazma sıvısı ve organeller vardır.
+Hücre Organelleri Hücresel solunum, protein sentezi ve hücre içi sindirim gibi olaylar sitoplazmada bulunan organeller tarafından gerçekleştirilir.
+Ökaryot hücrelerde, lizozom, endoplazmik retikulum, golgi aygıtı, ribozom, mitokondri, plastitler ve koful organelleri bulunur.
+Organellerin bazıları çift katlı zar yapısında, bazıları tek katlı zar yapısındadır.
+Bazıları ise zarsız yapıdadır.
+Lizozom Alyuvar dışında hayvan hücrelerinin tümünde bulunur.
+Tek katlı zar yapısındadır.
+Bu organel hücre içi sindirimde görevlidir.
+İçinde sindirim enzimleri bulunur.
+Lizozomun zarı tahrip olup içerisindeki enzimler sitoplazmaya karışırsa hücredeki diğer yapıları sindirir ve parçalar.
+Bu olay otoliz adını alır.
+Otoliz hücrenin ölümüne sebep olur.
+İnsanların embriyonal döneminde parmak oluşumunda, kurbağaların başkalaşım dönemlerinde kuyruğunun kopmasında, kertenkelenin düşmanından kaçarken kuyruğunun kopmasında otoliz olayı etkilidir.
+Lizozomlar en çok karaciğer hücrelerinde ve akyuvarlarda bulunur.
+Görsel 2.12.
+Organellerin bazıları çift katlı, bazıları tek katlı zar yapısındadır.
+Bazıları ise zarsız yapıdadır.
+Zarsız organeller - Ribozom - Sentrozom Hücre organelleri Tek zarlı organeller - Endoplazmik retikulum - Golgi - Lizozom - Koful İki zarlı organeller - Mitokondri - Plastitler a. Kloroplast  b. Kromoplast c. Lökoplast Granüllü Endoplazmik Retikulum: Zarları üzerinde ribozom bulundurur.
+Protein sentezi yapan hücrelerde sayıları fazladır.
+Granülsüz Endoplazmik Retikulum: Üzerinde ribozom bulundurmaz.
+Karbonhidrat ve yağ sentezi yapan hücrelerde sayıları fazladır.
+Endoplazmik retikulumun görevleri: • Protein, yağ ve enzim gibi bazı maddelerin sentezlenmesinden ve bazı maddelerin depolanmasından sorumludur.
+Endoplazmik Retikulum Hücre zarı ile çekirdek zarı arasında uzanan tek zarlı kanalcıklar sistemidir.
+Üzerinde ribozom bulundurup bulundurmamasına göre, granüllü endoplazmik retikulum ve granülsüz endoplazmik retikulum olarak ikiye ayrılır.
+Görsel 2.13.
+Endoplazmik Retikulum 56 Biyoloji 1 • Hücre içinde madde taşınmasını gerçekleştirir.
+• Hücreye desteklik sağlar.
+• Granülsüz E.R ’den golgi oluşturulur.
+• Ribozomlarda sentezlenen proteinleri hücrenin gerekli yerlerine taşır.
+Endoplazmik retikulum genel olarak depolama, paketleme ve taşıma işlemi yapar.
+Golgi Aygıtı Golgi aygıtı yassı keseciklerin üst üste dizilmesiyle oluşur.
+Tek kat zarla çevrilidir.
+Golgi aygıtında; lipit, protein ve karbonhidratlardan çeşitli salgılar, glikolipitler ve glikoproteinler oluşturulur.
+Endoplazmik retikulumdan gelen ürünler burada bekletilir ve paketlenir.
+Golgi aygıtından sentezlenen veya işlenen salgılar kesecikler hâlinde sitoplazmaya verilir.
+Bu keseciklerden lizozom veya kofullar oluşabilir.
+Ribozom Ribozomlar zarsız yapıda olup diğer organellere göre daha küçüktür.
+Ayrıca biri büyük diğeri küçük olmak üzere iki alt birimden oluşur.
+Sitoplazmada, mitokondri ve kloroplast içinde, endoplazmik retikulum ve çekirdek zarının üzerinde bulunur.
+Ökaryot ve prokaryot tüm hücrelerde ortak olarak bulunan bu organelin temel görevi protein sentezini gerçekleştirmektir.
+Bu yüzden protein sentezinin yoğun olduğu hücrelerde ribozom sayısı fazladır.
+Mitokondri Mitokondri çift zarlı bir organeldir.
+Dışta düz, içte ise kıvrımlı bir zar bulunur.
+Kıvrımlı iç zar krista olarak adlandırılır.
+Kristadaki kıvrımlar mitokondrinin yüzeyini genişletir.
+Böylece daha fazla ATP üretilir.
+Mitokondrinin iç kısmını yani kristaların arasını matriks adı verilen sıvı doldurur.
+Matriksin içerisinde solunum enzimleri, DNA, RNA ve ribozomlar bulunur.
+Bu sayede çekirdek DNA’sının denetiminde mitokondri kendini eşleyerek yeni mitokondriler oluşturur.
+Alyuvarlar dışında ökaryot hücrelerin hepsinde mitokondri bulunur.
+Prokaryot hücrelerde bulunmaz.
+Görsel 2.14.
+Golgi Aygıtı Mitokondri Görsel 2.15.
+Ribozom Büyük alt birim Küçük alt birim Görsel 2.16.
+Mitokondri DNA’sı Zarlar arası alan Krista Ribozom Matriks Dış zar İç zar 2.Ünite Hücre 57 Glikoz, yağ asidi ve gliserol gibi yapı taşı hâlindeki moleküller mitokondride oksijenli solunum tepkimelerinde parçalanarak hücrenin ihtiyacı olan ATP enerjisi üretilir.
+Enerji ihtiyacının çok olduğu kas, sinir ve karaciğer hücrelerinde mitokondri sayısı fazladır.
+Plastidler Bitki hücrelerinde bulunur.
+Plastitler yapı ve görevlerine göre kloroplast, kromoplast ve lökoplast olmak üzere üç grupta incelenir.
+a. Kloroplast Kloroplast çift zarlı bir organeldir.
+Dıştaki ve içteki zar düz yapıdadır.
+Dıştaki zar kloroplastı çevreler.
+Kloroplastın içinde stroma denilen bir sıvı bulunur.
+Stroma içerisinde fotosentez enzimleri, DNA, RNA ve ribozomlar bulunur.
+Bu sayede çekirdek DNA’sının denetiminde kloroplast kendini eşleyerek yeni kloroplastlar oluşturur.
+Stroma içerisinde; zarlı bir yapıda olan ve madenî paralar gibi dizilmiş yassı kesecikler bulunur.
+Tilakoit adı verilen bu kesecikler bir araya gelerek grup oluşturur.
+Bu yapıya granum denir.
+Klorofil molekülleri granumlarda bulunur.
+Kloroplast fotosentez olayının gerçekleştiği organeldir.
+Bol miktarda klorofil pigmenti içerdiği için yeşil renkte görünür.
+Yaprak, genç dal ve olgunlaşmamış meyve hücrelerinde çok sayıda kloroplast bulunur.
+b. Kromoplast Bitkilerde yeşil dışındaki diğer renk pigmentlerini taşıyan plastit çeşididir.
+Örneğin limonun sarı, domatesin kırmızı, havucun turuncu rengini kromoplastlar oluşturur.
+c. Lökoplast Renksiz plastitlerdir.
+Bitkilerin kök, tohum, toprak altı gövde gibi kısımlarında bulunur.
+Lökoplastların karbonhidrat, lipit, protein gibi maddeleri depolama görevi vardır.
+Örneğin patatesin toprak altı gövdesinde nişasta depolayan lökoplastlar vardır.
+Görsel 2.18.
+Nişasta depolayan lökoplastlar patateste bol miktarda bulunur.
+Görsel 2.17.
+Kloroplast Tilakoit zar Stroma İç zar Dış zar 58 Biyoloji 1 Koful Kofullar; hücre zarından, endoplazmik retikulumdan ve golgi aygıtından oluşur.
+Kofullar; protein ve nişastanın depolanmasında ve atıkların hücreden uzaklaştırılmasında görev alır.
+Bazı bitkilerde koful özsuyu içerisinde renk maddeleri bulunur.
+Bu maddeler çiçeklerin renkli görünmesini sağlar.
+Amip, paramesyum, öglena gibi tatlı sularda yaşayan tek hücreli canlılarda kontraktil koful adı verilen boşaltım kofulu bulunur.
+Bu koful hücredeki fazla suyun atılmasını sağlayarak hücrenin su dengesini korur.
+Hayvan hücrelerinde koful; küçük ve çok sayıda, bitki hücrelerinde ise büyük ve az sayıdadır.
+Görsel 2.19.
+Koful özsuyu içerisindeki renk maddeleri çiçeklerin renkli görünmesini sağlar.
+Sentrozom Sentrozom hayvan hücrelerinde ve bazı bitki hücrelerinde bulunan, zarsız bir organeldir.
+Hücre çekirdeğine yakın yerlerde bulunur.
+Sentrozom; silindire benzeyen, birbirine dik vaziyette duran ve sentriyol adı verilen iki kısımdan oluşur.
+Sentrozom hücre bölünmesinde görev alır.
+Olgun alyuvar ve sinir hücrelerinde sentrozom bulunmaz.
+Kısaca yapı ve görevleri açıklanan bu organeller genel olarak hücrenin solunum, beslenme, üreme, sindirim, boşaltım, bölünme gibi birçok yaşamsal faaliyetini gerçekleştirir.
+Organeller bu yaşamsal faaliyetleri birbirileriyle iş birliği ve uyum içinde çalışarak yaparlar.
+Örneğin ribozom organelinde sentezlenen proteinler endoplazmik retikulum ile hücre içinde taşınarak golgi aygıtına iletilir.
+Golgide kesecikler hâline getirilerek paketlenen proteinler hücre içine ya hücre dışına gönderilerek kullanılır.
+Bu organellerden herhangi birinde bir problem ortaya çıktığında bundan diğer organellerde etkilenir.
+Örneğin endoplazmik retikulumdaki bir problem ribozomda sentezlenen proteinlerin golgi aygıtına taşınmasını engeller.
+Bu durum da hücrenin salgı yapma görevini yerine getirmesini zorlaştırır.
+Çünkü organeller arasındaki iş birliği bozulur.
+Bu durum hücrenin sağlıklı yapısının bozulmasına ve hücre ölümüne neden olabilir.
+Hücre iskeleti Hücrede organeller dışında hücre iskeleti adı verilen sitoplazmadaki proteinlerden oluşan yapılar vardır.
+Hücre iskeleti hücre bölünmesinde, endositoz ve ekzositoz olaylarında, organellerin sitoplazma içinde yer değiştirmesinde, çekirdeğin yerinin sabitlenmesinde, sitoplazma hareketlerinde görevlidir.
+Hücreyi korur, hücreye desteklik verir ve sitoplazmadaki hareketlere yardımcı olur.
+Görsel 2.20.
+Sentrozom 2.Ünite Hücre 59 Mikrofilament , aktin adı verilen proteinlerden oluşan en ince yapılardır.
+Kas hücreleri içinde yer alan mikrofilamentler kasların uzayıp kısalmasını sağlar.
+İnce bağırsak yüzeyinde bulunan ve besinlerin emilmesini sağlayan mikrovillus adı verilen yapıların oluşumunda mikrofilamentler görevlidir.
+Mikrotübüller, çapı en büyük olan hücre iskelet sistemi elemanlarıdır.
+Hücrelerde katı bir iskeletin oluşmasını sağlayarak hücrenin şekil kazanmasına yardımcı olur.
+Hücre içindeki organellerin yer değiştirmesinde görevlidir.
+Hücrelerin hareketli üyeleri olan siller ve kamçıların yapısında mikrotübüller bulunur.
+Mikrotübüller sentrozomun yapısına da katılır.
+Ara filament, mikrofilamentlerden daha kalın, mikrotübüllerden ise daha ince yapılardır.
+Bunlar hücre içindeki yapıların yerinin sabitlenmesinde görev alır.
+2.1.2.3.
+Çekirdek (Nukleus) Hücredeki kalıtsal bilginin depolandığı, tüm metabolizma faaliyetlerinin yönetildiği yer çekirdektir.
+Yani protein sentezi, büyüme, gelişme ve bölünme gibi faaliyetler çekirdek tarafından kontrol edilir.
+Ayrıca hücredeki kalıtsal bilginin yazılı olduğu DNA molekülü de çekirdekte bulunur.
+Amiplerle yapılan deneyler, çekirdeğin hücre hayatı için ne kadar önemli olduğunu ortaya koymuştur.
+Görsel 2.21.
+Hücre iskeleti; ara filament, mikrotübül ve mikrofilamentten oluşur.
+Hücrede bulunan iskelet yapı üç grupta incelenir: Mikrofilament, Mikrotübül ve Ara filament.
+Görsel 2.22.
+Çekirdeği şekildeki gibi çıkartılan bir amip uygun şartlarda bekletilse bile yaşamaz.
+Görsel 2.23.
+Şekildeki gibi sitoplazmasının bir kısmı kesilen amipte, çekirdeğin bulunmadığı sitoplazma parçası ölürken çekirdeğin bulunduğu sitoplazma parçası yaşamaya devam eder.
+Hücre zarı Mikrofilamen 60 Biyoloji 1 Kromatin ve kromozomların esas maddesi DNA’dır.
+Kromozomlar, kalıtım birimi olan DNA’yı nesilden nesile aktararak türün devamlılığını sağlar.
+Canlı türlerinin kromozom yapısı ve sayısı farklıdır.
+Kromozom sayısının çok oluşu, o canlının gelişmişliğini göstermez.
+Örneğin eğrelti otunun kromozom sayısı 500 iken insanın kromozom sayısı 46’dır.
+İki canlı türünün kromozom sayısının aynı olması, o canlıların aynı türden olduğunu da göstermez.
+Örneğin insan ve moli balığının kromozom sayısı 46’dır.
+Bu canlıların kromozom sayıları aynı olsa da türleri farklıdır.

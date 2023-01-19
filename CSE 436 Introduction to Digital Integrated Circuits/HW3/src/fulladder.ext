@@ -1,0 +1,116 @@
+timestamp 1671281871
+version 8.3
+tech scmos
+style TSMC0.25um(tsmc25)from:t24j
+scale 1000 1 12
+resistclasses 4400 3500 1091000 1091000 1 4000 4000 70 70 70 70 30
+use inv inv_0 1 0 323 0 1 0
+use aoi22 aoi22_0 1 0 283 0 1 0
+use xor3 xor3_0 1 0 1 0 1 0
+node "m1_316_0#" 0 30.17 316 0 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12 14 0 0 0 0 0 0 0 0
+node "m1_262_0#" 0 53.874 262 0 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 28 22 0 0 0 0 0 0 0 0
+node "gnd!" 0 101.282 -15 0 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 60 38 0 0 0 0 0 0 0 0
+node "C" 6 552.888 -15 32 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 126 78 50 40 1138 576 0 0 0 0
+node "m1_124_48#" 3 296.366 124 48 m123c 0 0 0 0 0 0 0 0 0 0 0 0 0 0 50 40 50 40 610 312 0 0 0 0
+node "cout" 0 83.504 341 57 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 48 32 0 0 0 0 0 0 0 0
+node "m1_315_57#" 0 36.096 315 57 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 16 16 0 0 0 0 0 0 0 0
+node "B" 6 511.794 -15 49 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 90 60 50 40 1178 596 0 0 0 0
+node "A" 6 578.314 -15 69 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 138 84 50 40 1142 578 0 0 0 0
+node "sum" 2 299.534 257 78 v1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 66 48 378 196 0 0 0 0 0 0
+node "m1_262_116#" 0 59.8 262 116 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 32 24 0 0 0 0 0 0 0 0
+node "vdd!" 0 95.356 -14 116 m1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 56 36 0 0 0 0 0 0 0 0
+cap "A" "B" 265.053
+cap "m1_124_48#" "B" 2133.28
+cap "m1_124_48#" "C" 30.7827
+cap "sum" "A" 63.6875
+subcap "C" -198.36
+cap "xor3_0/B" "xor3_0/xor2_0/inv_0/Z" 13.64
+cap "xor3_0/C" "xor3_0/A" 2.624
+cap "xor3_0/B" "xor3_0/xor2_0/inv_1/Z" 39.664
+cap "xor3_0/C" "xor3_0/xor2_0/inv_0/Z" 4.48
+cap "xor3_0/xor2_0/inv_0/Z" "xor3_0/A" 10.464
+cap "xor3_0/C" "xor3_0/B" 1.312
+cap "xor3_0/C" "xor3_0/xor2_0/inv_1/Z" 5.792
+cap "xor3_0/B" "xor3_0/A" 24.568
+cap "xor3_0/xor2_0/inv_1/Z" "xor3_0/A" 15.472
+cap "B" "xor3_0/xor2_1/inv_1/Z" 10.464
+cap "B" "xor3_0/xor2_1/B" 21.512
+cap "C" "xor3_0/xor2_1/inv_1/Z" 12.704
+cap "C" "xor3_0/xor2_1/B" 163.49
+cap "xor3_0/xor2_0/aoi22_0/D" "B" 5.008
+cap "xor3_0/xor2_1/inv_0/Z" "A" 10.464
+cap "xor3_0/xor2_0/aoi22_0/D" "C" 1.312
+cap "xor3_0/xor2_0/aoi22_0/C" "C" 1.312
+cap "B" "xor3_0/xor2_0/aoi22_0/C" 5.008
+cap "C" "xor3_0/xor2_1/inv_0/Z" 12.704
+cap "B" "xor3_0/xor2_1/inv_0/Z" 13.64
+cap "xor3_0/xor2_1/inv_1/Z" "xor3_0/xor2_1/A" 4.48
+cap "xor3_0/xor2_1/B" "xor3_0/xor2_1/A" 181.306
+cap "xor3_0/xor2_1/inv_0/Z" "xor3_0/xor2_1/A" 4.48
+cap "xor3_0/xor2_1/A" "A" 192.338
+cap "xor3_0/xor2_0/inv_2/A" "A" 17.712
+cap "C" "xor3_0/xor2_1/A" 9.488
+cap "B" "xor3_0/xor2_1/A" 34.416
+cap "xor3_0/xor2_1/inv_1/Z" "A" 10.464
+cap "C" "xor3_0/xor2_0/inv_2/A" 5.792
+cap "B" "xor3_0/xor2_0/inv_2/A" 29.928
+cap "xor3_0/xor2_1/B" "A" 4.352
+cap "xor3_0/xor2_0/aoi22_0/D" "A" 5.008
+cap "xor3_0/xor2_0/aoi22_0/C" "A" 5.008
+cap "xor3_0/Z" "aoi22_0/C" 12.704
+cap "xor3_0/xor2_1/aoi22_0/A" "aoi22_0/B" 1.312
+cap "xor3_0/xor2_1/aoi22_0/C" "aoi22_0/A" 5.008
+cap "xor3_0/xor2_1/aoi22_0/A" "aoi22_0/D" 5.008
+cap "xor3_0/Z" "aoi22_0/A" 21.048
+cap "aoi22_0/C" "xor3_0/xor2_1/inv_2/A" 17.712
+cap "xor3_0/xor2_1/aoi22_0/D" "aoi22_0/B" 5.008
+cap "aoi22_0/D" "xor3_0/xor2_1/aoi22_0/D" 5.008
+cap "xor3_0/xor2_1/inv_1/Z" "aoi22_0/B" 21.92
+cap "xor3_0/xor2_1/inv_1/Z" "aoi22_0/D" -0.032
+cap "aoi22_0/C" "aoi22_0/B" -57.7175
+cap "xor3_0/xor2_1/inv_2/A" "aoi22_0/A" 17.712
+cap "aoi22_0/D" "aoi22_0/C" -11.5435
+cap "xor3_0/xor2_1/aoi22_0/C" "aoi22_0/B" 5.008
+cap "xor3_0/xor2_1/aoi22_0/A" "aoi22_0/C" 1.312
+cap "xor3_0/Z" "aoi22_0/B" 52.4512
+cap "xor3_0/xor2_1/aoi22_0/C" "aoi22_0/D" 5.008
+cap "xor3_0/Z" "aoi22_0/D" 45.6854
+cap "aoi22_0/A" "aoi22_0/B" -13.7423
+cap "aoi22_0/C" "xor3_0/xor2_1/aoi22_0/D" 5.008
+cap "xor3_0/xor2_1/aoi22_0/A" "aoi22_0/A" 54.481
+cap "xor3_0/xor2_1/inv_1/Z" "aoi22_0/C" -3.728
+cap "xor3_0/xor2_1/inv_2/A" "aoi22_0/B" 29.928
+cap "aoi22_0/A" "xor3_0/xor2_1/aoi22_0/D" 5.008
+cap "aoi22_0/D" "xor3_0/xor2_1/inv_2/A" 17.712
+cap "xor3_0/xor2_1/aoi22_0/C" "aoi22_0/C" 39.037
+cap "xor3_0/xor2_1/inv_1/Z" "aoi22_0/A" -0.032
+cap "inv_0/A" "sum" 107.344
+cap "sum" "inv_0/Z" 97.3175
+cap "aoi22_0/C" "sum" 8.344
+cap "inv_0/w_n6_98#" "aoi22_0/vdd!" -3.098
+cap "sum" "aoi22_0/B" 8.344
+cap "aoi22_0/D" "sum" 4.172
+cap "inv_0/w_n6_98#" "inv_0/vdd!" -3.098
+cap "aoi22_0/a_n8_96#" "inv_0/w_n6_98#" -6.196
+merge "aoi22_0/C" "xor3_0/xor2_1/A" -165.708 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -40 -36 0 0 0 0 0 0 0 0
+merge "xor3_0/xor2_1/A" "m1_124_48#"
+merge "xor3_0/xor2_1/inv_2/vdd!" "aoi22_0/vdd!" -9.294 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -8 0 0 0 0 0 0 0 0
+merge "aoi22_0/vdd!" "m1_262_116#"
+merge "m1_262_116#" "inv_0/vdd!"
+merge "aoi22_0/A" "xor3_0/A" -213.636 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -18 0 0 -400 -200 0 0 0 0
+merge "xor3_0/A" "A"
+merge "xor3_0/xor2_1/inv_2/gnd!" "aoi22_0/gnd!" -36.636 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -8 -20 0 0 0 0 0 0 0 0
+merge "aoi22_0/gnd!" "m1_262_0#"
+merge "m1_262_0#" "inv_0/gnd!"
+merge "inv_0/gnd!" "m1_316_0#"
+merge "aoi22_0/B" "xor3_0/B" -263.182 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -20 -26 0 0 -400 -200 0 0 0 0
+merge "xor3_0/B" "B"
+merge "inv_0/Z" "cout" -12.392 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -8 0 0 0 0 0 0 0 0
+merge "xor3_0/Z" "sum" -246.733 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -61 -46 -261 -134 0 0 0 0 0 0
+merge "aoi22_0/D" "xor3_0/C" -247.67 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -20 -26 0 0 -400 -200 0 0 0 0
+merge "xor3_0/C" "C"
+merge "xor3_0/gnd!" "gnd!" -12.392 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -8 0 0 0 0 0 0 0 0
+merge "aoi22_0/w_n14_90#" "inv_0/w_n6_98#" -57.152 0 0 0 0 -64 -24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+merge "aoi22_0/Z" "inv_0/A" -40.441 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -9 -22 0 0 0 0 0 0 0 0
+merge "inv_0/A" "m1_315_57#"
+merge "xor3_0/vdd!" "vdd!" -12.392 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -8 0 0 0 0 0 0 0 0

@@ -1,0 +1,38 @@
+* SPICE3 file created from /mnt/c/Users/Lenovo/Desktop/mag/oai22.ext - technology: scmos
+
+.option scale=0.12u
+
+M1000 a_7_8# A gnd Gnd nfet w=4 l=2
++  ad=48 pd=40 as=40 ps=36
+M1001 Y D a_7_8# Gnd nfet w=4 l=2
++  ad=40 pd=36 as=0 ps=0
+M1002 a_31_31# C Y Vdd pfet w=4 l=2
++  ad=24 pd=20 as=56 ps=36
+M1003 a_7_31# A vdd Vdd pfet w=4 l=2
++  ad=24 pd=20 as=44 ps=38
+M1004 Y B a_7_31# Vdd pfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+M1005 vdd D a_31_31# Vdd pfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+M1006 a_7_8# C Y Gnd nfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+M1007 gnd B a_7_8# Gnd nfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+C0 vdd Y 0.09fF
+C1 C D 0.11fF
+C2 D Y 0.02fF
+C3 Y gnd 0.14fF
+C4 a_7_8# B 0.02fF
+C5 C Y 0.02fF
+C6 A B 0.11fF
+C7 a_7_8# gnd 0.18fF
+C8 C a_7_8# 0.02fF
+C9 a_7_8# Y 0.52fF
+C10 a_7_8# Gnd 0.20fF
+C11 gnd Gnd 0.19fF
+C12 Y Gnd 0.41fF
+C13 vdd Gnd 0.34fF
+C14 D Gnd 0.28fF
+C15 C Gnd 0.28fF
+C16 B Gnd 0.28fF
+C17 A Gnd 0.28fF

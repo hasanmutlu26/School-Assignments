@@ -1,0 +1,55 @@
+* SPICE3 file created from /mnt/c/Users/Lenovo/Desktop/mag/mux2x1.ext - technology: scmos
+
+.option scale=0.12u
+
+M1000 vdd select a_39_31# Vdd pfet w=4 l=2
++  ad=120 pd=108 as=24 ps=20
+M1001 a_7_8# A gnd Gnd nfet w=4 l=2
++  ad=24 pd=20 as=60 ps=54
+M1002 a_39_8# B gnd Gnd nfet w=4 l=2
++  ad=24 pd=20 as=0 ps=0
+M1003 Y a_39_31# vdd Vdd pfet w=4 l=2
++  ad=24 pd=20 as=0 ps=0
+M1004 a_7_31# A vdd Vdd pfet w=4 l=2
++  ad=24 pd=20 as=0 ps=0
+M1005 vdd not-select a_7_31# Vdd pfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+M1006 a_39_31# select a_39_8# Gnd nfet w=4 l=2
++  ad=20 pd=18 as=0 ps=0
+M1007 vdd a_7_31# Y Vdd pfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+M1008 a_39_31# B vdd Vdd pfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+M1009 a_71_8# a_39_31# gnd Gnd nfet w=4 l=2
++  ad=24 pd=20 as=0 ps=0
+M1010 Y a_7_31# a_71_8# Gnd nfet w=4 l=2
++  ad=20 pd=18 as=0 ps=0
+M1011 a_7_31# not-select a_7_8# Gnd nfet w=4 l=2
++  ad=20 pd=18 as=0 ps=0
+C0 gnd a_39_31# 0.09fF
+C1 a_7_31# select 0.02fF
+C2 gnd Y 0.05fF
+C3 a_7_31# vdd 0.14fF
+C4 select a_39_31# 0.02fF
+C5 a_7_31# a_39_31# 0.12fF
+C6 a_39_31# vdd 0.14fF
+C7 select B 0.11fF
+C8 not-select A 0.11fF
+C9 a_7_31# not-select 0.08fF
+C10 a_7_31# B 0.02fF
+C11 a_39_31# m2_48_19# 0.03fF
+C12 a_7_31# Y 0.02fF
+C13 Y vdd 0.14fF
+C14 a_7_31# gnd 0.24fF
+C15 a_7_31# m2_20_19# 0.02fF
+C16 m2_48_19# Gnd 0.00fF **FLOATING
+C17 m2_20_19# Gnd 0.01fF **FLOATING
+C18 gnd Gnd 0.51fF
+C19 Y Gnd 0.17fF
+C20 vdd Gnd 0.69fF
+C21 a_7_31# Gnd 1.25fF
+C22 a_39_31# Gnd 0.59fF
+C23 select Gnd 0.28fF
+C24 B Gnd 0.28fF
+C25 not-select Gnd 0.28fF
+C26 A Gnd 0.28fF

@@ -1,0 +1,232 @@
+* SPICE3 file created from fulladder.ext - technology: scmos
+
+.option scale=0.12u
+
+M1000 inv_0/A aoi22_0/C aoi22_0/a_n8_96# inv_0/w_n6_98# pmos w=8 l=2
++  ad=48 pd=28 as=128 ps=80
+M1001 inv_0/A B aoi22_0/a_n1_8# Gnd nmos w=8 l=2
++  ad=48 pd=28 as=48 ps=28
+M1002 gnd C aoi22_0/a_15_8# Gnd nmos w=8 l=2
++  ad=520 pd=338 as=48 ps=28
+M1003 aoi22_0/a_n1_8# A gnd Gnd nmos w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1004 aoi22_0/a_n8_96# C inv_0/A inv_0/w_n6_98# pmos w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1005 vdd A aoi22_0/a_n8_96# inv_0/w_n6_98# pmos w=8 l=2
++  ad=424 pd=266 as=0 ps=0
+M1006 aoi22_0/a_n8_96# B vdd inv_0/w_n6_98# pmos w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1007 aoi22_0/a_15_8# aoi22_0/C inv_0/A Gnd nmos w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1008 xor3_0/xor2_0/inv_2/A B xor3_0/xor2_0/aoi22_0/a_n8_96# xor3_0/w_128_98# pmos w=8 l=2
++  ad=48 pd=28 as=128 ps=80
+M1009 xor3_0/xor2_0/inv_2/A xor3_0/xor2_0/inv_1/Z xor3_0/xor2_0/aoi22_0/a_n1_8# Gnd nmos w=8 l=2
++  ad=48 pd=28 as=48 ps=28
+M1010 gnd xor3_0/xor2_0/inv_0/Z xor3_0/xor2_0/aoi22_0/a_15_8# Gnd nmos w=8 l=2
++  ad=0 pd=0 as=48 ps=28
+M1011 xor3_0/xor2_0/aoi22_0/a_n1_8# A gnd Gnd nmos w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1012 xor3_0/xor2_0/aoi22_0/a_n8_96# xor3_0/xor2_0/inv_0/Z xor3_0/xor2_0/inv_2/A xor3_0/w_128_98# pmos w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1013 vdd A xor3_0/xor2_0/aoi22_0/a_n8_96# xor3_0/w_128_98# pmos w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1014 xor3_0/xor2_0/aoi22_0/a_n8_96# xor3_0/xor2_0/inv_1/Z vdd xor3_0/w_128_98# pmos w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1015 xor3_0/xor2_0/aoi22_0/a_15_8# B xor3_0/xor2_0/inv_2/A Gnd nmos w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1016 xor3_0/xor2_0/inv_0/Z A gnd Gnd nmos w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1017 xor3_0/xor2_0/inv_0/Z A vdd xor3_0/w_128_98# pmos w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1018 xor3_0/xor2_0/inv_1/Z B gnd Gnd nmos w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1019 xor3_0/xor2_0/inv_1/Z B vdd xor3_0/w_128_98# pmos w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1020 aoi22_0/C xor3_0/xor2_0/inv_2/A gnd Gnd nmos w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1021 aoi22_0/C xor3_0/xor2_0/inv_2/A vdd xor3_0/w_128_98# pmos w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1022 xor3_0/xor2_1/inv_2/A C xor3_0/xor2_1/aoi22_0/a_n8_96# xor3_0/w_128_98# pmos w=8 l=2
++  ad=48 pd=28 as=128 ps=80
+M1023 xor3_0/xor2_1/inv_2/A xor3_0/xor2_1/inv_1/Z xor3_0/xor2_1/aoi22_0/a_n1_8# Gnd nmos w=8 l=2
++  ad=48 pd=28 as=48 ps=28
+M1024 gnd xor3_0/xor2_1/inv_0/Z xor3_0/xor2_1/aoi22_0/a_15_8# Gnd nmos w=8 l=2
++  ad=0 pd=0 as=48 ps=28
+M1025 xor3_0/xor2_1/aoi22_0/a_n1_8# aoi22_0/C gnd Gnd nmos w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1026 xor3_0/xor2_1/aoi22_0/a_n8_96# xor3_0/xor2_1/inv_0/Z xor3_0/xor2_1/inv_2/A xor3_0/w_128_98# pmos w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1027 vdd aoi22_0/C xor3_0/xor2_1/aoi22_0/a_n8_96# xor3_0/w_128_98# pmos w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1028 xor3_0/xor2_1/aoi22_0/a_n8_96# xor3_0/xor2_1/inv_1/Z vdd xor3_0/w_128_98# pmos w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1029 xor3_0/xor2_1/aoi22_0/a_15_8# C xor3_0/xor2_1/inv_2/A Gnd nmos w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1030 xor3_0/xor2_1/inv_0/Z aoi22_0/C gnd Gnd nmos w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1031 xor3_0/xor2_1/inv_0/Z aoi22_0/C vdd xor3_0/w_128_98# pmos w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1032 xor3_0/xor2_1/inv_1/Z C gnd Gnd nmos w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1033 xor3_0/xor2_1/inv_1/Z C vdd xor3_0/w_128_98# pmos w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1034 sum xor3_0/xor2_1/inv_2/A gnd Gnd nmos w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1035 sum xor3_0/xor2_1/inv_2/A vdd xor3_0/w_128_98# pmos w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1036 cout inv_0/A gnd Gnd nmos w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1037 cout inv_0/A vdd inv_0/w_n6_98# pmos w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+C0 xor3_0/xor2_0/inv_1/Z vdd 0.14fF
+C1 xor3_0/xor2_0/inv_1/Z xor3_0/xor2_0/inv_0/Z 0.14fF
+C2 xor3_0/xor2_1/inv_2/A C 0.04fF
+C3 xor3_0/w_128_98# A 0.21fF
+C4 xor3_0/xor2_1/inv_2/A xor3_0/xor2_1/inv_0/Z 0.09fF
+C5 C sum 0.05fF
+C6 aoi22_0/C vdd 0.14fF
+C7 inv_0/w_n6_98# aoi22_0/C 0.10fF
+C8 gnd xor3_0/xor2_0/inv_2/A 0.09fF
+C9 inv_0/A sum 0.11fF
+C10 cout vdd 0.14fF
+C11 inv_0/w_n6_98# cout 0.05fF
+C12 inv_0/w_n6_98# B 0.10fF
+C13 xor3_0/xor2_1/aoi22_0/a_n8_96# xor3_0/xor2_1/inv_2/A 0.32fF
+C14 xor3_0/xor2_0/inv_0/Z B 1.45fF
+C15 xor3_0/xor2_1/inv_2/A sum 0.03fF
+C16 xor3_0/w_128_98# vdd 0.75fF
+C17 xor3_0/w_128_98# xor3_0/xor2_0/inv_0/Z 0.16fF
+C18 xor3_0/xor2_1/inv_1/Z C 0.84fF
+C19 A xor3_0/xor2_0/inv_2/A 0.02fF
+C20 xor3_0/xor2_1/inv_1/Z xor3_0/xor2_1/inv_0/Z 0.14fF
+C21 xor3_0/xor2_0/inv_1/Z B 0.87fF
+C22 gnd inv_0/A 0.09fF
+C23 xor3_0/xor2_1/inv_0/Z gnd 0.14fF
+C24 xor3_0/w_128_98# xor3_0/xor2_0/inv_1/Z 0.16fF
+C25 xor3_0/xor2_1/inv_2/A gnd 0.09fF
+C26 xor3_0/xor2_1/inv_1/Z xor3_0/xor2_1/aoi22_0/a_n8_96# 0.02fF
+C27 A xor3_0/xor2_0/aoi22_0/a_n8_96# 0.02fF
+C28 aoi22_0/a_n8_96# inv_0/A 0.32fF
+C29 C A 0.05fF
+C30 aoi22_0/C B 2.75fF
+C31 xor3_0/xor2_0/inv_0/Z xor3_0/xor2_0/inv_2/A 0.09fF
+C32 gnd sum 0.14fF
+C33 A xor3_0/xor2_1/inv_0/Z 0.02fF
+C34 xor3_0/w_128_98# aoi22_0/C 0.26fF
+C35 xor3_0/xor2_1/inv_2/A A 0.02fF
+C36 xor3_0/w_128_98# B 0.21fF
+C37 xor3_0/xor2_0/aoi22_0/a_n8_96# vdd 0.55fF
+C38 inv_0/w_n6_98# C 0.10fF
+C39 C xor3_0/xor2_0/inv_0/Z 0.49fF
+C40 A sum 0.08fF
+C41 inv_0/w_n6_98# inv_0/A 0.15fF
+C42 xor3_0/xor2_1/inv_0/Z vdd 0.14fF
+C43 xor3_0/xor2_1/inv_1/Z gnd 0.14fF
+C44 xor3_0/xor2_0/inv_2/A aoi22_0/C 0.03fF
+C45 xor3_0/xor2_1/aoi22_0/a_n8_96# vdd 0.55fF
+C46 xor3_0/xor2_0/inv_1/Z xor3_0/xor2_0/aoi22_0/a_n8_96# 0.02fF
+C47 xor3_0/xor2_0/inv_2/A B 0.05fF
+C48 xor3_0/xor2_0/inv_1/Z C 0.05fF
+C49 sum vdd 0.14fF
+C50 xor3_0/xor2_1/inv_1/Z A 0.01fF
+C51 xor3_0/w_128_98# xor3_0/xor2_0/inv_2/A 0.15fF
+C52 C aoi22_0/C 1.22fF
+C53 A aoi22_0/a_n8_96# 0.02fF
+C54 C B 0.07fF
+C55 inv_0/A aoi22_0/C 0.02fF
+C56 xor3_0/xor2_1/inv_0/Z aoi22_0/C 0.10fF
+C57 xor3_0/xor2_1/inv_1/Z vdd 0.14fF
+C58 inv_0/A cout 0.03fF
+C59 xor3_0/xor2_1/inv_0/Z B 0.02fF
+C60 xor3_0/w_128_98# xor3_0/xor2_0/aoi22_0/a_n8_96# 0.22fF
+C61 xor3_0/w_128_98# C 0.21fF
+C62 xor3_0/xor2_0/inv_0/Z gnd 0.14fF
+C63 xor3_0/xor2_1/inv_2/A aoi22_0/C 0.02fF
+C64 xor3_0/xor2_1/inv_2/A B 0.03fF
+C65 xor3_0/xor2_1/aoi22_0/a_n8_96# aoi22_0/C 0.02fF
+C66 xor3_0/w_128_98# xor3_0/xor2_1/inv_0/Z 0.16fF
+C67 aoi22_0/a_n8_96# vdd 0.55fF
+C68 inv_0/w_n6_98# aoi22_0/a_n8_96# 0.22fF
+C69 sum aoi22_0/C 0.02fF
+C70 xor3_0/w_128_98# xor3_0/xor2_1/inv_2/A 0.15fF
+C71 sum cout 0.10fF
+C72 sum B 0.06fF
+C73 inv_0/w_n6_98# A 0.10fF
+C74 xor3_0/xor2_1/aoi22_0/a_n8_96# xor3_0/w_128_98# 0.22fF
+C75 A xor3_0/xor2_0/inv_0/Z 0.11fF
+C76 xor3_0/xor2_0/inv_1/Z gnd 0.14fF
+C77 xor3_0/w_128_98# sum 0.05fF
+C78 xor3_0/xor2_0/aoi22_0/a_n8_96# xor3_0/xor2_0/inv_2/A 0.32fF
+C79 C xor3_0/xor2_0/inv_2/A 0.05fF
+C80 xor3_0/xor2_1/inv_1/Z aoi22_0/C 0.69fF
+C81 gnd aoi22_0/C 0.14fF
+C82 xor3_0/xor2_1/inv_1/Z B 0.03fF
+C83 inv_0/w_n6_98# vdd 0.14fF
+C84 xor3_0/xor2_0/inv_1/Z A 0.70fF
+C85 xor3_0/xor2_0/inv_0/Z vdd 0.14fF
+C86 gnd cout 0.14fF
+C87 xor3_0/xor2_1/inv_1/Z xor3_0/w_128_98# 0.16fF
+C88 aoi22_0/a_n8_96# B 0.02fF
+C89 C inv_0/A 0.09fF
+C90 C xor3_0/xor2_1/inv_0/Z 1.45fF
+C91 A aoi22_0/C 0.27fF
+C92 A B 0.98fF
+C93 cout Gnd 0.41fF
+C94 inv_0/A Gnd 1.05fF
+C95 aoi22_0/C Gnd 2.90fF
+C96 sum Gnd 0.66fF
+C97 xor3_0/xor2_1/inv_2/A Gnd 1.05fF
+C98 xor3_0/xor2_1/inv_1/Z Gnd 1.06fF
+C99 C Gnd 2.95fF
+C100 xor3_0/xor2_1/inv_0/Z Gnd 1.26fF
+C101 xor3_0/xor2_1/aoi22_0/a_n8_96# Gnd 0.12fF
+C102 A Gnd 2.75fF
+C103 vdd Gnd 1.91fF
+C104 xor3_0/w_128_98# Gnd 4.75fF
+C105 gnd Gnd 2.92fF
+C106 xor3_0/xor2_0/inv_2/A Gnd 1.05fF
+C107 xor3_0/xor2_0/inv_1/Z Gnd 1.06fF
+C108 B Gnd 2.83fF
+C109 xor3_0/xor2_0/inv_0/Z Gnd 1.26fF
+C110 xor3_0/xor2_0/aoi22_0/a_n8_96# Gnd 0.12fF
+C111 aoi22_0/a_n8_96# Gnd 0.12fF
+C112 inv_0/w_n6_98# Gnd 1.29fF
+
+
+*
+* INDEPENDANT VOLTAGE SOURCE
+*
+*Vname +NODE -NODE VALUE
+*----- ----- ----- -----
+*VDD    1     0     DC=3
+Vpower vdd gnd 3
+
+
+* The following two lines are for TRANSIENT analysis
+*
+*Vname +Node -Node Option T1  V1   T2  V2   T3   V3    T4  V4  T5   V5 
+*----- ----- ----- ------ --  --   --  --   ---- --    --  --  ---- -- 
+Vin1 A gnd pwl(0 0 40n 0 40.1n 3 80n 3 80.1n 0)
+Vin2 B gnd pwl(0 0 20n 0 20.1n 3 40n 3 40.1n 0 60n 0 60.1n 3 80n 3 80.1n 0)
+Vin3 C gnd pwl(0 0 10n 0 10.1n 3 20n 3 20.1n 0 30n 0 30.1n 3 40n 3 40.1n 0 50n 0 50.1n 3 60n 3 60.1n 0 70n 0 70.1n 3 80n 3 80.1n 0)
+
+
+*     TSTEP TSTOP
+*     ----- -----
+.TRAN 0.1N  90N
+
+
+* The following line is for DC analysis
+
+*.DC VIN 0 2.6 0.1
+
+
+* TEMPERATURE and OPTIONS SETTING
+
+.OPTIONS TEMP=25 reltol = 1e-6 
+
+*MODELS
+
+.include tsmc_cmos025
+
+.END

@@ -1,0 +1,119 @@
+magic
+tech scmos
+timestamp 1669050036
+<< ntransistor >>
+rect 5 8 7 12
+rect 13 8 15 12
+rect 37 8 39 12
+rect 45 8 47 12
+rect 69 8 71 12
+rect 77 8 79 12
+<< ptransistor >>
+rect 5 31 7 35
+rect 13 31 15 35
+rect 37 31 39 35
+rect 45 31 47 35
+rect 69 31 71 35
+rect 77 31 79 35
+<< ndiffusion >>
+rect 4 8 5 12
+rect 7 8 13 12
+rect 15 8 16 12
+rect 36 8 37 12
+rect 39 8 45 12
+rect 47 8 48 12
+rect 68 8 69 12
+rect 71 8 77 12
+rect 79 8 80 12
+<< pdiffusion >>
+rect 4 31 5 35
+rect 7 31 8 35
+rect 12 31 13 35
+rect 15 31 16 35
+rect 36 31 37 35
+rect 39 31 40 35
+rect 44 31 45 35
+rect 47 31 48 35
+rect 68 31 69 35
+rect 71 31 72 35
+rect 76 31 77 35
+rect 79 31 80 35
+<< ndcontact >>
+rect 0 8 4 12
+rect 16 8 20 12
+rect 32 8 36 12
+rect 48 8 52 12
+rect 64 8 68 12
+rect 80 8 84 12
+<< pdcontact >>
+rect 0 31 4 35
+rect 8 31 12 35
+rect 16 31 20 35
+rect 32 31 36 35
+rect 40 31 44 35
+rect 48 31 52 35
+rect 64 31 68 35
+rect 72 31 76 35
+rect 80 31 84 35
+<< polysilicon >>
+rect 5 35 7 38
+rect 13 35 15 38
+rect 37 35 39 38
+rect 45 35 47 38
+rect 69 35 71 38
+rect 77 35 79 38
+rect 5 12 7 31
+rect 13 12 15 31
+rect 5 5 7 8
+rect 13 5 15 8
+rect 22 2 24 19
+rect 37 12 39 31
+rect 45 12 47 31
+rect 69 19 71 31
+rect 67 15 71 19
+rect 69 12 71 15
+rect 77 12 79 31
+rect 37 5 39 8
+rect 45 5 47 8
+rect 69 5 71 8
+rect 77 2 79 8
+rect 22 0 79 2
+<< polycontact >>
+rect 20 19 24 23
+rect 63 15 67 19
+<< metal1 >>
+rect 0 39 84 43
+rect 0 35 4 39
+rect 16 35 20 39
+rect 32 35 36 39
+rect 48 35 52 39
+rect 64 35 68 39
+rect 80 35 84 39
+rect 8 23 12 31
+rect 40 23 44 31
+rect 72 23 76 31
+rect 8 19 20 23
+rect 40 19 52 23
+rect 72 19 84 23
+rect 16 12 20 19
+rect 48 15 63 19
+rect 48 12 52 15
+rect 80 12 84 19
+rect 0 4 4 8
+rect 32 4 36 8
+rect 64 4 68 8
+rect 0 0 84 4
+<< metal2 >>
+rect 20 19 24 23
+rect 48 19 52 23
+<< bb >>
+rect 20 19 24 23
+<< labels >>
+rlabel polysilicon 5 5 7 5 1 A
+rlabel metal1 0 0 0 4 2 gnd!
+rlabel metal1 0 39 0 43 4 vdd!
+rlabel polysilicon 13 5 15 5 1 not-select
+rlabel polysilicon 37 5 39 5 1 B
+rlabel polysilicon 45 5 47 5 1 select
+rlabel metal1 84 19 84 23 7 Y
+<< end >>

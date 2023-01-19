@@ -1,0 +1,347 @@
+Document 1: booktexts/edebiyat1Out1.txt
+Document 2: booktexts/edebiyat2Out1.txt
+-----------------------
+1. Alignment:
+Path length: 130
+2 - 2: MillÎ Eğitim Bakanlığına aittir.
+3 - 3: Tümü ya da bölümleri izin alınmadan hiçbir şekilde çoğaltılamaz, basılamaz ve dağıtılamaz.
+4 - 4: İSTİKLÂL MARŞI Korkma, sönmez bu şafaklarda yüzen al sancak; Sönmeden yurdumun üstünde tüten en son ocak.
+5 - 5: O benim milletimin yıldızıdır, parlayacak; O benimdir, o benim milletimindir ancak.
+6 - 6: Çatma, kurban olayım, çehreni ey nazlı hilâl!
+7 - 7: Kahraman ırkıma bir gül!
+8 - 8: Ne bu şiddet, bu celâl?
+9 - 9: Sana olmaz dökülen kanlarımız sonra helâl.
+10 - 10: Hakkıdır Hakk’a tapan milletimin istiklâl.
+11 - 11: Ben ezelden beridir hür yaşadım, hür yaşarım.
+12 - 12: Hangi çılgın bana zincir vuracakmış?
+13 - 13: Şaşarım!
+14 - 14: Kükremiş sel gibiyim, bendimi çiğner, aşarım.
+15 - 15: Yırtarım dağları, enginlere sığmam, taşarım.
+16 - 16: Garbın âfâkını sarmışsa çelik zırhlı duvar, Benim iman dolu göğsüm gibi serhaddim var.
+17 - 17: Ulusun, korkma!
+18 - 18: Nasıl böyle bir imanı boğar, Medeniyyet dediğin tek dişi kalmış canavar?
+19 - 19: Arkadaş, yurduma alçakları uğratma sakın; Siper et gövdeni, dursun bu hayâsızca akın.
+20 - 20: Doğacaktır sana va’dettiği günler Hakk’ın; Kim bilir, belki yarın, belki yarından da yakın.
+21 - 21: Bastığın yerleri toprak diyerek geçme, tanı: Düşün altındaki binlerce kefensiz yatanı.
+22 - 22: Sen şehit oğlusun, incitme, yazıktır, atanı: Verme, dünyaları alsan da bu cennet vatanı.
+23 - 23: Kim bu cennet vatanın uğruna olmaz ki feda?
+24 - 24: Şüheda fışkıracak toprağı sıksan, şüheda!
+25 - 25: Cânı, cânânı, bütün varımı alsın da Huda, Etmesin tek vatanımdan beni dünyada cüda.
+26 - 26: Ruhumun senden İlâhî, şudur ancak emeli: Değmesin mabedimin göğsüne nâmahrem eli.
+27 - 27: Bu ezanlar -ki şehadetleri dinin temeliEbedî yurdumun üstünde benim inlemeli.
+28 - 28: O zaman vecd ile bin secde eder -varsa- taşım, Her cerîhamdan İlâhî, boşanıp kanlı yaşım, Fışkırır ruh-ı mücerret gibi yerden na’şım; O zaman yükselerek arşa değer belki başım.
+29 - 29: Dalgalan sen de şafaklar gibi ey şanlı hilâl!
+30 - 30: Olsun artık dökülen kanlarımın hepsi helâl.
+31 - 31: Ebediyyen sana yok, ırkıma yok izmihlâl; Hakkıdır hür yaşamış bayrağımın hürriyet; Hakkıdır Hakk’a tapan milletimin istiklâl!
+32 - 32: Mehmet Âkif ERSOY Mustafa Kemal Atatürk  GENÇLİĞE HİTABE Ey Türk gençliği!
+33 - 33: Birinci vazifen, Türk istiklâlini, Türk Cumhuriyetini, ilelebet muhafaza ve müdafaa etmektir.
+34 - 34: Mevcudiyetinin ve istikbalinin yegâne temeli budur.
+35 - 35: Bu temel, senin en kıymetli hazinendir.
+36 - 36: İstikbalde dahi, seni bu hazineden mahrum etmek isteyecek dâhilî ve hâricî bedhahların olacaktır.
+37 - 37: Bir gün, istiklâl ve cumhuriyeti müdafaa mecburiyetine düşersen, vazifeye atılmak için, içinde bulunacağın vaziyetin imkân ve şeraitini düşünmeyeceksin!
+38 - 38: Bu imkân ve şerait, çok namüsait bir mahiyette tezahür edebilir.
+39 - 39: İstiklâl ve cumhuriyetine kastedecek düşmanlar, bütün dünyada emsali görülmemiş bir galibiyetin mümessili olabilirler.
+40 - 40: Cebren ve hile ile aziz vatanın bütün kaleleri zapt edilmiş, bütün tersanelerine girilmiş, bütün orduları dağıtılmış ve memleketin her köşesi bilfiil işgal edilmiş olabilir.
+41 - 41: Bütün bu şeraitten daha elîm ve daha vahim olmak üzere, memleketin dâhilinde iktidara sahip olanlar gaflet ve dalâlet ve hattâ hıyanet içinde bulunabilirler.
+42 - 42: Hattâ bu iktidar sahipleri şahsî menfaatlerini, müstevlîlerin siyasî emelleriyle tevhit edebilirler.
+43 - 43: Millet, fakr u zaruret içinde harap ve bîtap düşmüş olabilir.
+44 - 44: Ey Türk istikbalinin evlâdı!
+45 - 45: İşte, bu ahval ve şerait içinde dahi vazifen, Türk istiklâl ve cumhuriyetini kurtarmaktır.
+46 - 46: Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur.
+47 - 47: MUSTAFA KEMAL ATATÜRK Mustafa Kemal ATATÜRK 1.
+47 - 48: ---------GAP1---------
+48 - 49: ---------GAP2--------
+49 - 50: ---------GAP2--------
+50 - 51: ---------GAP2--------
+51 - 52: ---------GAP2--------
+52 - 53: ---------GAP2--------
+53 - 54: ---------GAP2--------
+54 - 55: ---------GAP2--------
+55 - 56: ---------GAP2--------
+56 - 57: ---------GAP2--------
+57 - 58: Hazırlık Çalışmaları: Bu aşamada, işlenecek metne dikkat çekmek ve okuma çalışmalarıyla ulaşılacak bilgi ve becerilere yönelik olarak öğrencilerde bir beklenti ve merak oluşturmak amacıyla yapılacak hazırlık çalışmaları yer alır.
+58 - 59: Metin: “Ünite, Süre ve İçerikleri” başlıklı tabloda verilen esaslara göre seçilen metinlere yer verilir.
+59 - 60: Metinde Geçen Bazı Kelime ve Kelime Grupları: Metinde cümlenin bağlamından hareketle tahmin edilemeyecek bazı kelime ve kelime gruplarının anlamının verildiği bölümdür.
+60 - 61: ---------GAP2--------
+61 - 62: Metni Anlama ve Çözümleme: Bu bölümde kazanımlar çerçevesinde metne yönelik soru ve etkinliklere yer verilir.
+62 - 63: Gerektiğinde kısa, açıklayıcı bilgilere de yer verilebilir.
+63 - 64: Çözümlü Örnek Soru/Uygulama: Ünitedeki konularla ilgi çözümlü örnek soruların ya da uygulamaların bulunduğu bölümdür.
+64 - 65: ---------GAP2--------
+65 - 66: Dil Bilgisi: “Ünite Süre ve İçerikleri” başlıklı tabloda belirtilen dil bilgisi konularının işlendiği bölümdür.
+66 - 67: Yazma Çalışmaları: Yazma çalışmalarının “Yazma Tür ve Tekniklerini Tanıma” ve “Uygulama” şeklinde iki aşamada gerçekleştirildiği bölümdür.
+67 - 68: Sözlü İletişim: Sözlü iletişim çalışmalarının “Sözlü İletişim Tür ve Tekniklerini Tanıma” ve “Uygulama” şeklinde iki aşamada gerçekleştirildiği bölümdür.
+68 - 69: Ünite Ölçme ve Değerlendirme: Her ünitenin sonunda o ünitede kazandırılması amaçlanan bilgi ve becerileri değerlendirmeye yönelik olarak “Ünite Ölçme ve Değerlendirme Çalışmaları'na yer verilir.
+69 - 70: NELER ÖĞRENECEĞİZ?
+70 - 71: ---------GAP2--------
+71 - 72: ---------GAP2--------
+72 - 73: ÜNİTE MASAL / FABL OKUMA 1.
+73 - 74: Metin Hazırlık Voltaire’e (Volter) göre “çalışmak, üç büyük eksikliği uzaklaştırır; can sıkıntısını, kötü alışkanlıkları ve yoksulluğu.” Bu konudaki düşüncelerinizi arkadaşlarınızla paylaşınız.
+74 - 75: AÇIL SOFRAM AÇIL Zaman zaman içinde, kalbur saman içinde, cinler cirit oynarken eski hamam içinde… Aç tavuk düşünde darı görürmüş; hastalar dersen, narı görürmüş; ben de ben olalı her gece sarı görürüm.
+75 - 76: (…) Bir varmış, bir yokmuş; Allah’ın kulu çokmuş, develer tellâl iken, pireler berber iken ben anamın beşiğini tıngır mıngır sallar iken bir Keloğlan varmış.
+76 - 77: Günlerden bir gün o Keloğlan bu sokak benim, şu sokak senin dolaşırken iki taş arasında bir on para bulur; ama ne alsam, ne alsam diye düşünüp durur: “Üzüm alsam, çöpü çıkar!
+77 - 78: Erik alsam, çekirdeği çıkar!
+78 - 79: Et alsam, hani ocak?
+79 - 80: Ot alsam, hani bıçak?
+80 - 81: İyisi mi, kaygısız başım, ağrısız dişim; leblebi alırım da kütür kütür yerim; artanını da götürür anama veririm!” der, alır leblebiyi, düşer yola.
+81 - 82: Yine şura senin, bura benim derken varır bir kuyu başına.
+82 - 83: “Acep ne kuyudur bu kuyu, içilir mi ki suyu?” diye eğilir bakar; amma derinmiş kuyu, görünmez suyu; daha eğileyim derken yarım leblebisi suya düşmesin mi?
+83 - 84: Keloğlan’ın da aklı başından gider: “A kara kuyu, kara kuyu!
+84 - 85: Sen esirge benden bir yudum suyu... Sonra dönüp elsiz, ayaksız gel de, al elimden leblebiyi; hoppala yavrum, hoppala!
+85 - 86: Nedeymiş bu yağ bu yağma?
+86 - 87: De hadi, verirsen ver leblebimi, yoksa taşını kırar, başını yararım senin!” der, bir söyler ses çıkmaz, iki söyler ses çıkmaz; üçüncüsünde bir Arap Bacı çıkar kuyudan: “Ne istiyorsun Keloğlan?” diye sorar.
+87 - 88: Keloğlan da: “Ne isteyeceğim, leblebimi istiyorum!” der.
+88 - 89: Arap Bacı da: “A Keloğlan, yarım leblebin, su perisinin düğününe çerez oldu; koca bir düğün halkı yedi yedi, bitmedi, hâlâ da yiyip duruyorlar; eksik, artık helâl et!
+89 - 90: Onun yerine Metinde Geçen Kelime ve Kelime Grupları Bilgi Kutusu Metni Anlama ve Çözümleme Çözümlü Örnek Soru 1.
+90 - 91: Uygulama Biyografi 60 2.
+91 - 92: ÜNİTE HİKÂYE e. Hikâyelerde mekân, üzerinde çok durulmuş mudur?
+92 - 93: f. Hikâyeler, sona erdiği zaman her şey bitmiş midir?
+93 - 94: g. Hikâyelerde bir hayatın içinden, bir anın, bir kesitin verildiğini düşünüyor musunuz?
+94 - 95: 10.
+95 - 96: ‘‘Onun da rengi çağla bademi, ağzı, dişleri, kulakları boynu ne güzel.’’ cümlesinde virgülün kullanılma nedenini aşağıya yazınız.
+96 - 97: ……………………………………………………………………………………………… ……………………………………………………………………………………………… ……………………………………………………………………………………………… ……………………………………………………………………………………………… Dil bilgisi İsim (Ad) Evrendeki bütün canlı ve cansız varlıkları, duygu ve düşünceleri, durumları, bütün bunların birbirleriyle olan ilgilerini karşılayan sözcüklere isim denir.
+97 - 98: I. Varlıklara ve Nesnelere Verilişlerine Göre isimler A.
+98 - 99: Özel isim: Benzerleri bulunmayan yaratılışta tek olan varlıklara verilen isimlerdir.
+99 - 100: Özel isimler şu şekilde sınıflandırılabilir: 1.
+100 - 101: Kişi (şahıs) isimleri, soyadları ve takma isimler: Aybike, Necati, Yakup, Korkmaz... 2.
+101 - 102: Hayvan isimleri: Çomar, Tombiş… 3.
+102 - 103: Millet, devlet, topluluk boy, oymak isimleri: Türkler, Türkiye Cumhuriyeti, Selçuklular... 4.
+103 - 104: Kıta, bölge, köy, kent, dağ, deniz, ırmak isimleri: Türkiye, Amasya, İstanbul, Paris... 5.
+104 - 105: Dil, lehçe, din, mezhep ve tarikat isimleri: Türkiye Türkçesi, Farsça, Müslümanlık... 6.
+105 - 106: Kurum, kuruluş, dernek, okul, makam işletme isimleri: Türk Tarih Kurumu...
+105 - 107: ---------GAP1---------
+105 - 108: ---------GAP1---------
+105 - 109: ---------GAP1---------
+105 - 110: ---------GAP1---------
+106 - 111: ---------GAP2--------
+107 - 112: ---------GAP2--------
+108 - 113: ---------GAP2--------
+109 - 114: ---------GAP2--------
+110 - 115: ---------GAP2--------
+111 - 116: ---------GAP2--------
+112 - 117: ---------GAP2--------
+113 - 118: ---------GAP2--------
+114 - 119: ---------GAP2--------
+115 - 120: ---------GAP2--------
+116 - 121: ---------GAP2--------
+117 - 122: ---------GAP2--------
+118 - 123: ---------GAP2--------
+119 - 124: ---------GAP2--------
+120 - 125: ---------GAP2--------
+121 - 126: ---------GAP2--------
+122 - 127: ---------GAP2--------
+123 - 128: ---------GAP2--------
+124 - 129: ---------GAP2--------
+125 - 130: ---------GAP2--------
+126 - 131: 11 1.
+-----------------------
+2. Alignment:
+Path length: 137
+2 - 2: MillÎ Eğitim Bakanlığına aittir.
+3 - 3: Tümü ya da bölümleri izin alınmadan hiçbir şekilde çoğaltılamaz, basılamaz ve dağıtılamaz.
+4 - 4: İSTİKLÂL MARŞI Korkma, sönmez bu şafaklarda yüzen al sancak; Sönmeden yurdumun üstünde tüten en son ocak.
+5 - 5: O benim milletimin yıldızıdır, parlayacak; O benimdir, o benim milletimindir ancak.
+6 - 6: Çatma, kurban olayım, çehreni ey nazlı hilâl!
+7 - 7: Kahraman ırkıma bir gül!
+8 - 8: Ne bu şiddet, bu celâl?
+9 - 9: Sana olmaz dökülen kanlarımız sonra helâl.
+10 - 10: Hakkıdır Hakk’a tapan milletimin istiklâl.
+11 - 11: Ben ezelden beridir hür yaşadım, hür yaşarım.
+12 - 12: Hangi çılgın bana zincir vuracakmış?
+13 - 13: Şaşarım!
+14 - 14: Kükremiş sel gibiyim, bendimi çiğner, aşarım.
+15 - 15: Yırtarım dağları, enginlere sığmam, taşarım.
+16 - 16: Garbın âfâkını sarmışsa çelik zırhlı duvar, Benim iman dolu göğsüm gibi serhaddim var.
+17 - 17: Ulusun, korkma!
+18 - 18: Nasıl böyle bir imanı boğar, Medeniyyet dediğin tek dişi kalmış canavar?
+19 - 19: Arkadaş, yurduma alçakları uğratma sakın; Siper et gövdeni, dursun bu hayâsızca akın.
+20 - 20: Doğacaktır sana va’dettiği günler Hakk’ın; Kim bilir, belki yarın, belki yarından da yakın.
+21 - 21: Bastığın yerleri toprak diyerek geçme, tanı: Düşün altındaki binlerce kefensiz yatanı.
+22 - 22: Sen şehit oğlusun, incitme, yazıktır, atanı: Verme, dünyaları alsan da bu cennet vatanı.
+23 - 23: Kim bu cennet vatanın uğruna olmaz ki feda?
+24 - 24: Şüheda fışkıracak toprağı sıksan, şüheda!
+25 - 25: Cânı, cânânı, bütün varımı alsın da Huda, Etmesin tek vatanımdan beni dünyada cüda.
+26 - 26: Ruhumun senden İlâhî, şudur ancak emeli: Değmesin mabedimin göğsüne nâmahrem eli.
+27 - 27: Bu ezanlar -ki şehadetleri dinin temeliEbedî yurdumun üstünde benim inlemeli.
+28 - 28: O zaman vecd ile bin secde eder -varsa- taşım, Her cerîhamdan İlâhî, boşanıp kanlı yaşım, Fışkırır ruh-ı mücerret gibi yerden na’şım; O zaman yükselerek arşa değer belki başım.
+29 - 29: Dalgalan sen de şafaklar gibi ey şanlı hilâl!
+30 - 30: Olsun artık dökülen kanlarımın hepsi helâl.
+31 - 31: Ebediyyen sana yok, ırkıma yok izmihlâl; Hakkıdır hür yaşamış bayrağımın hürriyet; Hakkıdır Hakk’a tapan milletimin istiklâl!
+32 - 32: Mehmet Âkif ERSOY Mustafa Kemal Atatürk  GENÇLİĞE HİTABE Ey Türk gençliği!
+33 - 33: Birinci vazifen, Türk istiklâlini, Türk Cumhuriyetini, ilelebet muhafaza ve müdafaa etmektir.
+34 - 34: Mevcudiyetinin ve istikbalinin yegâne temeli budur.
+35 - 35: Bu temel, senin en kıymetli hazinendir.
+36 - 36: İstikbalde dahi, seni bu hazineden mahrum etmek isteyecek dâhilî ve hâricî bedhahların olacaktır.
+37 - 37: Bir gün, istiklâl ve cumhuriyeti müdafaa mecburiyetine düşersen, vazifeye atılmak için, içinde bulunacağın vaziyetin imkân ve şeraitini düşünmeyeceksin!
+38 - 38: Bu imkân ve şerait, çok namüsait bir mahiyette tezahür edebilir.
+39 - 39: İstiklâl ve cumhuriyetine kastedecek düşmanlar, bütün dünyada emsali görülmemiş bir galibiyetin mümessili olabilirler.
+40 - 40: Cebren ve hile ile aziz vatanın bütün kaleleri zapt edilmiş, bütün tersanelerine girilmiş, bütün orduları dağıtılmış ve memleketin her köşesi bilfiil işgal edilmiş olabilir.
+41 - 41: Bütün bu şeraitten daha elîm ve daha vahim olmak üzere, memleketin dâhilinde iktidara sahip olanlar gaflet ve dalâlet ve hattâ hıyanet içinde bulunabilirler.
+42 - 42: Hattâ bu iktidar sahipleri şahsî menfaatlerini, müstevlîlerin siyasî emelleriyle tevhit edebilirler.
+43 - 43: Millet, fakr u zaruret içinde harap ve bîtap düşmüş olabilir.
+44 - 44: Ey Türk istikbalinin evlâdı!
+45 - 45: İşte, bu ahval ve şerait içinde dahi vazifen, Türk istiklâl ve cumhuriyetini kurtarmaktır.
+46 - 46: Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur.
+47 - 47: MUSTAFA KEMAL ATATÜRK Mustafa Kemal ATATÜRK 1.
+47 - 48: ---------GAP1---------
+48 - 49: ---------GAP2--------
+49 - 50: ---------GAP2--------
+50 - 51: ---------GAP2--------
+51 - 52: ---------GAP2--------
+52 - 53: ---------GAP2--------
+53 - 54: ---------GAP2--------
+54 - 55: ---------GAP2--------
+55 - 56: ---------GAP2--------
+56 - 57: ---------GAP2--------
+57 - 58: Hazırlık Çalışmaları: Bu aşamada, işlenecek metne dikkat çekmek ve okuma çalışmalarıyla ulaşılacak bilgi ve becerilere yönelik olarak öğrencilerde bir beklenti ve merak oluşturmak amacıyla yapılacak hazırlık çalışmaları yer alır.
+58 - 59: Metin: “Ünite, Süre ve İçerikleri” başlıklı tabloda verilen esaslara göre seçilen metinlere yer verilir.
+59 - 60: Metinde Geçen Bazı Kelime ve Kelime Grupları: Metinde cümlenin bağlamından hareketle tahmin edilemeyecek bazı kelime ve kelime gruplarının anlamının verildiği bölümdür.
+60 - 61: ---------GAP2--------
+61 - 62: Metni Anlama ve Çözümleme: Bu bölümde kazanımlar çerçevesinde metne yönelik soru ve etkinliklere yer verilir.
+62 - 63: Gerektiğinde kısa, açıklayıcı bilgilere de yer verilebilir.
+63 - 64: Çözümlü Örnek Soru/Uygulama: Ünitedeki konularla ilgi çözümlü örnek soruların ya da uygulamaların bulunduğu bölümdür.
+64 - 65: ---------GAP2--------
+65 - 66: Dil Bilgisi: “Ünite Süre ve İçerikleri” başlıklı tabloda belirtilen dil bilgisi konularının işlendiği bölümdür.
+66 - 67: Yazma Çalışmaları: Yazma çalışmalarının “Yazma Tür ve Tekniklerini Tanıma” ve “Uygulama” şeklinde iki aşamada gerçekleştirildiği bölümdür.
+67 - 68: Sözlü İletişim: Sözlü iletişim çalışmalarının “Sözlü İletişim Tür ve Tekniklerini Tanıma” ve “Uygulama” şeklinde iki aşamada gerçekleştirildiği bölümdür.
+68 - 69: Ünite Ölçme ve Değerlendirme: Her ünitenin sonunda o ünitede kazandırılması amaçlanan bilgi ve becerileri değerlendirmeye yönelik olarak “Ünite Ölçme ve Değerlendirme Çalışmaları'na yer verilir.
+69 - 70: NELER ÖĞRENECEĞİZ?
+70 - 71: ---------GAP2--------
+71 - 72: ---------GAP2--------
+72 - 73: ÜNİTE MASAL / FABL OKUMA 1.
+73 - 74: Metin Hazırlık Voltaire’e (Volter) göre “çalışmak, üç büyük eksikliği uzaklaştırır; can sıkıntısını, kötü alışkanlıkları ve yoksulluğu.” Bu konudaki düşüncelerinizi arkadaşlarınızla paylaşınız.
+74 - 75: AÇIL SOFRAM AÇIL Zaman zaman içinde, kalbur saman içinde, cinler cirit oynarken eski hamam içinde… Aç tavuk düşünde darı görürmüş; hastalar dersen, narı görürmüş; ben de ben olalı her gece sarı görürüm.
+75 - 76: (…) Bir varmış, bir yokmuş; Allah’ın kulu çokmuş, develer tellâl iken, pireler berber iken ben anamın beşiğini tıngır mıngır sallar iken bir Keloğlan varmış.
+76 - 77: Günlerden bir gün o Keloğlan bu sokak benim, şu sokak senin dolaşırken iki taş arasında bir on para bulur; ama ne alsam, ne alsam diye düşünüp durur: “Üzüm alsam, çöpü çıkar!
+77 - 78: Erik alsam, çekirdeği çıkar!
+78 - 79: Et alsam, hani ocak?
+79 - 80: Ot alsam, hani bıçak?
+80 - 81: İyisi mi, kaygısız başım, ağrısız dişim; leblebi alırım da kütür kütür yerim; artanını da götürür anama veririm!” der, alır leblebiyi, düşer yola.
+81 - 82: Yine şura senin, bura benim derken varır bir kuyu başına.
+82 - 83: “Acep ne kuyudur bu kuyu, içilir mi ki suyu?” diye eğilir bakar; amma derinmiş kuyu, görünmez suyu; daha eğileyim derken yarım leblebisi suya düşmesin mi?
+83 - 84: Keloğlan’ın da aklı başından gider: “A kara kuyu, kara kuyu!
+84 - 85: Sen esirge benden bir yudum suyu... Sonra dönüp elsiz, ayaksız gel de, al elimden leblebiyi; hoppala yavrum, hoppala!
+85 - 86: Nedeymiş bu yağ bu yağma?
+86 - 87: De hadi, verirsen ver leblebimi, yoksa taşını kırar, başını yararım senin!” der, bir söyler ses çıkmaz, iki söyler ses çıkmaz; üçüncüsünde bir Arap Bacı çıkar kuyudan: “Ne istiyorsun Keloğlan?” diye sorar.
+87 - 88: Keloğlan da: “Ne isteyeceğim, leblebimi istiyorum!” der.
+88 - 89: Arap Bacı da: “A Keloğlan, yarım leblebin, su perisinin düğününe çerez oldu; koca bir düğün halkı yedi yedi, bitmedi, hâlâ da yiyip duruyorlar; eksik, artık helâl et!
+89 - 90: Onun yerine Metinde Geçen Kelime ve Kelime Grupları Bilgi Kutusu Metni Anlama ve Çözümleme Çözümlü Örnek Soru 1.
+90 - 91: Uygulama Biyografi 60 2.
+91 - 92: ÜNİTE HİKÂYE e. Hikâyelerde mekân, üzerinde çok durulmuş mudur?
+92 - 93: f. Hikâyeler, sona erdiği zaman her şey bitmiş midir?
+93 - 94: g. Hikâyelerde bir hayatın içinden, bir anın, bir kesitin verildiğini düşünüyor musunuz?
+94 - 95: 10.
+95 - 96: ‘‘Onun da rengi çağla bademi, ağzı, dişleri, kulakları boynu ne güzel.’’ cümlesinde virgülün kullanılma nedenini aşağıya yazınız.
+96 - 97: ……………………………………………………………………………………………… ……………………………………………………………………………………………… ……………………………………………………………………………………………… ……………………………………………………………………………………………… Dil bilgisi İsim (Ad) Evrendeki bütün canlı ve cansız varlıkları, duygu ve düşünceleri, durumları, bütün bunların birbirleriyle olan ilgilerini karşılayan sözcüklere isim denir.
+97 - 98: I. Varlıklara ve Nesnelere Verilişlerine Göre isimler A.
+98 - 99: Özel isim: Benzerleri bulunmayan yaratılışta tek olan varlıklara verilen isimlerdir.
+99 - 100: Özel isimler şu şekilde sınıflandırılabilir: 1.
+100 - 101: Kişi (şahıs) isimleri, soyadları ve takma isimler: Aybike, Necati, Yakup, Korkmaz... 2.
+101 - 102: Hayvan isimleri: Çomar, Tombiş… 3.
+102 - 103: Millet, devlet, topluluk boy, oymak isimleri: Türkler, Türkiye Cumhuriyeti, Selçuklular... 4.
+103 - 104: Kıta, bölge, köy, kent, dağ, deniz, ırmak isimleri: Türkiye, Amasya, İstanbul, Paris... 5.
+104 - 105: Dil, lehçe, din, mezhep ve tarikat isimleri: Türkiye Türkçesi, Farsça, Müslümanlık... 6.
+105 - 106: Kurum, kuruluş, dernek, okul, makam işletme isimleri: Türk Tarih Kurumu...
+106 - 106: ---------GAP1---------
+107 - 106: ---------GAP1---------
+108 - 106: ---------GAP1---------
+109 - 106: ---------GAP1---------
+110 - 106: ---------GAP1---------
+111 - 106: ---------GAP1---------
+112 - 106: ---------GAP1---------
+113 - 106: ---------GAP1---------
+114 - 106: ---------GAP1---------
+115 - 106: ---------GAP1---------
+116 - 106: ---------GAP1---------
+117 - 106: ---------GAP1---------
+118 - 106: ---------GAP1---------
+119 - 106: ---------GAP1---------
+120 - 106: ---------GAP1---------
+121 - 106: ---------GAP1---------
+122 - 106: ---------GAP1---------
+123 - 106: ---------GAP1---------
+124 - 106: ---------GAP1---------
+125 - 106: ---------GAP1---------
+126 - 106: ---------GAP1---------
+127 - 106: ---------GAP1---------
+128 - 106: ---------GAP1---------
+129 - 106: ---------GAP1---------
+130 - 107: ---------GAP2--------
+131 - 108: ---------GAP2--------
+132 - 109: ---------GAP2--------
+133 - 110: ---------GAP2--------
+134 - 111: ---------GAP2--------
+135 - 112: ---------GAP2--------
+136 - 113: ---------GAP2--------
+137 - 114: 2.
+-----------------------
+3. Alignment:
+Path length: 1
+137 - 262: 2.
+-----------------------
+4. Alignment:
+Path length: 1
+137 - 279: 2.
+-----------------------
+5. Alignment:
+Path length: 1
+137 - 344: 2.
+-----------------------
+6. Alignment:
+Path length: 1
+139 - 284: 3.
+-----------------------
+7. Alignment:
+Path length: 1
+139 - 351: 3.
+-----------------------
+8. Alignment:
+Path length: 1
+141 - 271: 4.
+-----------------------
+9. Alignment:
+Path length: 1
+141 - 291: 4.
+-----------------------
+10. Alignment:
+Path length: 1
+183 - 284: 3.
+-----------------------
+11. Alignment:
+Path length: 1
+183 - 351: 3.
+-----------------------
+12. Alignment:
+Path length: 1
+226 - 266: 15 1.
+-----------------------
+13. Alignment:
+Path length: 1
+317 - 114: 2.
+-----------------------
+14. Alignment:
+Path length: 1
+317 - 262: 2.
+-----------------------
+15. Alignment:
+Path length: 1
+317 - 279: 2.
+-----------------------
+16. Alignment:
+Path length: 1
+317 - 344: 2.
+-----------------------
+17. Alignment:
+Path length: 1
+319 - 284: 3.
+-----------------------
+18. Alignment:
+Path length: 1
+319 - 351: 3.
+-----------------------
+19. Alignment:
+Path length: 1
+321 - 271: 4.
+-----------------------
+20. Alignment:
+Path length: 1
+321 - 291: 4.

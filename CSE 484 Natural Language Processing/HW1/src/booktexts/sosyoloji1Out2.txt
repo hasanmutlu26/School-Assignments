@@ -1,0 +1,400 @@
+Bütün bilimler bilimsel yöntemi kullanırken şu üç tür akıl yürütme biçiminden yararlanır: Tümdengelim: Doğruluğu kabul edilmiş genel bilgilerden özel bilgiler elde etme yoludur.
+Örneğin, bütün gelişmiş ülkeler bilime önem veriyor önermesinden yola çıkarak Kanada’nın da gelişmiş bir ülke olarak bilime önem verdiği sonucunu çıkarabiliriz.
+Tümevarım: Tek tek olguların bilgisinden hareketle genel yargılara ulaşmaktır.
+Örneğin, liman şehirlerini gözlemleyerek bütün liman şehirlerinin ticarette gelişmiş olduğu önermesine ulaşabiliriz.
+Analoji: Aynı olay ya da olgunun benzer birçok yönünün zaman ve mekân faktörleri göz önüne alınarak karşılaştırılmasıdır.
+Örneğin, Ankara ve İstanbul kalabalık bir şehirdir.
+Ankara’da trafik yoğundur.
+O hâlde İstanbul’da da trafiğin yoğun olabileceği sonucuna varabiliriz.
+Toplumda kadına gösterilen şiddetin nedenleri nelerdir?
+İşsizliğin toplumsal sapmaya etkileri nelerdir?
+Köyden kente göç eden ailelerdeki kültürel farklılaşmanın olumlu ve olumsuz yönleri nelerdir?
+gibi soruların cevaplarını bize sosyal araştırmalar verir.
+Her bilimde olduğu gibi sosyoloji de toplumsal olayların “anlaşılabilir” olduğu gerçeğinden hareket ederek bu olayları ve bu olayların yol açtığı değişimleri neden-sonuç ilişkisi içerisinde, nesnel bir tavırla ele alıp değerlendirir.
+a.
+Tarama (survey) Yöntemi: Geniş gruplara rahatlıkla uygulanan, bu yüzden kamuoyu araştırmalarında etkili olan önemli bir bilgi toplama tekniğidir.
+Şirket ve örgütler için yerel, ulusal ve uluslararası düzeylerde önemli bir bilgi toplama aracıdır.
+Önce neyin incelenmek istendiği belirlenir.
+Sonra bu konuda çoğunlukla anket ve görüşme tekniği kullanılarak bilgi toplanır.
+b.
+Alan çalışması (Olay incelemesi): Belirli bir olay, kişi ya da grubun detaylı bir biçimde incelenmesidir.
+Monografi, sosyometri, gözlem, anket, görüşme gibi bilgi toplama teknikleri kullanılır.
+Genelde küçük grupları incelemek için kullanılır.
+Bulgular ?
+Sizce toplum bilimsel olarak incelenebilir mi?
+1.
+Ünite Sosyolojiye Giriş 25 SOSYOLOJİDEKİ VERİ TOPLAMA TEKNİKLERİ sadece o grup için geçerlidir.
+Ulaşılan sonuçları daha büyük gruplara genellemek doğru değildir.
+c. Belgelere dayalı araştırma: Yazılı belgeler, istatistiki belgeler, fotoğraflar ve ses kayıtları gibi bilgi kaynakları kullanılarak bir konunun araştırılmasıdır.
+Tarihi araştırmalarda önem taşır.
+Örneğin Tanzimat döneminin sosyal hayatını inceleyen bir araştırmacı, Tanzimat Fermanını inceledikten başka o fermanın hangi sosyal şartlar altında hazırlandığını açıklar.
+Sosyolojideki veri toplama teknikleri şunlardır: Anket: Sosyal bilimlerde en sıklıkla kullanılan veri toplama tekniklerinden biri olan anket, kısa sürede geniş bir örneklemden yüzeysel veriler elde etmek için kullanılan, önceden hazırlanmış soruların katılımcılara postayla ya da internet üzerinden gönderilmesi veya telefonla ya da yüz yüze sorulmasını içeren bir veri toplama tekniğidir.
+Anket çalışmalarından güvenilir sonuçlar elde etmek için seçilen örneklemin, evreni temsil etmesi son derece önemlidir.
+Örneğin, Türkiye’deki boşanmaların nedenleri ile ilgili anket uygulamasında örneklemin sadece Ağrı’dan ya da İzmir’den seçilmesi doğru sonuç vermez.
+Bütünü temsil eden doğru örneklem doğru sonuçlara ulaşmamızı sağlar.
+Anket formunda yer alan soru cümlelerinin mümkün olan en kısa şekilde, açık, net, basit bir dille yazılmış olması ve her bir sorunun sadece bir tek şeyi ölçmeye çalışması gerekmektedir.
+Bilimsel yöntem veri toplama teknikleri aracılığıyla uygulanır.
+Çeşitli kaynaklardan derlenebilen, üzerinde inceleme yapılabilen her türlü bilgi veri olarak kabul edilir.
+Bilimsel araştırmalarda veri toplama teknikleri ile güvenilir bilgiye ulaşılır.
+Veri toplamak amacıyla kullanılan çeşitli araçlara araştırma tekniği denir.
+Araştırma teknikleri araştırılan konuya uygun olarak seçilir.
+Yöntem araştırma tekniği ile somutlaşır.
+Anket, monografi, sosyometri birer araştırma tekniğidir.
+Varsayımlar (hipotez) araştırma teknikleriyle doğrulanmaya çalışılır.
+Bilimsel yöntem bir amaca ulaşmak için izlenen yol ve uyulması gereken kurallarıdır.
+Araştırma teknikleri ise bu amaca ulaşılırken yararlanılacak bilgi toplama araçlarıdır. !
+Görsel 1.14.
+Anket sosyal bilimlerde en sıklıkla kullanılan veri toplama tekniklerinden biridir.
+Sosyoloji 1 26 Araştırma Evreni: Bir araştırmanın kapsamına giren bireylerin ve olguların tümüne denir.
+Örneğin Türkiye’deki lise öğrencileri üzerinde bir çalışma yapılacaksa araştırma evreni ülkedeki tüm lise öğrencileridir.
+Araştırma evreninin özelliklerine sahip olan ve kendilerinden veri toplamak üzere araştırma evreninden belirli tekniklerle seçilen alt kümeye ise örneklem grubu denir.
+Örneğin belli illerden ve belli okullardan seçilen lise öğrencileri örneklem grubudur. !
+Görüşme: Araştırılan konu ile ilgili bilgi toplamak amacıyla yapılan karşılıklı konuşma şeklinde bilgi almayı sağlayan tekniktir.
+Görüşme bir sohbet havasında olabileceği gibi, önceden amaca uygun olarak hazırlanmış soru formu çerçevesinde de uygulanabilir.
+Sorular ya açık uçlu sorulur ya da katılımcının kendiliğinden konuşması sağlanır.
+Genellikle kişi sayısının sınırlı olduğu araştırmalarda kullanılır.
+Görüşme sesli ya da görsel olarak kaydedilebileceği gibi araştırmacı görüşme sırasında notlar da alabilir.
+Görüşmenin yüz yüze bir ilişkiye dayanması, verilerin elde edilmesine açıklık ve kesinlik kazandırır.
+Monografi (Örnek olay): Sınırları belirlenmiş tek bir konunun ya da toplumsal bir birimin tüm yönleriyle derinlemesine incelenmesidir.
+Örneğin, gecekondu ailesi üzerine bir araştırma yapılırken gecekonduların tarihsel gelişimi, gecekonduda yaşayan ailelerin kültürel, ekonomik, düşünsel durumları, dini ve ahlaki değerleri, gelir düzeyleri, yaşadıkları ortam, tüketim alışkanlıkları, dinlenme ve eğlenme alışkanlıkları derinlemesine incelenir.
+İlk monografi çalışmaları Le Play tarafından maden ocaklarında çalışan işçi ailelerine uygulanmıştır.
+Le Play’a göre en küçük sosyal birim ailedir.
+Bu yüzden bir grubun sosyal yapısı ancak aile monografisi ile anlaşılabilir.
+Köy, şehir monografilerinden başka kuruluş monografileri de vardır.
+Bu monografiler meslek gruplarını, siyasi bir partiyi ya da bir sendikayı derinlemesine inceler.
+Monografiler bize, bir köy halkının kalkınması ya da bir firmanın gelişmesi için neler yapılacağına dair bilimsel bilgiler sunar.
+Görsel 1.15.
+Araştırma problemine ilişkin yüzeysel bilgilerden çok, kişilerin düşünce, görüş ve deneyimleriyle ilgili bilgi toplanmak istendiğinde kullanılır.
+Görsel 1.16.
+Monografiler bize, bir köy halkının kalkınması ya da bir firmanın gelişmesi için neler yapılacağına dair bilimsel bilgiler sunar.
+1.
+Ünite Sosyolojiye Giriş 27 Ziya Gökalp (1876-1924): Eserlerinde Türk toplum yapısı, töre, örf, âdet, gelenek-görenek, hars (kültür), medeniyet, ahlak, din, siyaset konularını işlemiştir.
+1915’te Dar-ul Fünun-u Osmanî’de (İstanbul Üniversitesi) Sosyoloji Enstitüsünü kurmuştur.
+Ona göre sosyolojinin konusu kavimler ve medeniyetlerle, gruplar ve kurumlardır.
+Sosyolojinin amacı; toplumun temel özelliklerini ve kimliğini açıklayarak, tarihimizi ve kimliğimizi tanımada bize yardımcı olmaktır.
+Sosyoloji tümevarım yöntemini kullanarak grup ve kurumları incelemelidir.
+“Türkleşmek, İslamlaşmak ve Muasırlaşmak”, “Hars ve Medeniyet”, “Türkçülüğün Esasları” önemli eserlerindendir.
+Medeniyet (uygarlık) ve Hars (kültür) kavramları ile ilgili görüşleri etkili olmuştur.
+Gökalp’e göre kültür; millîdir, doğaldır.
+Uygarlık; evrenseldir, yapaydır.
+Prens Sebahattin (1878-1948): Kamucu toplum yapısından bireyci toplum yapısına geçmenin gerekliliğini savunmuştur.
+Kamucu toplumda kişi değil; aile, zümre ya da devlet üstündür.
+Hürriyetler kısıtlı, fertler baskı altındadır.
+Bireyci toplumda birey ve bireysel gayretler ön plandadır.
+Aktif bir vatandaş olan sosyal yapının mimarıdır.
+Böyle bir toplum yapısına sahip olabilmek için hür bireyler yetiştiren bir eğitim sistemi kurulmalıdır.
+Görüşlerinde ademi merkeziyetçi bir yönetim anlayışını benimsemiştir.
+Bir merkezden değil, bir bölgenin kendi kendini yönetmesi olan ademi merkeziyetçilik fikrini ortaya attığı için çok tepki görmüştür.
+Hâlbuki P. Sabahattin imparatorluğun geniş topraklara sahip olması ve memuriyetten doğan hantal yapının yerel yönetim, adalet, maliye gibi işlerin ilgili bölge halkı tarafından üstlenilmesi gerekliliğini savunuştur.
+Gözlem ve monografi araştırma tekniklerine önem vermiştir.
+Görsel 1.17.
+Ziya Gökalp Görsel 1.18.
+Prens Sebahattin Sosyometri: Küçük toplumsal gruplardaki bireylerin birbirlerine karşı duydukları sevgi, nefret, kıskançlık, beğeni gibi ilişkileri gösteren bir araştırma tekniğidir.
+Sosyometride amaç grup içi dayanışmayı tespit ederek, çatışmaları ve uyumsuzlukları azaltmaktır.
+Bu nedenle bu teknik, birbirlerini tanıyan küçük gruplarda uygulanır.
+Bir iş yerinin elemanlarına uygulanan sosyometri tekniğinde “İş yerinde aynı mekânda kimle çalışmak istersiniz?
+Bir sorunla karşılaştığınızda kimle paylaşırsınız?
+Kim liderlik özelliğine sahiptir?
+Kimle anlaşamıyorsunuz?
+gibi sorulara verilen cevaplarla çalışanlar arası ilişkileri gösteren bir sosyogram (ilişki haritası) hazırlanır.
+Başarının yükselmesi, verimin artması için kullanılan bir tekniktir.
+1.6.
+TÜRKİYE’DE SOSYOLOJİ ÇALIŞMALARI Sosyoloji 1 28 Mübeccel Belik Kıray (1924-2007): Toplumsal değişme, kentleşme, sanayileşme kavramlarına dikkat etmiştir.
+Uygulamacı, pozitivist, deneyselci yöntem ve teknikleri kullanmıştır.
+“Ereğli Ağır Sanayiden Önce Bir Sahil Kasabası” adlı eseri Türkiye’de yapılan ilk kent araştırmasıdır.
+Ereğli’de yapılan demir çelik sanayi tesislerinin şehre getireceği toplumsal değişim ve dönüşümü incelemiştir.
+Ereğli çalışmasından sonra gecekonduları tampon mekanizma olarak araştırmıştır.
+Tampon mekanizma, toplumların değişme durumlarında geçici olarak denge ve bütünlüklerini sağlayan, bunalım ve çözülmenin önüne geçen kurumlara “tampon mekanizma” denir.
+Ona göre Türkiye’de 20. yüzyılın ikinci yarısından itibaren kentlere yoğun göçler başlamış ve kentler düzensiz bir şekilde büyümüştür.
+İlk göç edenler kentte sınırlı sayıda bulunan arsa ve konutlara yerleşmiş; daha sonra göç edenler hem maddi imkânsızlık hem de kent içindeki arsa ve konutların sınırlı olmasından dolayı kent çevresindeki boş arazilere gecekondular yapmış; kent yaşamına adapte olmaya çalışmışlardır.
+Bu insanlar bir taraftan kırsaldaki değer ve davranış biçimlerini sahiplenirken, diğer taraftan kent yaşamına ayak uydurmaya çalışmışlardır.
+Bu anlamda gecekondular bireyler için tampon kurum özelliği göstermektedir.
+Türkiye'de sosyoloji çalışmalarına katkısı olan başka sosyologlar da vardır.
+Bunlardan bazıları Ziyaeddin Fahri Fındıkoğlu, Cemil Meriç, Şerif Mardin, Hilmi Ziya Ülken'dir.
+Görsel 1.19.
+Mübeccel Belik Kıray Aşağıdaki ifadelerin doğruluk değerlerini tablodaki yerlerine yazınız.
+4.
+UYGULAMA 1.
+Tipik bir Anadolu kasabasının ayrıntılı olarak incelemesini yapmak isteyen bir sosyolog sosyometri metodunu kullanır.
+2.
+“Türkiye genelinde lise öğrencilerinin okul başarısında ailelerinin etkisi” konusunu araştırmak isteyen bir sosyolog için uygun olan yöntem tarama yöntemidir.
+3.
+Sosyolojide araştırma yaparken incelenecek toplumun kültürünü tanımak önemlidir.
+4.
+Yöntem ve teknik aynı içeriğe sahip kavramlardır.
+5.
+Sosyometri tekniği grup içindeki lider ya da liderleri gösterdiği gibi yalnız kalan kişileri de gösterir.
+6.
+Ziya Gökalp görüşlerinde ademi merkeziyetçi bir yönetim anlayışını benimsemiştir.
+7.
+Tarihsel yönü olan çalışmalar için belgelere dayalı araştırma yöntemini kullanmak gerekir.
+D Y  1.
+Ünite Sosyolojiye Giriş 29 ÖZET Sosyolojinin tanımı ve özellikleri Toplumsal grupları, kurumları, kurumlar arası ilişkileri, toplumsal yapıdaki değişim ve gelişim süreçlerini, toplumsal olay ve olguları sebep sonuç ilişkisi içerisinde bilimsel yöntem ve teknikleri kullanarak inceleyen sosyal bir bilimdir.
+Sosyolojide toplumsal olaylar açıklanırken bütüncül yaklaşım ağır basar.
+Sosyoloji normatif (kural koyan) bir bilim değildir.
+Sosyolog olayları incelerken duygularının etkisi altında kalmadan, nesnel (objektif) olarak ele alır.
+Sosyoloji, tek tek bireylerin sorunlarıyla değil, toplumu ilgilendiren sorunlarla çok yönlü olarak ilgilenir.
+Toplumsal yaşamda toplumsal ilişkiler sonucunda ortaya çıkan tek tek değişmeler (toplumsal olay) ile her zaman ve her yerde olabilecek, yeri, zamanı, yapanı belli olmayan (sosyal olgu) durumlar sosyolojinin araştırma konularıdır.
+Sosyolojinin diğer bilimlerle olan ilişkisi Sosyal bilimler doğrudan ya da dolaylı olarak insan ile bağlantılı olayları inceler.
+Bu inceleme esnasında birbirleriyle yardımlaşırlar.
+Sosyoloji; genellikle tarih, psikoloji, ekonomi, antropoloji, siyaset bilim ve coğrafya ile yardımlaşır.
+Toplumu oluşturan unsurlar Belirli bir coğrafi mekânda karşılıklı etkileşim içinde bulunan, ortak bir kültürü paylaşan, kendilerini bir bütün olarak gören insan topluluğuna toplum denir.
+Toplumu oluşturan unsurlar şunlardır: birey, toplumsal gruplar, kurum ve kuruluşlardır.
+Toplumsal kurum, aynı özellikte bulunan toplumsal değer, kural ve olayların oluşturduğu bütündür.
+Ekonomi ile ilgili değer, kural ve olaylar ekonomi kurumunu, eğitim ile ilgili değer, kural ve olaylar eğitim kurumunu oluşturur.
+Temel toplumsal kurumlar aile, eğitim, din, siyaset ve ekonomi gibi kurumlardır.
+Kurumların sosyal hayattaki somut görünümlerine kuruluş denir.
+İki veya daha fazla bireyin sürekli etkileşim içinde bulunarak ortak amaçlarını gerçekleştirmek için oluşturduğu topluluğa toplumsal grup denir.
+Toplumsal gruplar büyüklüklerine göre, resmi olup olmamasına göre, sürelerine göre ve aralarındaki ilişki şekline göre sınıflandırılabilirler.
+Sosyolojinin doğuşunda etkili olan toplumsal olaylar 19. yüzyıla kadar toplumsal olaylara duyulan ilgi felsefi düzeyde kalmıştır.
+19. yüzyılda toplumlardaki değişme ve gelişmeler sosyolojinin inceleyeceği verilerin artmasını sağlamıştır.
+Değişme ve gelişmeler, toplumsal yapıda oluşan sorunlar toplumun kendine özgü yöntem ve tekniklerle incelenmesi zorunluluğunu doğurmuştur.
+Böylelikle sosyoloji bilimi ortaya çıkmıştır.
+Sosyolojinin doğuşunda etkili olan olaylar: Rönesans ve reform hareketleri, 1789 Fransız İhtilali, Sanayi Devrimi, Coğrafi keşifler ve teknik ilerleme, kentleşme, kırsaldan kente göç…vb.
+Sosyolojinin doğuşu ve gelişimine katkıda bulunan düşünürler: İbni Haldun, Auguste Comte, K. Marks, E. Durkheim, Max Weber, F.
+Le Play’ dir.
+Sosyoloji 1 30 Sosyolojik araştırmalarda kullanılan yöntem ve teknikler Sosyolojik araştırmalarda kullanılan yöntemler: tarama yöntemi, alan çalışması ve belgelere dayalı araştırmadır.
+Tarama yönteminde geniş kitlelerin belli bir konu ile ilgili görüşlerine ulaşabilmek için anket tekniği kullanılır.
+Alan çalışmasında belli bir olay, kişi ya da grup derinlemesine incelendiği için monografi, sosyometri, gözlem, anket ve görüşme teknikleri ile bilgi toplanır.
+Türkiye’de sosyoloji çalışmaları yapan düşünürler Ziya Gökalp ‘’hars ve medeniyet’’, Prens Sabahattin ‘’ademi merkeziyetçilik’’, Mübeccel Belik Kıray ‘’tampon kurum’’ kavramlarıyla ve toplum ile ilgili yazdıkları eserleriyle sosyolojiye katkıda bulunmuşlardır.
+NOTLARIM ............................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ................................................................................................................................ ....................................................................................................................... ÖZET  1.
+Ünite Sosyolojiye Giriş 31 UYGULAMALARIN CEVAPLARI 1.
+UYGULAMA Tarihçi, santralin hangi tarihte kimler tarafından kurulduğunu, dünyadaki nükleer santrallerin durumunu, ülkedeki santral kurma çalışmalarının tarihsel kronolojisini, Ekonomist, ülkenin enerji ihtiyacını karşılamadaki yerini, santraldeki üretim araçlarını, santralin nasıl finanse edildiğini, maliyetini, üretim ve dağıtımla ilgili yönünü, Coğrafyacı santralin tarım, turizm, radyasyon açısından çevre ile uyumunu, doğal çevreye etkisini, santrale ulaşım yollarını, Siyaset bilimci, açılacak santralin seçim malzemesi ve propaganda aracı olarak nasıl kullanıldığını, baskı gruplarının ve sivil toplum kuruluşlarının alınan kararla ilgili tepkilerini, Hukukçu, santralin çeşitli hukuksal anlaşmalarını ve bunlardan doğan haklarını ve yükümlülüklerini, Psikolog, santralde çalışanların ve yöneticilerin psikolojik tutumları, çalışma şartlarının bireylerin davranışları üzerindeki etkilerini, Sosyolog ise santraldeki toplumsal yapıyı, ilişkileri ve ilişkilerden doğan sorunları, santralin bölgede yaşayan insanlar üzerindeki etkilerini, bölgedeki sosyal, kültürel değişmeyi ne ölçüde etkilediğini araştırır.
+2.
+UYGULAMA Bir trende yolculuk eden insanlar, toplumsal bir grup olarak tanımlanamazlar çünkü toplumsal grup özelliklerinin birçoğuna sahip değillerdir.
+Fiziksel yakınlık anlamında aynı mekânda bulunmalarına rağmen yolcular birbirini tanımamaktadırlar.
+Karşılıklı bir etkileşim içinde değildirler.
+Belirli bir hedefleri yoktur.
+Ortak ilgi ve değerlere sahip değillerdir.
+Bu insanlar yolculuk esnasında bir problem çıktığında ortak bir çözüm üretmek amacıyla bir araya geldiğinde grup oluşturmuş olurlar.
+3.
+UYGULAMA 1.
+A. Comte 2.
+K. Marx 3.
+M. Weber 4.
+İbn-i Haldun 5.
+E. Durkheim 4.
+UYGULAMA 1.
+Y (Monografi) 2.
+D 3.
+D 4.
+Y (Aynı içeriğe sahip kavramlar değildir) 5.
+D 6.
+Y (Prens Sabahattin) 7.
+D Sosyoloji 1 32 1.
+Diğer toplumsal bilimler gibi sosyoloji de yeri ve zamanı belirli olan somut olayları  inceler.
+Yukarıda sosyolojinin hangi özelliği belirtilmektedir?
+A) Nesnellik B) Nedensellik C) Olgusallık D) Genellenebilirlik 2.
+Türkiye’de yaşayan Suriyeli mültecilerden 14-20 yaş grubunun sosyo ekonomik durumları, öğrenim durumları, gelecekten beklentilerinin araştıran bir sosyolog araştırma tekniklerinden hangilerini kullanamaz?
+A) Anket B) Deney C) Monografi D) Görüşme 3.
+Aşağıdaki olay ve olgulardan hangisinin sosyolojinin ortaya çıkışında etkili  olduğu söylenemez?
+A) Sanayileşme ile birlikte ortaya çıkan sorunlar B) Rönesans ve reform hareketleri süreci C) Aydınlanma çağı ile birlikte ortaya çıkan yeni düşünce sistemi D) Doğa olaylarında meydana gelen değişmeler  4.
+En az iki kişiden oluşan, birbirlerine ortak değerlerle bağlı, birliktelik duygusu  içinde olan insanların oluşturduğu topluluğa toplumsal grup denir.
+Aşağıdakilerden hangisi bir toplumsal grup örneği değildir?
+A) Aynı sınıfta okuyan öğrenciler B) Aynı futbol takımında oynayan kişiler C) Aynı mağazadan alışveriş yapan müşteriler D) Aynı mahallede oturan komşular 5.
+Aile, komşu, arkadaş, akraba gruplarında görülür.
+-Biz duygusu egemendir.
+-Bireyler arası ilişkiler samimidir.
+Yukarıda özellikleri belirtilen grup türü aşağıdakilerden hangisidir?
+A) Birincil gruplar B) İkincil gruplar C) Resmi gruplar D) Büyük gruplar 1.
+ÜNİTE ÖLÇME VE DEĞERLENDİRME SORULARI  1.
+Ünite Sosyolojiye Giriş 33 6.
+Sanayi ve ticaretin etkili olduğu bir yerde, çekirdek aile yapısı vardır ve ilişkiler  resmi ve samimiyetten uzaktır.
+Bu ifadede aile ve ilişki türünü belirleyen faktör aşağıdakilerden hangisidir?
+A) Coğrafi yapı B) Ekonomik yapı C) Kültürel yapı D) Siyasi yapı 7.
+Toplumsal yaşamdaki karmaşık ilişkileri analiz edebilmek için sosyal olay  ve olguların çok yönlü ve kuşatıcı olarak ele alınması sosyolojide hangi  yaklaşımın uygulanmasını zorunlu kılmaktadır?
+A) Bütüncül yaklaşım B) İndirgemeci yaklaşım C) Psikolojik yaklaşım D) Tarihsel yaklaşım 8.
+Aşağıdakilerden hangisi sosyolojinin özelliklerinden biri değildir?
+A) Normatiftir.
+B) Nesneldir.
+C) Olması gerekeni değil, olanı inceler.
+D) Olayları çok yönlü olarak ele alır.
+9.
+Aşağıdaki düşünürlerden hangisi Türkiye’deki sosyoloji araştırmalarında yer  almamıştır?
+A) Ziya Gökalp B) Prens Sabahattin C) M. Belik Kıray D) Hoca Ali Rıza 10.
+Aşağıdaki bilimlerden hangisi sosyoloji ile en az ilişkilidir?
+A) Biyoloji B) Tarih C) Coğrafya D) Ekonomi 10 A 9 D 8 A 7 A 6 B 5 A 4 C 3 D 2 B 1 C 1.
+ÜNİTE CEVAP ANAHTARI 2.
+ÜNITE BİREY VE TOPLUM İnsan ve toplum ilişkisi çok yönlü ve karmaşık bir süreçtir.
+NELER ÖĞRENECEĞİZ?
+1.
+Sosyalleşmenin ne olduğunu ve bireyin sosyalleşmesinde etkili olan unsurları, 2.
+Sosyalleşmenin hayat boyu devam eden bir süreç olduğunu ve toplumsal ilişkiler açısından önemini, 3.
+Toplumsal statü ve rol kavramları ile bu kavramlara ait rol çatışması, rol pekişmesi, anahtar statü ve anahtar rol, sosyal saygınlık kavramlarını, 4.
+Toplumsal hayatın düzenlenmesinde değerler ve normların önemini, 5.
+Toplumsal kontrolün işlevlerini, 6.
+Toplumsal sapma ve türlerini öğreneceksiniz.
+ANAHTAR KAVRAMLAR • Statü • Toplumsal Kontrol • Toplumsal Sapma • Toplumsal Norm • Sosyalleşme • Toplumsal Rol • Toplumsal Değer • Prestij Sosyoloji 1 36 İnsanların bir arada yaşamaları, birbirleriyle iletişim kurmalarını ve böylece birtakım ortak değerlerin oluşmasını sağlamıştır.
+Bu da zamanla her toplumun kendine özgü bir hayat anlayışı ve yaşam tarzının ortaya çıkmasına yol açmıştır.
+Bu hayat tarzı ve yaşam biçimi yüzyıllar boyu kuşaktan kuşağa aktarılarak o toplumdaki bireylerin inançlarını, düşüncelerini, ideallerini kısaca kimliklerini şekillendirir.
+Doğduğunda sadece biyolojik bir varlık olan insan, büyüdükçe toplumun değerlerini, özelliklerini tanır, öğrenir, kendine has beceriler edinir, toplumsal çevreye hazırlanır, toplumla bütünleşir kısaca toplumun bir üyesi hâline gelir.
+Bireyin yaşadığı toplumun değer ve normlarını, yaşam biçimini öğrendiği ve benimsediği bu sürece sosyalleşme adı verilir.
+Bu süreç sayesinde bireyler topluma benzer davranışlar geliştirerek tek tek kişiler yerine toplumun üyeleri olan, birbirlerinden farklılıkları olduğu gibi birbirlerine büyük benzerlikler de gösteren toplumsal bireyler hâline gelirler.
+Kişiliğimiz, toplum içindeki imajımız, sosyal statümüz öteki insanlarla etkileşim ve ilişkilerimizden doğar.
+Bu nedenle bireyin tek başına hayatını sürdürmesi mümkün değildir.
+Ömür boyu süren sosyalleşme sürecinde sadece birey toplumdan etkilenmez; kişiliği ve davranışları ile de toplumu etkiler.
+GİRİŞ  İnsanlar, tarih boyunca her zaman bir toplum içinde varlıklarını sürdürmüşlerdir.
+Her toplumun, bireylerin veya grupların belirli davranış kalıplarını benimsemesinde, sosyal hayattaki önceliklerini buna göre sıralamasında, düzenlemesinde ve plânlamasında rol oynayan kuralları ve değerler sistemi vardır.
+Bu ünitede sosyal ilişkilerin gelişmesinde ve sürdürülmesinde aktif rol oynayan sosyalleşme, sosyal statü, rol ve sosyal değer kavramlarıyla, bu konularla bağlantılı olarak toplumsal sapma ve toplumsal kontrol kavramları açıklanacaktır.
+Böylece bireylerin günlük sosyal yaşamı daha iyi anlayabilmeleri, birey ve toplum arasındaki karşılıklı ilişkiyi daha iyi yorumlayabilmeleri olanaklı hâle gelecektir.
+2.1.
+SOSYALLEŞME VE SOSYALLEŞMENİN UNSURLARI Görsel 2.1.
+Sosyalleşme doğumla başlayıp ömür boyu devam eden bir adaptasyon sürecidir. ?
+Uzunca bir süre yalnız yaşamak zorunda olsaydınız nasıl bir hayatınız olurdu?
+2.
+Ünite Birey ve Toplum 37 Sosyalleşme kendiliğinden gelişen bir süreç değildir.
+Her toplumda bireylerin sağlıklı bir şekilde topluma uyum göstermesini sağlayan unsurlar vardır.
+Sosyalleşme araçları olarak da bilinen bu dört temel unsur: aile, okul, arkadaş grupları ve kitle iletişim araçlarıdır.
+Aile, bireyin topluma uyumunda ilk ve en önemli kurumdur.
+Ailenin sahip olduğu ekonomik koşullar, anne babanın eğitim düzeyi, aile içi şiddet, çocuk sayısı, yaşadığı yer, kültürel değerleri, sağlık koşulları gibi etmenlerin çocuğun sosyalleşmesinde önemli etkileri vardır.
+Günümüz sanayi toplumlarında ailenin birey üzerindeki etkisi ne kadar azalsa da, bireyin topluma hazırlanmasında en önemli basamaktır.
+Konuşulan dil, yeme, içme, giyinme alışkanlıkları gibi temel bilgi ve beceriler ile duygusal yaşantının ilk örneklerini çocuk ailede öğrenir.
+Çocuğun beslenmesi, bakımı, ona gösterilen ilgi, şefkat ve sevgi gibi davranışlar da çocuğun başkalarına karşı güven duygusu kazanmasında rol oynamakta, sorumluluk almak, başkalarına saygı duyma gibi sosyal değerler, millî duygular, toplumun kuralları ve işleyişi kişiye hep aile tarafından verilmektedir.
+Okul, resmî ve örgütlü bir sosyalleşme kurumudur.
+Ailede başlayan topluma uyum süreci okulda devam eder.
+Birey, toplumsal davranış kurallarını, sorumluluklarını yaşamını kolaylaştıracak pek çok şeyi okulda öğrenir.
+Ayrıca şimdi ve gelecekte karşılaşabileceği sorunları çözme becerisi kazanır.
+Okul bilgi donanımı sağlayarak bireyin mesleğe yönelmesinde yardımcı olur.
+Bireyin kendisini tanımasını, becerilerinin farkına varmasını sağlayarak, gelecekte toplumdaki konumunu belirler.
+Çocuk akranları ile paylaşmayı ve rekabeti öğrenir.
+Zamanı doğru kullanma ve kendini kontrol etme becerisini kazanır.
+Arkadaş grubu, aile kadar hatta kimi zaman aileden daha etkili bir sosyalleşme aracıdır.
+Yetişkinlerin kontrolünün daha az olduğu bu ortam, bireyin kendini daha özgür hissetmesini sağlar.
+Doğru bir arkadaş çevresi, bireyin beğeni, sevgi, başarı duygularını olumlu etkiler.
+Arkadaşları arasında yenme- yenilme, küçük görme- takdir etme, işbirliği, özveri ve rekabet deneyimlerini yaşarlar.
+Böylelikle birey bağımsız bir kimlik kazanır.
+Arkadaş grubu okul çağındakiler için kuralları öğrenme, yetişkinlerde evlilik, çocuk yetiştirme ve aile hayatı konusunda bireyleri sosyalleştirir.
+Yapılan çalışmalar arkadaş gruplarının en çok boş zamanı değerlendirme, görünüm, cinsel yaşam gibi konularda bireylerin sosyalleşmesine katkı sunduğunu göstermektedir.
+Kitle iletişim araçları (radyo, televizyon, sinema, gazete, internet…vs.
+), bireylerin toplum ile bütünleşmesinde, toplumun bir parçası olmalarında, toplumun kültürel değerlerini almalarında ve yeni değerler edinmelerinde, inanç, tutum ve davranışlarındaki değişmelerde rol oynamaktadır.
+Kitle iletişim araçları çocuklarla doğrudan bireysel bir etkileşim içinde olmamakla birlikte aile içinde, Görsel 2.2.
+Sohbet edeceğimiz zamanlarda telefonla ilgilenmek bazen sosyalleşme süreci üzerinde olumsuz etki yapar.
+Sosyoloji 1 38 Sosyal medyayı yeni bir sosyalleşme aracı olarak görenler, zamansal ve mekânsal zorlukların ortadan kalkmasıyla ve az harcamayla dünyanın dört bir tarafından arkadaş bulmanın veya aynı zevklere sahip insanlar arasında gruplar kurup planlar yapıp gerçekleştirmenin başka bir yolla mümkün olmayacağını savunmaktadırlar.
+Bu görüşün karşısında olanlara göre ise sosyal medya; insanlar arasındaki sosyal ilişkileri zayıflatmakta, insanları birbirine yabancılaştırmakta, kendi içine kapanan, yaşamını bilgisayar başında sürdüren ve çevresini ihmal eden kişilerden oluşan problemli insanların oluşumuna yol açmakta kısaca sosyalleşmesini olumsuz etkilemektedir. !
+komşuluk ilişkilerinde, okulda bir dizi rol modelleri sunduğundan sosyalleştirici etkileri inkâr edilemez büyüklüktedir.
+Örneğin çocuk izlediği çizgi filmler, reklamlar aracılığı ile kiminle nasıl konuşması gerektiğini, toplumda basit düzeydeki davranış biçimlerini, (merhabalaşma, diş fırçalama, kişisel bakım temizliği gibi), arkadaşlık ilişkilerini, değerleri, doğru-yanlış, iyi-kötü kavramlarını vs. öğrenerek dış dünya üzerine bilgilenmektedir.
+Kitle iletişim araçlarının çocuğun sosyalleşmesindeki katkısının her zaman olumlu yönde olabildiği söylenemez.
+Bazen dinî, ahlaki ve kültürel konularda birey kitle iletişim araçlarından öğrendikleri ile ailesinden öğrendikleri arasında çatışma yaşayabilmekte, çocuk zihinsel ve duygusal gelişimini olumsuz etkileyecek şiddet, kin, suç, işkence ve nefret ifadelerini de öğrenebilmektedir.
+Bir amacı gerçekleştirmek ve karşılıklı etkileşimi geliştirmek için bir araya gelen, aidiyet ve biz duygusuyla kültürel hayata etki eden sivil toplum kuruluşları da sosyalleşmede rol oynamaktadır.
+Sivil toplum kuruluşlarına üyelik sayesinde oluşan mensubiyet duygusu bireylerde belirli bir grup kültürünü paylaşma, ortak hareket etme, diğer grup üyelerinin düşünce ve fikirlerine saygı gösterme gibi özellikleri geliştirmektedir.
+Sorunlara karşı duyarlı, birçok özgün düşünceleri olan bireylerin sivil toplum kuruluşları sayesinde fikirlerini değerlendirme fırsatı bulabilmeleri sosyal hayattaki yerleri için önemli bir unsurdur.
+Yukarıda sayılan faktörlerin yanı sıra günümüzde yeni satış ve pazarlama tekniklerinin gelişmesi, ülkeler arası seyahatlerin kolaylaşması, insanların tatil kavramlarının çeşitlenmesi, farklı alanlarda fuar organizasyonlarının yapılması, festivallerin yaygınlaşması, konferans, sempozyum gibi aktiviteler ile toplumların birbirleriyle işbirliği içerisine girmeleri sosyalleşme sürecine önemli katkılar yapmaktadır.
+Görsel 2.3.
+Kiraz festivali 2.
+Ünite Birey ve Toplum 39 Sosyalleşme hayat boyu devam eden bir süreçtir.
+İnsanlar gelişim dönemlerine göre belirli davranışlar gösterirler ve bireyler yaşamın bu evrelerine uyum sağlamak durumundadırlar.
+Sosyalleşme sürecinin birbirini takip eden dört döneminden söz edilebilir.
+Bunlar çocukluk, gençlik, yetişkinlik ve yaşlılık dönemleridir.
+Çocukluk, sosyalleşmenin en yoğun olduğu dönem olması ve etkisini ömür boyu sürdürmesi bakımından diğer dönemlerden ayrılır.
+Bu dönemde bireyler temel davranış kalıplarını ve toplumsal rollerini model alma yoluyla öğrenmeye başlarlar.
+Bireyin ilerde mutlu ve başarılı olabilmesinde, çocukluk döneminde ona uygun fiziksel ve sosyal çevrenin sunulmasının, geniş eğitim olanaklarından yararlandırılmasının, zengin uyarıcılar içerisinde büyümesinin önemli katkıları vardır.
+Sosyalleşme açısından en önemli dönem gençlik dönemidir.
+15-24 yaş arasını kapsayan bu dönem insanın hayat sürecinde çocukluktan çıkıp yetişkinliğe hazırlandığı önemli bir aşamayı içerir.
+Bağımsız karar almanın, birey olmanın ve kimlik kazanmanın söz konusu olduğu bu dönem hassas bir süreçtir.
+Bu dönemdeki sosyalleşme sürecinde gençler bir yandan toplumun belirlemiş olduğu sınırlar içerisinde hareket ederken, diğer yandan da rol karmaşası yaşar ve geleceğini belirleyecek kararlar alma durumuyla karşı karşıya kalır.
+Bu dönemin sağlıklı atlatılabilmesi için aile ve eğitim kurumunun genç bireye olumlu davranış ve kişilik modelleri sunması, her iki kurumca verilen kültür kodlarının uyum içinde olması ve birbirleriyle çatışmaması gerekmektedir.
+Bedensel, ruhsal ve sosyal bakımdan sağlıklı yetişen gençlik, sağlıklı toplum demektir.
+Yetişkinlik dönemi, bireylerin gençlik döneminde aldıkları kararların bir kısmını hayata geçirip hedeflerini gerçekleştirdikleri, bir kısmını da terk ettikleri bir dönemdir.
+Sosyalleşme sürecinin en uzun dilimidir.
+Yetişkinlerin sosyalleşmesi yeni sosyal ilişkiler, sosyal konumlar ve meslekler aracılığı ile gerçekleşir.
+İş hayatı, evlilik ve ailenin sorumluluğunu üstlenme, giderek yaşlanan anne babaya bakmak, çocukların evlenmesiyle onların yaşamında olan değişimlere ayak uydurmak bu dönemdeki sosyalleşmenin en etkili olduğu alanlardır.
+2.2.
+SOSYALLEŞMENİN AŞAMALARI ?
+Başka bir ailede doğsaydınız yine aynı kişilik ve kimlikte, aynı değerlere sahip olur muydunuz?
+Kendi ailenizle olup, bu seferde yaşadığınız ortamın, arkadaş çevrenizin değiştiğini düşünün.
+Yine aynı kişi mi olurdunuz?
+Görsel 2.4.
+İş ortamları yetişkinlere yeni tecrübeler kazanma ve farklı insanlarla tanışma fırsatı sağlar.
+Sosyoloji 1 40 Yaşlılık, yetişkinlik dönemine kıyasla sosyal ilişkiler açısından daha yoksuldur.
+Mesleki işlevselliğin azalması, toplum yaşamının dışına itilmişlik duygusu ile birlikte emekliliğe alışma bu dönemin önemli sosyalleşme konularındandır.
+Uzun süren bir çalışma hayatının noktalanmasından sonra yaşlıların, hem meslek hayatlarından hem de sosyal ve kültürel çevrelerinden uzaklaşma sürecine girmeleri sosyal uyumlarını zayıflatmaktadır.
+Sosyalleşmenin temel amacı bireyin içerisinde yaşadığı toplumun benimsemiş olduğu kültür ve değerleri önce özümseyip sonra da gelecek nesle aktararak toplumun sürekliliğini sağlamaktır.
+Bireyin kişilik kazanımı ve toplumun sürekliliğini sağlama gibi çok önemli bir işlevi yerine getiren sosyalleşme olgusunun hangi değerler çerçevesinde ve nasıl bir yolla gerçekleştiği önemlidir.
+Bireyin yaşamı boyunca içinde bulunduğu çevre ve kültürel ortamda kurduğu toplumsal ilişkiler sonucu oluşan davranış biçimleri sosyalleşme sürecinden izler taşır.
+Bu nedenle sosyalleşmeyi sağlayan kurumların, bireylerin sağlıklı sosyalleşebilmeleri için görevlerini başarılı bir biçimde yerine getirmeleri ve bunun için de sağlıklı bir yapıya sahip olmaları gerekmektedir.
+2.3.
+SOSYALLEŞME VE TOPLUMSAL İLİŞKİLER Görsel 2.5.
+Bireylerin asosyal olmamaları için kendileri dışında olan herkesle sağlıklı toplumsal ilişkiler kurabilmeleri gerekir. ?
+Evde, okulda, sokakta, davranışlarınızda nelere dikkat edersiniz?
+Hiç el âlem ne der diye bir kaygınız oldu mu?
+Sosyalleşmenin insan ilişkilerini anlamlı kılmada önemi sizce nedir?
+Toplumsal ilişki, iki ya da daha fazla insan arasında belli bir zaman sürecinde ve bir amaca yönelik olarak kurulan bağdır.
+İnsanların birbirlerine olan ihtiyacı toplumsal ilişkilerin oluşmasını sağlar.
+Ev, okul, otobüs, alışveriş gibi farklı ortamlarda gerçekleşen toplumsal ilişkilerimiz yaşantımızı şekillendirir.
+Toplumsal ilişkiler; kişisel, kültürel, ekonomik ya da siyasal nitelikte olabilir.
+Akrabalık, arkadaşlık ilişkileri; amir-memur ilişkileri; aile ilişkileri; bir derneğe üye olmak gibi.
+İnsan ilişkilerinde sosyalleşmenin önemi: Sosyalleşme, bireyler arasındaki ilişkileri artırır, uyuşmazlıkları azaltır.
+Birbirinden farklı birçok arzu ve fikrin bir ortak noktada toplanmasını, toplum bütünlüğü içinde görünmesini, kaynaşmasını sağlar. !
+2.
+Ünite Birey ve Toplum 41 Birey diğer bireylerle gireceği iletişimleri, davranış modellerini adalet, tarafsızlık, iş bölümü, düşünce ve kanaatlere saygı, tartışma, katılma gibi demokratik değerleri ilk olarak aile içerisinde öğrenir.
+Aile içinde iletişim zayıfsa ve aile üyeleri bireye toplumun benimsediği değerleri aktarmada problem yaşıyorsa bireyin sosyal ilişkileri bundan olumsuz yönde etkilenecektir.
+Okul çağında çocuğun akran veya oyun gruplarından birine katılması hem ihtiyaç hem de sosyalleşmesi için bir zorunluluktur.
+Okulda öğrenilen disiplin ve kurallara uyma davranışı bireyin çalıştığı işyeri, dernek, kurum veya herhangi bir kuruluşun içinde göstereceği disiplin anlayışının temelini oluşturur.
+Çocukken oyunu kuralarına göre oynayan, arkadaşlarının haklarına saygı gösteren birey, büyüdüğünde toplum kurallarına uyan sosyal bir insan olur.
+Özellikle çocukluk ve gençlik dönemlerinde insani değerler (sevgi, saygı, hoşgörü, adalet, eşitlik, özgürlük), ahlaki değerler (hırsızlık yapmamak, şefkat ve merhamet etmek, güvenilirlik, çalışkan olmak), millî değerlerle (bayrak, dil, din, vatan, örf-âdet) yetiştirilen bireyler insanlarla daha sağlıklı bir iletişim kurarlar.
+Birey ile toplumun kural ve değerleriyle karşılaştığında kurulan ilişki biçimi, onun daha sonraki toplumsal ilişkilerinde etkin rol oynar.
+Örneğin, trafik kurallarına sadece polisin veya kameranın olduğu yerlerde uyan bir baba çocuğuna şu örtülü mesajı vermektedir: “Ceza almamak için kurallara uyulur.” Bu örtülü mesaj çocuğun sonraki kurallara uyma davranışını şekillendirir.
+Kendi ve karşısındakilerin can güvenliği için değil de ceza yememek için kurallara uyma davranışı, bireyin daha sonra karşılaştığı farklı olay ve durumlara karşı olan tepkisini de etkiler.
+Her gelişim döneminde sağlıklı bir sosyalleşme geçiren insanın toplumsal ilişkileri de sağlıklı olur.
+Dağlık bir bölgede adam küçük oğluyla yürürken oğlan ayağını taşa çarpar ve acısıyla, “Ahhh!” diye bağırır.
+Dağdan, “Ahhh!” diye ses gelir ve bu sesi duyan çocuk hayret eder.
+Merakla “Sen kimsin?” diye bağırır ama aldığı yanıt “Sen kimsin?” olur.
+Çocuk bu yanıta kızar ve “Sen bir korkaksın!” diye bağırır.
+Dağdan aldığı yanıt “Sen bir korkaksın!” olur.
+Babasına bakar ve “ Baba ne oluyor?” diye sorar.
+“Oğlum dikkat et!” diyen baba, vadiye doğru, “Sana hayranım!” diye bağırır.
+Ses, “Sana hayranım!” diye cevap verir.
+Baba, “Sen harikasın!” diye bağırdığında, “Sen harikasın!” diye cevap gelir.
+Çocuk şaşırmıştır ama hâlâ ne olduğunu pek anlayamamıştır.
+Baba oğluna durumu açıklar.
+“Oğlum, insanlar buna yankı derler ama gerçekte yaşamın kendisidir.
+Yaşama ne verirsen onu yansıtır sana.
+Yaşam senin davranışının bir aynasıdır.
+Eğer yaşamında çok sevgi istiyorsan insanları daha çok sev.
+Eğer sana saygılı davranılmasını istiyorsan insanlara saygılı davran.
+Eğer başkaları tarafından anlaşılmak istiyorsan önce başkalarını anlamaya gayret göster.
+Eğer insanların sana saygılı ve sabırlı davranmasını istiyorsan önce sen insanlara sabırlı davranmalısın.
+Oğlum, yaşamda ne ekersen onu biçersin.
+Bu doğa yasası yaşamın her yönü için geçerlidir.
+(Enfes Öyküler, Turgay Yalanız s.43.)
+Sosyoloji 1 42 Önceki sayfada yer alan metinden hareketle toplumsal ilişkilerde dikkat edilmesi gereken hususların neler olması gerektiği hakkında düşüncelerinizi aşağıdaki boşluğa yazınız.
+………………………………………………………………………………………… …………………………………………………………………………………………… ….………………………………………………………………………………………… ….………………………………………………………………………………………… ….………………………………………………………………………………………… ….………………………………………………………………………………………… ….………………………………………………………………………………………… ….………………………………………………………………………………………… Gündelik yaşam bir tiyatro oyununa benzer.
+Tiyatro oyununda olduğu gibi toplumda da bireylerin işgal ettiği bir yer vardır ve bu yere bağlı olarak birtakım davranışları yerine getirmeleri beklenir.
+Toplumsal Statü Bireyin toplumdaki yerini, konumunu, mevkiini belirtmek için kullanılan bir kavramdır.
+Öğrenci, marangoz, milletvekili, yaşlı, genç, kadın gibi.
+Bu yeri belirleyen bizzat toplumun kendisidir.
+Toplum, karmaşık sosyal ilişkiler üzerine kurulu olduğu için birey aynı anda birden fazla statüye sahip olabilir.
+Bir erkeğin baba, eş, amca, dayı, kuzen, kardeş, memur vb.
+statülere sahip olması gibi.
+Statüler bireylere birtakım haklar sağlar ve sorumluluklar yükler.
+Statü aynı zamanda kişilerin kategorilerini de belirlemektedir.
+Örneğin öğretmenlik statüsü eğitimi, avukatlık adaleti, öğretim üyeliği bilimi, polislik emniyeti çağrıştırır.
+Statüler iyi, önemli, işlevsel, kötü, düşük, yüksek, değerli, değersiz gibi nitelenmektedir.
+Bu nitelikler statülerin saygınlığının göstergesidir.
+Toplumsal Statülerin Belirleyicileri Bireylerin statülerinin dayandığı kaynaklar servet, soy, cinsiyet, yaş, gelir seviyesi, 2.4.
+TOPLUMSAL STATÜ, ROL VE SAYGINLIK (PRESTİJ) ?
+Bir avukatın savunma yapması, bir doktorun hasta muayene etmesi, ailelerin çocuklarının temel ihtiyaçlarını karşılaması, bir görev midir yoksa işgal ettikleri konumlarına bağlı bir zorunluluk mudur?
+2.
+Ünite Birey ve Toplum 43 dinî inanç, eğitim düzeyi, bireysel yetenek, sahip olunan iş ve işin önemi, medeni durum vs. olabilir.
+Statülerin belirlenmesinde önemli bir etken olan bu özelliklerin bazılarında değişiklik yapmak oldukça güçtür, bazılarında ise imkânsızdır.
+Toplumsal Statülerin Özellikleri  - Bazı statüler doğuştan vardır, bazıları sonradan kazanılır.
+- Aynı anda birden çok statüye sahip olunabilir.
+- Bireylerin sahip oldukları statülerin sayısı zamanla artar.
+- Her statü kendisine özgü bazı kurallara bağlıdır.
+- Statüler arasında karşılıklı ilişki vardır.
+- Statüler toplumdan topluma değişebilir.
+Toplumsal Statü Türleri 1.
+Verilmiş Statüler: Bireyin herhangi bir çabası olmadan doğuştan sahip olduğu, seçme şansının bulunmadığı statülerdir.
+Bireyin cinsiyeti, yaşı, ailesi, soyu, rengi, akrabalık ilişkileri vs. kendi elinde değildir.
+Yaşlı, genç, erkek, kadın, Laz, Çerkez veya Türk olmak gibi.
+Bu statüler bir emek sonucu elde edilmiş statüler değildirler.
+Doğuştan gelen statülerin hangisinin daha önemli olduğu toplumdan topluma, kültürden kültüre farklılık göstermektedir.
+2.
+Kazanılmış Statüler: Bireyin çabası sonucu elde ettiği sonradan kazanılan statülerdir.
+Üniversite öğrenciliği, öğretmenlik, hekimlik, arkadaşlık vs. kazanılmış olan sosyal statülerdir.
+Özellikle gelişmiş ülkelerde doğuştan elde edilen statü giderek önemini kaybetmekte kazanılan statü daha önemli hâle gelmektedir.
+Bu statüler demokratik toplumlarda bireylerin yetenekleri, eğitimleri yoluyla kolay değişir.
+Kişinin sahip olduğu statüler içerisinde toplumsal hayatta öne çıkan, baskın olan statüsüne anahtar statü denir.
+Anahtar statünün belirlenmesinde toplumun değerleri etkilidir.
+Ekonomik değerlerin ön planda olduğu toplumlarda bireylerin meslekleri genellikle anahtar statüdür.
+Çocuğu olan bir kadının anahtar statüsü anneliktir fakat bu kadın aynı zamanda başarılı bir iş kadını ise bu kez anahtar statüsü mesleği olacaktır.

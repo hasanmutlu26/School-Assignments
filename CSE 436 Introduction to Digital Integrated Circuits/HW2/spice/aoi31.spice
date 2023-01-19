@@ -1,0 +1,42 @@
+* SPICE3 file created from /mnt/c/Users/Lenovo/Desktop/mag/aoi31.ext - technology: scmos
+
+.option scale=0.12u
+
+M1000 a_7_32# A a_0_32# Vdd pfet w=4 l=2
++  ad=24 pd=20 as=20 ps=18
+M1001 a_15_32# B a_7_32# Vdd pfet w=4 l=2
++  ad=24 pd=20 as=0 ps=0
+M1002 a_7_8# A gnd Gnd nfet w=4 l=2
++  ad=24 pd=20 as=40 ps=36
+M1003 Y C a_15_8# Gnd nfet w=4 l=2
++  ad=24 pd=20 as=24 ps=20
+M1004 a_23_32# C a_15_32# Vdd pfet w=4 l=2
++  ad=24 pd=20 as=0 ps=0
+M1005 a_31_32# D a_23_32# Vdd pfet w=4 l=2
++  ad=20 pd=18 as=0 ps=0
+M1006 gnd D Y Gnd nfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+M1007 a_15_8# B a_7_8# Gnd nfet w=4 l=2
++  ad=0 pd=0 as=0 ps=0
+C0 m1_8_24# B 0.02fF
+C1 Y D 0.02fF
+C2 m1_8_24# a_7_32# 0.02fF
+C3 Y a_31_32# 0.02fF
+C4 vdd m1_8_24# 0.23fF
+C5 m1_8_24# a_23_32# 0.02fF
+C6 m1_8_24# C 0.02fF
+C7 m1_8_24# Y 0.18fF
+C8 B A 0.11fF
+C9 B C 0.11fF
+C10 vdd a_15_32# 0.02fF
+C11 Y gnd 0.14fF
+C12 vdd a_0_32# 0.02fF
+C13 D C 0.11fF
+C14 m1_8_24# Gnd 0.15fF **FLOATING
+C15 vdd Gnd 0.18fF **FLOATING
+C16 Y Gnd 0.17fF
+C17 gnd Gnd 0.29fF
+C18 D Gnd 0.29fF
+C19 C Gnd 0.29fF
+C20 B Gnd 0.29fF
+C21 A Gnd 0.29fF

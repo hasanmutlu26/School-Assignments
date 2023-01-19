@@ -1,0 +1,193 @@
+* SPICE3 file created from fulladder.ext - technology: scmos
+
+.option scale=0.12u
+
+M1000 inv_0/A aoi22_0/C aoi22_0/a_n8_96# inv_0/w_n6_98# pfet w=8 l=2
++  ad=48 pd=28 as=128 ps=80
+M1001 inv_0/A B aoi22_0/a_n1_8# Gnd nfet w=8 l=2
++  ad=48 pd=28 as=48 ps=28
+M1002 gnd C aoi22_0/a_15_8# Gnd nfet w=8 l=2
++  ad=520 pd=338 as=48 ps=28
+M1003 aoi22_0/a_n1_8# A gnd Gnd nfet w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1004 aoi22_0/a_n8_96# C inv_0/A inv_0/w_n6_98# pfet w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1005 vdd A aoi22_0/a_n8_96# inv_0/w_n6_98# pfet w=8 l=2
++  ad=424 pd=266 as=0 ps=0
+M1006 aoi22_0/a_n8_96# B vdd inv_0/w_n6_98# pfet w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1007 aoi22_0/a_15_8# aoi22_0/C inv_0/A Gnd nfet w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1008 xor3_0/xor2_0/inv_2/A B xor3_0/xor2_0/aoi22_0/a_n8_96# xor3_0/w_128_98# pfet w=8 l=2
++  ad=48 pd=28 as=128 ps=80
+M1009 xor3_0/xor2_0/inv_2/A xor3_0/xor2_0/inv_1/Z xor3_0/xor2_0/aoi22_0/a_n1_8# Gnd nfet w=8 l=2
++  ad=48 pd=28 as=48 ps=28
+M1010 gnd xor3_0/xor2_0/inv_0/Z xor3_0/xor2_0/aoi22_0/a_15_8# Gnd nfet w=8 l=2
++  ad=0 pd=0 as=48 ps=28
+M1011 xor3_0/xor2_0/aoi22_0/a_n1_8# A gnd Gnd nfet w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1012 xor3_0/xor2_0/aoi22_0/a_n8_96# xor3_0/xor2_0/inv_0/Z xor3_0/xor2_0/inv_2/A xor3_0/w_128_98# pfet w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1013 vdd A xor3_0/xor2_0/aoi22_0/a_n8_96# xor3_0/w_128_98# pfet w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1014 xor3_0/xor2_0/aoi22_0/a_n8_96# xor3_0/xor2_0/inv_1/Z vdd xor3_0/w_128_98# pfet w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1015 xor3_0/xor2_0/aoi22_0/a_15_8# B xor3_0/xor2_0/inv_2/A Gnd nfet w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1016 xor3_0/xor2_0/inv_0/Z A gnd Gnd nfet w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1017 xor3_0/xor2_0/inv_0/Z A vdd xor3_0/w_128_98# pfet w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1018 xor3_0/xor2_0/inv_1/Z B gnd Gnd nfet w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1019 xor3_0/xor2_0/inv_1/Z B vdd xor3_0/w_128_98# pfet w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1020 aoi22_0/C xor3_0/xor2_0/inv_2/A gnd Gnd nfet w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1021 aoi22_0/C xor3_0/xor2_0/inv_2/A vdd xor3_0/w_128_98# pfet w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1022 xor3_0/xor2_1/inv_2/A C xor3_0/xor2_1/aoi22_0/a_n8_96# xor3_0/w_128_98# pfet w=8 l=2
++  ad=48 pd=28 as=128 ps=80
+M1023 xor3_0/xor2_1/inv_2/A xor3_0/xor2_1/inv_1/Z xor3_0/xor2_1/aoi22_0/a_n1_8# Gnd nfet w=8 l=2
++  ad=48 pd=28 as=48 ps=28
+M1024 gnd xor3_0/xor2_1/inv_0/Z xor3_0/xor2_1/aoi22_0/a_15_8# Gnd nfet w=8 l=2
++  ad=0 pd=0 as=48 ps=28
+M1025 xor3_0/xor2_1/aoi22_0/a_n1_8# aoi22_0/C gnd Gnd nfet w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1026 xor3_0/xor2_1/aoi22_0/a_n8_96# xor3_0/xor2_1/inv_0/Z xor3_0/xor2_1/inv_2/A xor3_0/w_128_98# pfet w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1027 vdd aoi22_0/C xor3_0/xor2_1/aoi22_0/a_n8_96# xor3_0/w_128_98# pfet w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1028 xor3_0/xor2_1/aoi22_0/a_n8_96# xor3_0/xor2_1/inv_1/Z vdd xor3_0/w_128_98# pfet w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1029 xor3_0/xor2_1/aoi22_0/a_15_8# C xor3_0/xor2_1/inv_2/A Gnd nfet w=8 l=2
++  ad=0 pd=0 as=0 ps=0
+M1030 xor3_0/xor2_1/inv_0/Z aoi22_0/C gnd Gnd nfet w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1031 xor3_0/xor2_1/inv_0/Z aoi22_0/C vdd xor3_0/w_128_98# pfet w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1032 xor3_0/xor2_1/inv_1/Z C gnd Gnd nfet w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1033 xor3_0/xor2_1/inv_1/Z C vdd xor3_0/w_128_98# pfet w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1034 sum xor3_0/xor2_1/inv_2/A gnd Gnd nfet w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1035 sum xor3_0/xor2_1/inv_2/A vdd xor3_0/w_128_98# pfet w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1036 cout inv_0/A gnd Gnd nfet w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+M1037 cout inv_0/A vdd inv_0/w_n6_98# pfet w=8 l=2
++  ad=40 pd=26 as=0 ps=0
+C0 xor3_0/xor2_1/inv_2/A B 0.03fF
+C1 xor3_0/xor2_1/inv_0/Z xor3_0/xor2_1/inv_1/Z 0.14fF
+C2 sum aoi22_0/C 0.02fF
+C3 xor3_0/xor2_0/inv_0/Z xor3_0/xor2_0/inv_2/A 0.09fF
+C4 sum xor3_0/w_128_98# 0.05fF
+C5 cout inv_0/w_n6_98# 0.05fF
+C6 xor3_0/xor2_1/inv_0/Z B 0.02fF
+C7 cout gnd 0.14fF
+C8 xor3_0/xor2_0/aoi22_0/a_n8_96# vdd 0.55fF
+C9 aoi22_0/C A 0.27fF
+C10 C aoi22_0/C 1.22fF
+C11 aoi22_0/C inv_0/w_n6_98# 0.10fF
+C12 xor3_0/xor2_1/aoi22_0/a_n8_96# aoi22_0/C 0.02fF
+C13 xor3_0/xor2_0/inv_1/Z xor3_0/w_128_98# 0.16fF
+C14 xor3_0/xor2_0/inv_0/Z B 1.45fF
+C15 xor3_0/w_128_98# A 0.21fF
+C16 xor3_0/w_128_98# C 0.21fF
+C17 aoi22_0/C gnd 0.14fF
+C18 xor3_0/w_128_98# xor3_0/xor2_1/aoi22_0/a_n8_96# 0.22fF
+C19 A aoi22_0/a_n8_96# 0.02fF
+C20 inv_0/w_n6_98# aoi22_0/a_n8_96# 0.22fF
+C21 aoi22_0/C xor3_0/xor2_1/inv_2/A 0.02fF
+C22 cout vdd 0.14fF
+C23 cout inv_0/A 0.03fF
+C24 xor3_0/w_128_98# xor3_0/xor2_1/inv_2/A 0.15fF
+C25 sum A 0.08fF
+C26 sum C 0.05fF
+C27 xor3_0/xor2_0/inv_2/A B 0.05fF
+C28 B xor3_0/xor2_1/inv_1/Z 0.03fF
+C29 vdd aoi22_0/C 0.14fF
+C30 sum gnd 0.14fF
+C31 aoi22_0/C inv_0/A 0.02fF
+C32 sum xor3_0/xor2_1/inv_2/A 0.03fF
+C33 xor3_0/xor2_0/aoi22_0/a_n8_96# xor3_0/xor2_0/inv_2/A 0.32fF
+C34 xor3_0/w_128_98# vdd 0.75fF
+C35 xor3_0/xor2_1/inv_0/Z aoi22_0/C 0.10fF
+C36 xor3_0/xor2_0/inv_1/Z A 0.70fF
+C37 xor3_0/xor2_0/inv_1/Z C 0.05fF
+C38 vdd aoi22_0/a_n8_96# 0.55fF
+C39 C A 0.05fF
+C40 xor3_0/xor2_1/inv_0/Z xor3_0/w_128_98# 0.16fF
+C41 aoi22_0/a_n8_96# inv_0/A 0.32fF
+C42 A inv_0/w_n6_98# 0.10fF
+C43 C inv_0/w_n6_98# 0.10fF
+C44 xor3_0/xor2_0/inv_1/Z gnd 0.14fF
+C45 sum vdd 0.14fF
+C46 sum inv_0/A 0.11fF
+C47 A xor3_0/xor2_1/inv_2/A 0.02fF
+C48 C xor3_0/xor2_1/inv_2/A 0.04fF
+C49 xor3_0/w_128_98# xor3_0/xor2_0/inv_0/Z 0.16fF
+C50 xor3_0/xor2_1/aoi22_0/a_n8_96# xor3_0/xor2_1/inv_2/A 0.32fF
+C51 xor3_0/xor2_1/inv_2/A gnd 0.09fF
+C52 xor3_0/xor2_0/inv_2/A aoi22_0/C 0.03fF
+C53 xor3_0/xor2_0/inv_1/Z vdd 0.14fF
+C54 aoi22_0/C xor3_0/xor2_1/inv_1/Z 0.69fF
+C55 xor3_0/w_128_98# xor3_0/xor2_0/inv_2/A 0.15fF
+C56 vdd inv_0/w_n6_98# 0.14fF
+C57 C inv_0/A 0.09fF
+C58 xor3_0/xor2_1/aoi22_0/a_n8_96# vdd 0.55fF
+C59 inv_0/w_n6_98# inv_0/A 0.15fF
+C60 xor3_0/xor2_1/inv_0/Z A 0.02fF
+C61 xor3_0/xor2_1/inv_0/Z C 1.45fF
+C62 xor3_0/w_128_98# xor3_0/xor2_1/inv_1/Z 0.16fF
+C63 inv_0/A gnd 0.09fF
+C64 xor3_0/xor2_1/inv_0/Z gnd 0.14fF
+C65 xor3_0/xor2_0/inv_1/Z xor3_0/xor2_0/inv_0/Z 0.14fF
+C66 xor3_0/xor2_0/inv_0/Z A 0.11fF
+C67 aoi22_0/C B 2.75fF
+C68 xor3_0/xor2_0/inv_0/Z C 0.49fF
+C69 xor3_0/xor2_1/inv_0/Z xor3_0/xor2_1/inv_2/A 0.09fF
+C70 xor3_0/w_128_98# B 0.21fF
+C71 xor3_0/xor2_0/inv_0/Z gnd 0.14fF
+C72 B aoi22_0/a_n8_96# 0.02fF
+C73 xor3_0/xor2_1/inv_0/Z vdd 0.14fF
+C74 xor3_0/xor2_0/inv_2/A A 0.02fF
+C75 xor3_0/xor2_0/inv_2/A C 0.05fF
+C76 xor3_0/w_128_98# xor3_0/xor2_0/aoi22_0/a_n8_96# 0.22fF
+C77 sum B 0.06fF
+C78 A xor3_0/xor2_1/inv_1/Z 0.01fF
+C79 C xor3_0/xor2_1/inv_1/Z 0.84fF
+C80 xor3_0/xor2_1/aoi22_0/a_n8_96# xor3_0/xor2_1/inv_1/Z 0.02fF
+C81 xor3_0/xor2_0/inv_2/A gnd 0.09fF
+C82 xor3_0/xor2_0/inv_0/Z vdd 0.14fF
+C83 xor3_0/xor2_1/inv_1/Z gnd 0.14fF
+C84 xor3_0/xor2_0/inv_1/Z B 0.87fF
+C85 A B 0.98fF
+C86 C B 0.07fF
+C87 inv_0/w_n6_98# B 0.10fF
+C88 sum cout 0.10fF
+C89 xor3_0/w_128_98# aoi22_0/C 0.26fF
+C90 vdd xor3_0/xor2_1/inv_1/Z 0.14fF
+C91 xor3_0/xor2_0/inv_1/Z xor3_0/xor2_0/aoi22_0/a_n8_96# 0.02fF
+C92 xor3_0/xor2_0/aoi22_0/a_n8_96# A 0.02fF
+C93 cout Gnd 0.41fF
+C94 inv_0/A Gnd 1.05fF
+C95 aoi22_0/C Gnd 2.90fF
+C96 sum Gnd 0.66fF
+C97 xor3_0/xor2_1/inv_2/A Gnd 1.05fF
+C98 xor3_0/xor2_1/inv_1/Z Gnd 1.06fF
+C99 C Gnd 2.95fF
+C100 xor3_0/xor2_1/inv_0/Z Gnd 1.26fF
+C101 xor3_0/xor2_1/aoi22_0/a_n8_96# Gnd 0.12fF
+C102 A Gnd 2.75fF
+C103 vdd Gnd 1.91fF
+C104 xor3_0/w_128_98# Gnd 4.75fF
+C105 gnd Gnd 2.92fF
+C106 xor3_0/xor2_0/inv_2/A Gnd 1.05fF
+C107 xor3_0/xor2_0/inv_1/Z Gnd 1.06fF
+C108 B Gnd 2.83fF
+C109 xor3_0/xor2_0/inv_0/Z Gnd 1.26fF
+C110 xor3_0/xor2_0/aoi22_0/a_n8_96# Gnd 0.12fF
+C111 aoi22_0/a_n8_96# Gnd 0.12fF
+C112 inv_0/w_n6_98# Gnd 1.29fF
