@@ -1,0 +1,22 @@
+[Fri May 19 13:23:47 2023] SERVER: Directory fileDir is opened.
+[Fri May 19 13:24:04 2023] SERVER: Waiting for clients.
+[Fri May 19 13:24:04 2023] SERVER: Client PID4830 is on queue.
+[Fri May 19 13:24:04 2023] WORKER4831: Serving Client1 with PID4830
+[Fri May 19 13:24:05 2023] WORKER4831: Client1 requested: list
+[Fri May 19 13:24:05 2023] WORKER4831: Client1 request is handled.
+[Fri May 19 13:24:11 2023] SERVER: Client PID4842 tried connect but queue is full.
+[Fri May 19 13:24:14 2023] SERVER: Client PID4843 is on queue.
+[Fri May 19 13:24:19 2023] WORKER4831: Client1 requested: quit
+[Fri May 19 13:24:19 2023] WORKER4831: Client1 is quiting.
+[Fri May 19 13:24:19 2023] WORKER4831: Client1 exited. Terminating..
+[Fri May 19 13:24:19 2023] WORKER4844: Serving Client2 with PID4843
+[Fri May 19 13:24:22 2023] WORKER4844: Client2 requested: help
+[Fri May 19 13:24:22 2023] WORKER4844: Client2 request is handled.
+[Fri May 19 13:24:23 2023] WORKER4844: Client2 requested: quit
+[Fri May 19 13:24:23 2023] WORKER4844: Client2 is quiting.
+[Fri May 19 13:24:23 2023] WORKER4844: Client2 exited. Terminating..
+[Fri May 19 13:24:26 2023] SERVER: Client PID4845 is on queue.
+[Fri May 19 13:24:26 2023] WORKER4846: Serving Client3 with PID4845
+[Fri May 19 13:24:57 2023] SERVER: Client PID4879 is on queue.
+[Fri May 19 13:25:07 2023] WORKER4846: SIGINT received. SIGINT sent to client3
+[Fri May 19 13:25:07 2023] SERVER: SIGINT sent to client PID4879 on queue.

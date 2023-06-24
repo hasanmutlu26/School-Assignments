@@ -1,0 +1,57 @@
+|DE0_CV
+CLOCK_50 => CLOCK_50.IN1
+KEY[0] => min3.DATAIN
+KEY[1] => min2.DATAIN
+KEY[2] => min1.DATAIN
+KEY[3] => comb.DATAIN
+KEY[3] => comb.DATAIN
+RESET_N => ~NO_FANOUT~
+LEDR[0] <= comb.DB_MAX_OUTPUT_PORT_TYPE
+LEDR[1] <= comb.DB_MAX_OUTPUT_PORT_TYPE
+LEDR[2] <= comb.DB_MAX_OUTPUT_PORT_TYPE
+LEDR[3] <= <GND>
+LEDR[4] <= <GND>
+LEDR[5] <= comb.DB_MAX_OUTPUT_PORT_TYPE
+LEDR[6] <= <GND>
+LEDR[7] <= comb.DB_MAX_OUTPUT_PORT_TYPE
+LEDR[8] <= comb.DB_MAX_OUTPUT_PORT_TYPE
+LEDR[9] <= comb.DB_MAX_OUTPUT_PORT_TYPE
+SW[0] => comb.DATAIN
+SW[1] => comb.DATAIN
+SW[2] => comb.DATAIN
+SW[3] => comb.DATAIN
+SW[4] => comb.DATAIN
+SW[5] => comb.DATAIN
+SW[6] => comb.DATAIN
+SW[7] => comb.DATAIN
+SW[8] => comb.DATAIN
+SW[9] => comb.DATAIN
+
+
+|DE0_CV|registers:regs
+R[0] <= R[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+R[1] <= R[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+R[2] <= R[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+N[0] => R[0]~reg0.DATAIN
+N[1] => R[1]~reg0.DATAIN
+N[2] => R[2]~reg0.DATAIN
+clk => R[0]~reg0.CLK
+clk => R[1]~reg0.CLK
+clk => R[2]~reg0.CLK
+
+
+|DE0_CV|danger:danger
+dang <= WideAnd0.DB_MAX_OUTPUT_PORT_TYPE
+v[0] => LessThan0.IN16
+v[1] => LessThan0.IN15
+v[2] => LessThan0.IN14
+v[3] => LessThan0.IN13
+v[4] => LessThan0.IN12
+v[5] => LessThan0.IN11
+v[6] => LessThan0.IN10
+v[7] => LessThan0.IN9
+b => WideAnd0.IN1
+r => WideAnd0.IN2
+w => WideAnd0.IN3
+
+

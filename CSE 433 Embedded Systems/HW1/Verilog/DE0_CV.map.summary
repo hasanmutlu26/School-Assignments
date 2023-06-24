@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Wed Jun  7 13:10:51 2023
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : DE0_CV
+Top-level Entity Name : DE0_CV
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 3
+Total pins : 26
+Total virtual pins : 0
+Total block memory bits : 0
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0
