@@ -280,8 +280,8 @@ void dftmatrix(int id){
             double bk = 0.0;
             for(int k = 0; k < size; k++){
                 for(int l = 0; l < size; l++){
-                    double x = -2.0*PI*(double)j*(double)k/(double)size;
-                    double y = -2.0*PI*(double)i*(double)l/(double)size;
+                    double x = -2.0*M_PI*(double)j*(double)k/(double)size;
+                    double y = -2.0*M_PI*(double)i*(double)l/(double)size;
                     ak += (double)matrixC[k*size + l]*cos(x+y);
                     bk += (double)matrixC[k*size + l]*1.0*sin(x+y);
                 }
